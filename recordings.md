@@ -1,5 +1,41 @@
-_Take Back the Earth_ (Thanksgiving Day, circa 1980)
-https://archive.org/details/trudell-1980-thanksgiving  
+John Trudell and Bad Dog (2013-09-07) Live at Hempstalk
+https://archive.org/details/John-Trudell-Hempstalk-2013
+
+"What It Means To Be A Human Being" (2001-03-15)
+John Trudell on Time of Useful Consciousness with Maria Gilardin
+
+* https://ratical.org/many_worlds/JohnTrudell/HumanBeing.html
+* http://www.radio4all.net/index.php/program/78152
+* http://www.radio4all.net/index.php/program/78267
+
+> This transcript was created from the broadcast quality audio
+> recording program featuring John Trudell produced by Maria Gilardin
+> for her weekly radio program, Time Of Useful Consciousness.
+
+"Liberation" (1980) Black Hills Survival Gathering
+https://www.youtube.com/watch?v=F0ZJQc9476E
+
+> John Trudell spoke at the Black Hills Survival Gathering in 1980,
+> participated in the massive protests and civil disobedience against
+> the as-yet-uncommissioned Diablo Canyon nuclear power plant in 1981,
+> and was involved in environmental causes to numerous to mention,
+> from the movement to legalize industrial hemp to efforts to protect
+> Yellowstone's bison. His writing, an outlet to which he turned in
+> the wake of his family's deaths, brought awareness to global
+> audiences who might not have been receptive to political polemic.
+
+"Take Back the Earth" (Thanksgiving Day, circa 1980)
+https://archive.org/details/trudell-1980-thanksgiving
+
+> We're faced with a very serious situation in this generation. There
+> are insane people who wish to rule the world. They wish to continue
+> to rule the world on violence and repression and we are all the
+> victims of that violence and repression. We as the indigenous people
+> of the Western Hemisphere have been resisting this violence in this
+> oppression for 500 years. We know that the black people have been
+> resisting it for at least that long, and we know that the white
+> people have had to endure it thousands of years and now it's come
+> full swing to this generation that we live in.
 
 Radio Free Alcatraz (1969-12-30) _Aircheck Alcatraz_
 Producing Organization: WBAI

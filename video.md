@@ -12,7 +12,18 @@ https://www.youtube.com/channel/UCQYo7hQsKKkHi4f0X-gB1yg
 > continues to push the boundaries of with their modern spin on
 > traditional music.
 
-Trudell (2015) Documentary
+Trudell (2006) PBS Independent Lens
+https://www.pbs.org/independentlens/trudell
+
+> TRUDELL follows the extraordinary life of Native American poet and
+> activist John Trudell, from his impoverished childhood in Omaha to
+> his leadership in the American Indian Movement (AIM) and his
+> reincarnation as an acclaimed musician and spoken word poet. Using
+> decades-old 16 mm and Super 8 film and video footage as a backdrop,
+> filmmaker Heather Rae paints an intimate portrait of a man whose
+> spirit and words have awakened the Native consciousness.
+
+Trudell (2005) Documentary
 https://www.youtube.com/watch?v=Du0jKPFYXxM
 
 > Filmmaker Heather Rae documents the life and work of American Indian
