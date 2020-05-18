@@ -1,15 +1,5 @@
-Voices of Standing Rock (2017)
-https://archive.org/details/podcast_voices-of-standing-rock_1173368814
-
-> Short stories told by water protectors at Standing Rock, ND. "To
-> understand one another brings unity. We need to share our
-> lives. Without fear. Without judgement. And that will create unity
-> that will be unbreakable." - Duane His Chase. That is our mission.
-
-The Heartbeat of Wounded Knee
+The Heartbeat of Wounded Knee (2019) by David Treuer
 _Native America From 1890 to the Present_
-by David Treuer
-2019-03-28
 https://www.google.com/books/edition/_/oG-DDwAAQBAJ?hl=en
 
 > In The Heartbeat of Wounded Knee, Treuer melds history with
@@ -26,10 +16,7 @@ https://www.google.com/books/edition/_/oG-DDwAAQBAJ?hl=en
 > of resistance. The Heartbeat of Wounded Knee is the essential,
 > intimate story of a resilient people in a transformative era.
 
-There There
-_A Novel_
-by Tommy Orange
-2018
+There There (2018) _A Novel_ by Tommy Orange
 https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
 
 > There There is a wondrous and shattering portrait of an America few
@@ -44,10 +31,16 @@ https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
 > suicide. This is the book that everyone is talking about right now,
 > and it’s destined to be a classic.
 
-The Ohlone Way
+Voices of Standing Rock (2017)
+https://archive.org/details/podcast_voices-of-standing-rock_1173368814
+
+> Short stories told by water protectors at Standing Rock, ND. "To
+> understand one another brings unity. We need to share our
+> lives. Without fear. Without judgement. And that will create unity
+> that will be unbreakable." - Duane His Chase. That is our mission.
+
+The Ohlone Way (1978) Malcolm Margolin
 _Indian Life in the San Francisco-Monterey Bay Area_
-By Malcolm Margolin
-1978
 https://www.google.com/books/edition/The_Ohlone_Way/vapzCy2oVQoC
 
 > Two hundred years ago, herds of elk and antelope dotted the hills of

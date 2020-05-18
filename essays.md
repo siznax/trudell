@@ -1,7 +1,3 @@
-* Worldcat.org author:"John Trudell"
-  https://www.worldcat.org/search?qt=worldcat_org_all&q=author%3A%22John+Trudell%22
-
-
 "We Are Power"
 by John Trudell
 1980-07-18
