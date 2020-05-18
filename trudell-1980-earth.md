@@ -1,12 +1,13 @@
 Take Back the Earth
 ===================
 
-_Speech given on Thanksiving Day 1980?_
+_Mother Earth is on OUR side! John Trudell 1980(?) Thanks Giving Day speech_
 
 https://www.youtube.com/watch?v=q2WEVdNQAxE
 
 17 May 2020
 
+_Transcript from YouTube. Needs editing._
 
 We're faced with a very serious situation in this generation. There
 are insane people who wish to rule the world. They wish to continue to
@@ -17,9 +18,6 @@ oppression for 500 years. We know that the black people have been
 resisting it for at least that long, and we know that the white people
 have had to endure it thousands of years and now it's come full swing
 to this generation that we live in.
-
-[continue editing here]
-
 
 Nuclearization of the world you see this cannot be we cannot allow
 this to continue to go on we cannot do it see and we cannot expect
