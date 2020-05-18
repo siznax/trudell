@@ -1,7 +1,3 @@
-* Counterpunch articles on John Trudell
-  https://www.counterpunch.org/?s=john+trudell
-
-
 John Trudell Wikipedia article (2020-05-18)
 https://en.wikipedia.org/wiki/John_Trudell
 

@@ -1,6 +1,13 @@
+Articles
+
+* Counterpunch articles on John Trudell
+  https://www.counterpunch.org/?s=john+trudell
+
+
 GitHub
 
-https://help.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets
+* https://help.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets
+
 
 YouTube
 
