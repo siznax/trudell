@@ -32,4 +32,3 @@ https://www.youtube.com/watch?v=Ku8ga-krBe4
 
 John Trudell - American Indian Wisdom
 https://www.youtube.com/playlist?list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ
-
