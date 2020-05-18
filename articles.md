@@ -46,6 +46,33 @@ https://narratively.com/native-radio-alcatraz-fbi/
 > wires from an unthinkable place — Alcatraz Island — he began
 > speaking in a calm, determined voice. The nation was listening.
 
+"The FBI considered charging the American Indian Movement’s John Trudell with “Insurrection”"
+by Curtis Waltman, Edited by JPat Brown
+Muckrock
+2017-07-13
+https://www.muckrock.com/news/archives/2017/jul/13/john-trudell-fbi-file/
+
+> File shows the Bureau unwilling to investigate arson case that
+> claimed activist’s family. To mark the 49th anniversary this week of
+> the founding of the American Indian Movement (AIM), we’re taking a
+> look at the FBI file of John Trudell, esteemed Santee Dakota poet,
+> writer, speaker, and musician who was a key member of AIM, rising to
+> the rank of National Chairman by the mid seventies.
+
+"Morbid transparency project opens the FBI files on the notably dead"
+by James Eli Shiffer
+Minnesota Star Tribune
+2017-04-12
+https://www.startribune.com/morbid-transparency-project-opens-the-fbi-files-on-the-notably-dead/418732743/
+
+> For the past 16 months, when a notable person dies, Parker Higgins
+> sends a letter to the Federal Bureau of Investigation. Each letter
+> is the same, except for the name, and makes the same request: Hand
+> over the FBI file for the deceased. Higgins then posts the file
+> online, in its entirety, with a link to the obit. He calls it “FOIA
+> the Dead: a morbid transparency project.” Its icon is a little
+> pixilated skull.
+
 "John Trudell Rose From Tragedy To Influence Generations"
 by Chris Clarke
 KCET Redefine
@@ -66,6 +93,17 @@ by Luis J. Rodriguez, Poet Laureate of Los Angeles
 Los Angeles Public Library Blog
 2015-12-14
 https://www.lapl.org/collections-resources/blogs/lapl/grandmothers-talking-my-time-and-teachings-john-trudell
+
+"John Trudell, Outspoken Advocate for American Indians, Is Dead at 69"
+By Bruce Weber
+The New York Times
+2015-12-09
+http://web.archive.org/web/20151210212414/https://www.nytimes.com/2015/12/10/us/john-trudell-outspoken-advocate-for-american-indians-is-dead-at-69.html
+
+> John Trudell, whose outspokenness and charisma made him a leading
+> advocate of Native American rights, and who channeled his message of
+> righteous defiance into poetry and songwriting, died on Tuesday at
+> his home in Santa Clara County, Calif. He was 69.
 
 "Remembering the Life and Legacy of John Trudell"
 by Alex Jacobs

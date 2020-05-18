@@ -1,3 +1,10 @@
+```
+https://github.com/ytdl-org/youtube-dl/blob/master/README.md#format-selection
+# Download best mp4 format available or any other best if no mp4 available
+$ youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
+```
+
+
 * John Trudell - American Indian Wisdom
   https://www.youtube.com/playlist?list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ
 
@@ -38,6 +45,7 @@ https://www.pbs.org/independentlens/trudell
 
 Trudell (2005) Documentary
 https://www.youtube.com/watch?v=Du0jKPFYXxM
+http://web.archive.org/web/20190614203612/https://www.youtube.com/watch?v=Du0jKPFYXxM
 
 > Filmmaker Heather Rae documents the life and work of American Indian
 > activist John Trudell. In the late 60's, John and a community group

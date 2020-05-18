@@ -24,8 +24,15 @@ https://www.youtube.com/watch?v=F0ZJQc9476E
 > the wake of his family's deaths, brought awareness to global
 > audiences who might not have been receptive to political polemic.
 
-"Take Back the Earth" (Thanksgiving Day, circa 1980)
-https://archive.org/details/trudell-1980-thanksgiving
+"Take Back the Earth" (circa 1980)
+https://www.youtube.com/watch?v=q2WEVdNQAxE
+
+> TAKE BACK THE EARTH - JOHN TRUDELL • 132,521 views • Jun 4, 2014
+> Isten Ostora • 11.1K subscribers
+> Mother Earth is on OUR side!
+> John Trudell 1980(?)Thanks Giving Day speech
+> http://en.wikipedia.org/wiki/John_Trudell
+> http://www.johntrudell.com/
 
 > We're faced with a very serious situation in this generation. There
 > are insane people who wish to rule the world. They wish to continue
