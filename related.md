@@ -16,6 +16,7 @@ https://www.google.com/books/edition/_/oG-DDwAAQBAJ?hl=en
 > of resistance. The Heartbeat of Wounded Knee is the essential,
 > intimate story of a resilient people in a transformative era.
 
+
 There There (2018) _A Novel_ by Tommy Orange
 https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
 
@@ -30,6 +31,15 @@ https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
 > spirituality, and with a plague of addiction, abuse, and
 > suicide. This is the book that everyone is talking about right now,
 > and it’s destined to be a classic.
+
+
+Voices of Standing Rock (2017)
+https://archive.org/details/podcast_voices-of-standing-rock_1173368814
+
+> Short stories told by water protectors at Standing Rock, ND. "To
+> understand one another brings unity. We need to share our
+> lives. Without fear. Without judgement. And that will create unity
+> that will be unbreakable." - Duane His Chase. That is our mission.
 
 
 Fighting Addiction on Pine Ridge Reservation (2017)
@@ -48,13 +58,17 @@ The Guardian
 > keep the town closed
 
 
-Voices of Standing Rock (2017)
-https://archive.org/details/podcast_voices-of-standing-rock_1173368814
+Cursed by Coal: Mining the Navajo Nation (2015)
+VICE News
+https://www.youtube.com/watch?v=F4uGCj6knVw
 
-> Short stories told by water protectors at Standing Rock, ND. "To
-> understand one another brings unity. We need to share our
-> lives. Without fear. Without judgement. And that will create unity
-> that will be unbreakable." - Duane His Chase. That is our mission.
+> There's a resource curse on the Navajo Nation. The
+> 27,000-square-mile reservation straddling parts of Arizona, New
+> Mexico, and Utah has an extremely high abundance of many energy
+> resources — particularly coal. That coal is what's burned to provide
+> much of the Southwest with electricity, and it creates jobs for the
+> Navajo. But the mining and burning have also caused environmental
+> degradation, serious health issues, and displacement.
 
 
 The Navajo Water Lady (2015)
@@ -79,8 +93,22 @@ https://www.youtube.com/watch?v=ObabZdcEXh4
 > still isn't, for sale.
 
 
-For America To Live Europe Must Die (1980)
-Russell Means
+Overview of Indian Affairs (1989)
+Senate Committee on the Bureau of Indian Affairs
+30 Jan - 5 Feb 1989
+C-SPAN
+
+* https://www.youtube.com/watch?v=xVANRroxuOo
+* https://www.c-span.org/video/?5987-1/overview-indian-affairs
+
+> Special Committee on Investigations held hearings to examine various
+> matters relating to Indian affairs, focusing on problems arising
+> from Federal Government representation of Indian interests, and
+> alleged fraud and corruption in regulating contracting on Indian
+> reservations.
+
+
+Black Hills Speech (1980) Russell Means
 
 * https://theanarchistlibrary.org/library/russell-means-for-america-to-live-europe-must-die
 * http://mikenormaneconomics.blogspot.com/2014/08/russell-means-for-america-to-live.html
@@ -95,33 +123,6 @@ Russell Means
 > world’s ways of destroying the cultures of non-European peoples, the
 > imposing of an abstraction over the spoken relationship of a people.
 
-
-Cursed by Coal: Mining the Navajo Nation (2015)
-VICE News
-https://www.youtube.com/watch?v=F4uGCj6knVw
-
-> There's a resource curse on the Navajo Nation. The
-> 27,000-square-mile reservation straddling parts of Arizona, New
-> Mexico, and Utah has an extremely high abundance of many energy
-> resources — particularly coal. That coal is what's burned to provide
-> much of the Southwest with electricity, and it creates jobs for the
-> Navajo. But the mining and burning have also caused environmental
-> degradation, serious health issues, and displacement.
-
-
-Overview of Indian Affairs (1989)
-Senate Committee on the Bureau of Indian Affairs
-30 Jan - 5 Feb 1989
-C-SPAN
-
-* https://www.youtube.com/watch?v=xVANRroxuOo
-* https://www.c-span.org/video/?5987-1/overview-indian-affairs
-
-> Special Committee on Investigations held hearings to examine various
-> matters relating to Indian affairs, focusing on problems arising
-> from Federal Government representation of Indian interests, and
-> alleged fraud and corruption in regulating contracting on Indian
-> reservations.
 
 The Ohlone Way (1978) Malcolm Margolin
 _Indian Life in the San Francisco-Monterey Bay Area_
