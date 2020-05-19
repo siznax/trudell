@@ -1,7 +1,5 @@
-John Trudell (1992)
-===================
-
-_April, 1992 From Los Angeles by phone_
+Larry Katz interview (1992)
+===========================
 
 by Larry Katz
 
@@ -64,7 +62,6 @@ closest to him to deter him from his mission; and he was a poet-shaman
 who found strength putting his and his people’s pain into words.
 
 John Trudell died from cancer at age 69 on December 8, 2015.
-
 
 ----
      

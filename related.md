@@ -31,6 +31,23 @@ https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
 > suicide. This is the book that everyone is talking about right now,
 > and it’s destined to be a classic.
 
+
+Fighting Addiction on Pine Ridge Reservation (2017)
+The Guardian
+
+* https://www.theguardian.com/society/2017/sep/29/pine-ridge-indian-reservation-south-dakota
+* https://www.youtube.com/watch?v=FoKF8H1l7NU
+
+> Whiteclay, Nebraska is a tiny unincorporated town that sits on the
+> border with South Dakota. Until its closure by state officials, its
+> four liquor stores sold more than 4m cans of beer a year, almost
+> entirely to members of Lakota Sioux tribe on the Pine Ridge Indian
+> reservation, where the sale of alcohol is banned. The Guardian spent
+> time on the reservation to understand the impact of alcohol on its
+> residents – and the activists and Lakota tribe members determined to
+> keep the town closed
+
+
 Voices of Standing Rock (2017)
 https://archive.org/details/podcast_voices-of-standing-rock_1173368814
 
@@ -38,6 +55,73 @@ https://archive.org/details/podcast_voices-of-standing-rock_1173368814
 > understand one another brings unity. We need to share our
 > lives. Without fear. Without judgement. And that will create unity
 > that will be unbreakable." - Duane His Chase. That is our mission.
+
+
+The Navajo Water Lady (2015)
+CBS Sunday Morning
+https://www.youtube.com/watch?v=hk8Rm9EsET4
+
+> In this corner of the Navajo Nation, just 100 miles west of
+> Albuquerque, N.M., an estimated 40 percent of residents don't have
+> access to running water. Their savior is Darlene Arviso, born and
+> raised on the Reservation, who drives her precious cargo - a tanker
+> truck filled with water - to make monthly deliveries to 250
+> families. Lee Cowan reports.
+
+
+Why the Sioux Are Refusing $1.3 Billion (2011)
+PBS News Hour
+https://www.youtube.com/watch?v=ObabZdcEXh4
+
+> Members of the Great Sioux Nation could pocket a large sum set aside
+> by the government for taking the resource-rich Black Hills away from
+> the tribes in 1877. But leaders say the sacred land was never, and
+> still isn't, for sale.
+
+
+For America To Live Europe Must Die (1980)
+Russell Means
+
+* https://theanarchistlibrary.org/library/russell-means-for-america-to-live-europe-must-die
+* http://mikenormaneconomics.blogspot.com/2014/08/russell-means-for-america-to-live.html
+* https://c21stleft.com/2018/11/17/for-america-to-live-europe-must-die-existential-torpor-versus-modernitys-melting-dialectic-a-critique-of-the-reactionary-outlook-of-the-late-north-american-indian-activist-russ/
+* https://www.youtube.com/watch?v=6Pu1q0am91E
+
+> The only possible opening for a statement of this kind is that I
+> detest writing. The process itself epitomizes the European concept
+> of “legitimate” thinking; what is written has an importance that is
+> denied the spoken. My culture, the Lakota culture, has an oral
+> tradition, so I ordinarily reject writing. It is one of the white
+> world’s ways of destroying the cultures of non-European peoples, the
+> imposing of an abstraction over the spoken relationship of a people.
+
+
+Cursed by Coal: Mining the Navajo Nation (2015)
+VICE News
+https://www.youtube.com/watch?v=F4uGCj6knVw
+
+> There's a resource curse on the Navajo Nation. The
+> 27,000-square-mile reservation straddling parts of Arizona, New
+> Mexico, and Utah has an extremely high abundance of many energy
+> resources — particularly coal. That coal is what's burned to provide
+> much of the Southwest with electricity, and it creates jobs for the
+> Navajo. But the mining and burning have also caused environmental
+> degradation, serious health issues, and displacement.
+
+
+Overview of Indian Affairs (1989)
+Senate Committee on the Bureau of Indian Affairs
+30 Jan - 5 Feb 1989
+C-SPAN
+
+* https://www.youtube.com/watch?v=xVANRroxuOo
+* https://www.c-span.org/video/?5987-1/overview-indian-affairs
+
+> Special Committee on Investigations held hearings to examine various
+> matters relating to Indian affairs, focusing on problems arising
+> from Federal Government representation of Indian interests, and
+> alleged fraud and corruption in regulating contracting on Indian
+> reservations.
 
 The Ohlone Way (1978) Malcolm Margolin
 _Indian Life in the San Francisco-Monterey Bay Area_

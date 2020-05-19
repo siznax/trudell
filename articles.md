@@ -15,6 +15,7 @@ https://en.wikipedia.org/wiki/John_Trudell
 > in films in the 1990s. The documentary Trudell (2005) was made about
 > him and his life as an activist and artist.
 
+
 "How A Native American Resistance Held Alcatraz for 18 Months"
 By David Treuer
 The New York Times
@@ -27,6 +28,22 @@ http://web.archive.org/web/20191120101142/https://www.nytimes.com/2019/11/20/us/
 > Island. They intended to make landfall on territory belonging to the
 > United States government with the intent of claiming it for
 > themselves. Or reclaiming it, depending on your point of view.
+
+
+"Mission Dolores’ dark legacy for Indians: From salvation to subjugation and death"
+By Gary Kamiya
+San Francsico Chronicle
+Published Nov. 1, 2019
+Updated: Nov. 2, 2019 9:53 a.m.
+https://www.sfchronicle.com/chronicle_vault/article/Mission-Dolores-dark-legacy-for-Indians-From-14785648.php
+
+> Mission Dolores is by far the oldest and most historically
+> significant building in San Francisco. The white adobe church on
+> Dolores Street was once celebrated as a testament to the faith and
+> courage of the Spanish colonizers who built it — a reverential
+> attitude enshrined in the 1894 statue “Early Days,” which depicted a
+> preaching priest looming over a crouching Indian.
+
 
 "The Pirate Radio Broadcaster Who Occupied Alcatraz and Terrified the FBI"
 by Jacob Pagano
@@ -42,6 +59,7 @@ https://narratively.com/native-radio-alcatraz-fbi/
 > wires from an unthinkable place — Alcatraz Island — he began
 > speaking in a calm, determined voice. The nation was listening.
 
+
 "The FBI considered charging the American Indian Movement’s John Trudell with “Insurrection”"
 by Curtis Waltman, Edited by JPat Brown
 Muckrock
@@ -54,6 +72,7 @@ https://www.muckrock.com/news/archives/2017/jul/13/john-trudell-fbi-file/
 > look at the FBI file of John Trudell, esteemed Santee Dakota poet,
 > writer, speaker, and musician who was a key member of AIM, rising to
 > the rank of National Chairman by the mid seventies.
+
 
 "Morbid transparency project opens the FBI files on the notably dead"
 by James Eli Shiffer
@@ -68,6 +87,7 @@ https://www.startribune.com/morbid-transparency-project-opens-the-fbi-files-on-t
 > online, in its entirety, with a link to the obit. He calls it “FOIA
 > the Dead: a morbid transparency project.” Its icon is a little
 > pixilated skull.
+
 
 "John Trudell Rose From Tragedy To Influence Generations"
 by Chris Clarke
@@ -84,11 +104,20 @@ https://www.kcet.org/redefine/john-trudell-rose-from-tragedy-to-influence-genera
 > Movement, Trudell raised the profile of the grassroots Native Rights
 > movement.
 
+
 "Grandmothers Talking: My Time and Teachings with John Trudell"
 by Luis J. Rodriguez, Poet Laureate of Los Angeles
 Los Angeles Public Library Blog
 2015-12-14
 https://www.lapl.org/collections-resources/blogs/lapl/grandmothers-talking-my-time-and-teachings-john-trudell
+
+> Poet and activist John Trudell expressed in words and actions, in
+> music and movies, the plight, fight and lasting permanence of the
+> Native American experience in the United States. In his public
+> talks, John delved into indigenous history and cosmology, which have
+> long been dismissed, misunderstood, and attacked. John Trudell did
+> this with clarity, dignity, and ferocity.
+
 
 "John Trudell, Outspoken Advocate for American Indians, Is Dead at 69"
 By Bruce Weber
@@ -100,6 +129,7 @@ http://web.archive.org/web/20151210212414/https://www.nytimes.com/2015/12/10/us/
 > advocate of Native American rights, and who channeled his message of
 > righteous defiance into poetry and songwriting, died on Tuesday at
 > his home in Santa Clara County, Calif. He was 69.
+
 
 "Remembering the Life and Legacy of John Trudell"
 by Alex Jacobs
