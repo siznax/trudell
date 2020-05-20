@@ -1,9 +1,48 @@
+The Pirate Radio Broadcaster Who Occupied Alcatraz and Terrified the FBI
+16 Jan 2019
+Narratively 
+
+* Introduction to Radio Free Alcatraz (1969)
+  https://soundcloud.com/narratively/introduction-to-radio-free-alcatraz
+
+> After Buffy Sainte-Marie sings “Now That the Buffalo’s Gone,”
+> Trudell explains the difficulties of living on Alcatraz, then
+> introduces his guest, Jonny BearCub. (December 26, 1969)
+
+* Trudell on violation of Native American rights (1969)
+  https://soundcloud.com/narratively/trudell-on-violation-of-native-american-rights
+
+> In this excerpt from Radio Free Alcatraz, John Trudell documents the
+> government’s brazen violations of Native American rights and
+> explains what changes are necessary before honest negotiations can
+> begin.
+
+* Trudell with Silbowitz (1969)
+  https://soundcloud.com/narratively/trudell-with-silbowitz
+
+> In a conversation with Al Silbowitz, Trudell explains how the
+> difficult conditions on Alcatraz all too closely resemble life on so
+> many Native American reservations. He also asserts, “Alcatraz is
+> nothing but a rock to many people. But it’s our rock.” (December
+> 1969)
+
+* Trudell reading Grandmother Moon (1969)
+  https://soundcloud.com/narratively/trudell-reading-grandmother-moon-4
+
+> Over the voices of a traditional chant, Trudell recites “Grandmother
+> Moon.”
+
 John Trudell and Bad Dog (2013-09-07) Live at Hempstalk
 https://archive.org/details/John-Trudell-Hempstalk-2013
 
+> John Trudell and Bad Dog live at Hempstalk on September 7, 2013.
+> Bad Dog - John Trudell (Vocals), Mark Shark (Guitar/vocals),
+> Quiltman (Vocals) and Rick Eckstein (Keyword/Vocals).  Footage by
+> Campaign for the Restoration and Regulation of Hemp Audio Mixed by
+> Aloha Sound in Honor of John Trudell
+
 "What It Means To Be A Human Being" (2001-03-15)
 John Trudell on Time of Useful Consciousness with Maria Gilardin
-
 * https://ratical.org/many_worlds/JohnTrudell/HumanBeing.html
 * http://www.radio4all.net/index.php/program/78152
 * http://www.radio4all.net/index.php/program/78267
