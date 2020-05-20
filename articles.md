@@ -11,20 +11,6 @@ http://web.archive.org/web/20191120101142/https://www.nytimes.com/2019/11/20/us/
 > United States government with the intent of claiming it for
 > themselves. Or reclaiming it, depending on your point of view.
 
-"Mission Dolores’ dark legacy for Indians: From salvation to subjugation and death"
-By Gary Kamiya
-San Francsico Chronicle
-Published Nov. 1, 2019
-Updated: Nov. 2, 2019 9:53 a.m.
-https://www.sfchronicle.com/chronicle_vault/article/Mission-Dolores-dark-legacy-for-Indians-From-14785648.php
-
-> Mission Dolores is by far the oldest and most historically
-> significant building in San Francisco. The white adobe church on
-> Dolores Street was once celebrated as a testament to the faith and
-> courage of the Spanish colonizers who built it — a reverential
-> attitude enshrined in the 1894 statue “Early Days,” which depicted a
-> preaching priest looming over a crouching Indian.
-
 "The Pirate Radio Broadcaster Who Occupied Alcatraz and Terrified the FBI"
 by Jacob Pagano
 Narratively Deep Dives

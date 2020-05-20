@@ -5,6 +5,9 @@ Black Elk
 * https://en.wikipedia.org/wiki/Black_Elk
 * https://en.wikiquote.org/wiki/Black_Elk
 
+Bureau of Indian Affairs
+https://en.wikipedia.org/wiki/Bureau_of_Indian_Affairs
+
 Charles Eastman
 * https://en.wikipedia.org/wiki/Charles_Eastman
 * https://en.wikiquote.org/wiki/Charles_Eastman
@@ -23,7 +26,7 @@ Disease
 * https://www.democracynow.org/2020/4/15/covid_19_navajo_nation_native_americans
 
 Education
-
+* https://en.wikipedia.org/wiki/Bureau_of_Indian_Education
 
 Gaming
 * "Solar renewables is our gaming" —Henry Red Cloud
@@ -33,7 +36,7 @@ Geronimo
 * https://en.wikiquote.org/wiki/Geronimo
 
 Indian Country
-
+* https://en.wikipedia.org/wiki/Indian_country
 
 John Trudell
 https://en.wikipedia.org/wiki/John_Trudell
@@ -43,6 +46,13 @@ Leonard Peltier
 Missing and murdered Indigenous women
 * https://en.wikipedia.org/wiki/Missing_and_murdered_Indigenous_women
 * https://en.wikipedia.org/wiki/Anna_Mae_Aquash
+
+Native Americans in the United States
+* https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States
+
+Native American Rights Fund
+* https://en.wikipedia.org/wiki/Native_American_Rights_Fund
+* http://www.narf.org/ redirects to https://www.engagingnetworks.net/
 
 Pollution
 * Uranium mining taints most drinking water
@@ -68,5 +78,13 @@ Unemployment
 
 Wounded Knee Incident (1973)
 https://en.wikipedia.org/wiki/Wounded_Knee_incident
+
+Wounded Knee Massacre (1890)
+* https://en.wikipedia.org/wiki/Ghost_Dance_War
+* https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
+* https://web.archive.org/web/20050204132335/http://lupus.northern.edu:90/hastingw/baumedts.htm#wounded
+* https://web.archive.org/web/20050204064103/http://www.dickshovel.com/TwistedFootnote.html
+* https://web.archive.org/web/20050306190912/http://www.dickshovel.com/medals.1.html
+* https://web.archive.org/web/20050306185558/http://www.dickshovel.com/WKmasscre.html
 
 ~

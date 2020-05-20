@@ -1,3 +1,16 @@
+"Mission Dolores’ dark legacy for Indians: From salvation to subjugation and death"
+By Gary Kamiya
+San Francsico Chronicle
+2 November 2019
+https://www.sfchronicle.com/chronicle_vault/article/Mission-Dolores-dark-legacy-for-Indians-From-14785648.php
+
+> Mission Dolores is by far the oldest and most historically
+> significant building in San Francisco. The white adobe church on
+> Dolores Street was once celebrated as a testament to the faith and
+> courage of the Spanish colonizers who built it — a reverential
+> attitude enshrined in the 1894 statue “Early Days,” which depicted a
+> preaching priest looming over a crouching Indian.
+
 The Heartbeat of Wounded Knee (2019) by David Treuer
 _Native America From 1890 to the Present_
 https://www.google.com/books/edition/_/oG-DDwAAQBAJ?hl=en
@@ -16,7 +29,6 @@ https://www.google.com/books/edition/_/oG-DDwAAQBAJ?hl=en
 > of resistance. The Heartbeat of Wounded Knee is the essential,
 > intimate story of a resilient people in a transformative era.
 
-
 There There (2018) _A Novel_ by Tommy Orange
 https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
 
@@ -32,7 +44,6 @@ https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
 > suicide. This is the book that everyone is talking about right now,
 > and it’s destined to be a classic.
 
-
 Voices of Standing Rock (2017)
 https://archive.org/details/podcast_voices-of-standing-rock_1173368814
 
@@ -41,10 +52,8 @@ https://archive.org/details/podcast_voices-of-standing-rock_1173368814
 > lives. Without fear. Without judgement. And that will create unity
 > that will be unbreakable." - Duane His Chase. That is our mission.
 
-
 Fighting Addiction on Pine Ridge Reservation (2017)
 The Guardian
-
 * https://www.theguardian.com/society/2017/sep/29/pine-ridge-indian-reservation-south-dakota
 * https://www.youtube.com/watch?v=FoKF8H1l7NU
 
@@ -56,7 +65,6 @@ The Guardian
 > time on the reservation to understand the impact of alcohol on its
 > residents – and the activists and Lakota tribe members determined to
 > keep the town closed
-
 
 Cursed by Coal: Mining the Navajo Nation (2015)
 VICE News
@@ -70,7 +78,6 @@ https://www.youtube.com/watch?v=F4uGCj6knVw
 > Navajo. But the mining and burning have also caused environmental
 > degradation, serious health issues, and displacement.
 
-
 The Navajo Water Lady (2015)
 CBS Sunday Morning
 https://www.youtube.com/watch?v=hk8Rm9EsET4
@@ -82,7 +89,6 @@ https://www.youtube.com/watch?v=hk8Rm9EsET4
 > truck filled with water - to make monthly deliveries to 250
 > families. Lee Cowan reports.
 
-
 Why the Sioux Are Refusing $1.3 Billion (2011)
 PBS News Hour
 https://www.youtube.com/watch?v=ObabZdcEXh4
@@ -91,7 +97,6 @@ https://www.youtube.com/watch?v=ObabZdcEXh4
 > by the government for taking the resource-rich Black Hills away from
 > the tribes in 1877. But leaders say the sacred land was never, and
 > still isn't, for sale.
-
 
 Overview of Indian Affairs (1989)
 Senate Committee on the Bureau of Indian Affairs
@@ -107,7 +112,6 @@ C-SPAN
 > alleged fraud and corruption in regulating contracting on Indian
 > reservations.
 
-
 Black Hills Speech (1980) Russell Means
 
 * https://theanarchistlibrary.org/library/russell-means-for-america-to-live-europe-must-die
@@ -122,7 +126,6 @@ Black Hills Speech (1980) Russell Means
 > tradition, so I ordinarily reject writing. It is one of the white
 > world’s ways of destroying the cultures of non-European peoples, the
 > imposing of an abstraction over the spoken relationship of a people.
-
 
 The Ohlone Way (1978) Malcolm Margolin
 _Indian Life in the San Francisco-Monterey Bay Area_
