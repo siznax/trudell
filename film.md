@@ -1,5 +1,4 @@
 We Shall Remain (2009) PBS WGBH American Experience
-
 * https://www.pbs.org/wgbh/americanexperience/films/weshallremain/
 * https://sfpl.kanopy.com/product/wounded-knee
 
@@ -20,7 +19,6 @@ https://www.pbs.org/independentlens/trudell
 > spirit and words have awakened the Native consciousness.
 
 Trudell (2005) Documentary
-
 * https://www.youtube.com/watch?v=Du0jKPFYXxM
 * http://web.archive.org/web/20190614203612/https://www.youtube.com/watch?v=Du0jKPFYXxM
 
@@ -48,3 +46,28 @@ https://en.wikipedia.org/wiki/Incident_at_Oglala
 > OGLALA- a riveting examination of the case and the real story of
 > what may be one of the most outrageous abuses of justice in American
 > history.
+
+https://en.wikipedia.org/wiki/Michael_Apted
+
+> Before the making of Thunderheart, Apted made the documentary
+> Incident at Oglala about Leonard Peltier. Incident at Oglala then
+> informed Thunderheart in the casting of actors for the fiction film.
+
+Thunderheart (1992) Michael Apted
+https://en.wikipedia.org/wiki/Thunderheart
+
+> Thunderheart is a 1992 American contemporary western mystery film
+> directed by Michael Apted from an original screenplay by John
+> Fusco. The film is a loosely based fictional portrayal of events
+> relating to the Wounded Knee incident in 1973, when followers of the
+> American Indian Movement seized the South Dakota town of Wounded
+> Knee in protest against federal government policy regarding Native
+> Americans. Incorporated in the plot is the character of Ray Levoi,
+> played by actor Val Kilmer, as an FBI agent with Sioux heritage
+> investigating a homicide on a Native American reservation. Sam
+> Shepard, Graham Greene, Fred Ward and Sheila Tousey star in
+> principal supporting roles. Also in 1992, Apted had previously
+> directed a documentary surrounding a Native American activist
+> episode involving the murder of FBI agents titled Incident at
+> Oglala. The documentary depicts the indictment of activist Leonard
+> Peltier during a 1975 shootout on the Pine Ridge Indian Reservation.
