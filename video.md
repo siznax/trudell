@@ -21,8 +21,24 @@ https://www.youtube.com/watch?v=huAQrkAg95o
 > relationship with hemp and speaks on why it was outlawed. Produced
 > by Ayse Gursoz and Virginia Barker
 
-John Trudell, Crazy Horse (1992-10-10) Mountain View, CA
-https://www.youtube.com/watch?v=HAyWre4j8U4
+John Trudell "Crazy Horse"
+* https://www.youtube.com/watch?v=Ku8ga-krBe4 (music video)
+* https://www.youtube.com/watch?v=HAyWre4j8U4 (live 10 October 1992)
 
-John Trudell, Crazy Horse - The Original Video
-https://www.youtube.com/watch?v=Ku8ga-krBe4
+Russell Means testifies at Senate Hearing (1989) C-SPAN
+https://www.youtube.com/watch?v=xVANRroxuOo
+
+> From the C-SPAN Video Library - Mr. Means harshly criticizes the
+> Bureau of Indian Affairs and Indian leadership of
+> reservations. Russell Means died October 22 at the age of 72. This
+> was his first of six appearances on C-SPAN. Entire Hearing:
+> https://www.c-span.org/video/?5987-1/...
+
+Dennis Turner interview on Alcatraz Island
+https://www.youtube.com/watch?v=3TBD0DHDYfg
+
+> 1969 Native American Movement, San Francisco, Alcatraz from the
+> Kinolibrary Archive Film Collections. To order the clip clean and
+> high res or to find out more visit http://www.kinolibrary.com. Clip
+> ref AB75. INT interview with Native American man about why Indians
+> are making a stand on Alcatraz, Alcatraz Occupation
