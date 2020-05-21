@@ -31,6 +31,9 @@ Education
 Gaming
 * "Solar renewables is our gaming" —Henry Red Cloud
 
+Ghost Dance
+* https://en.wikipedia.org/wiki/Ghost_Dance (religion)
+
 Geronimo
 * https://en.wikipedia.org/wiki/Geronimo
 * https://en.wikiquote.org/wiki/Geronimo
@@ -53,6 +56,14 @@ Native Americans in the United States
 Native American Rights Fund
 * https://en.wikipedia.org/wiki/Native_American_Rights_Fund
 * http://www.narf.org/ redirects to https://www.engagingnetworks.net/
+
+Peyote Religion
+* https://archive.org/details/peyotereligion
+* https://en.wikipedia.org/wiki/Native_American_Church (Peyote Religion)
+* Employment Division v. Smith
+* Dr. Wilson Aronilth, Jr. on Peyote Way of Ceremonial Belief
+  https://www.youtube.com/watch?v=rhJYX8umA5E
+* https://en.wikipedia.org/wiki/American_Indian_Religious_Freedom_Act
 
 Pollution
 * Uranium mining taints most drinking water

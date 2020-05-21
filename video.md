@@ -21,7 +21,18 @@ https://www.youtube.com/watch?v=huAQrkAg95o
 > relationship with hemp and speaks on why it was outlawed. Produced
 > by Ayse Gursoz and Virginia Barker
 
-John Trudell "Crazy Horse"
+Russell Means interview (2008)
+https://www.youtube.com/watch?v=PWZsQ-ovkCY
+
+> On December 20, 2008, immediately following Barack Obama's election,
+> Russell Means gave this interview in Rapid City, SD. In this film
+> Russell is at his best - intelligent, aggressive, and unwilling to
+> compromise principle. He summarizes the current struggle of the
+> Lakota People, and he challenges Americans to "prove him wrong"--to
+> exceed Russell's expectation that the United State won't put a stop
+> to the injustices against his community.
+
+John Trudell "Crazy Horse" (1992)
 * https://www.youtube.com/watch?v=Ku8ga-krBe4 (music video)
 * https://www.youtube.com/watch?v=HAyWre4j8U4 (live 10 October 1992)
 
@@ -34,7 +45,7 @@ https://www.youtube.com/watch?v=xVANRroxuOo
 > was his first of six appearances on C-SPAN. Entire Hearing:
 > https://www.c-span.org/video/?5987-1/...
 
-Dennis Turner interview on Alcatraz Island
+Dennis Turner interview on Alcatraz Island (1969)
 https://www.youtube.com/watch?v=3TBD0DHDYfg
 
 > 1969 Native American Movement, San Francisco, Alcatraz from the

@@ -9,3 +9,10 @@ http://web.archive.org/web/20160320063933/http://thekatztapes.com/john-trudell-1
 > of those closest to him to deter him from his mission; and he was a
 > poet-shaman who found strength putting his and his people’s pain
 > into words.
+
+John Trudell (1998) with Lori Townsend WOJB
+https://web.archive.org/web/20050305035031/http://www.dickshovel.com/lsa13.html
+
+> This interview with WOJB's Lori Townsend took place on Feb. 28,
+> before Trudell performed in concert in Kyle, South Dakota, part of
+> the 25th Anniversary of Wounded Knee

@@ -10,10 +10,13 @@ Media
 
 * Democracy Now!
 * Indian Country Today
-
+* [Lakota Times](https://www.lakotatimes.com/), Pine Ridge Indian Reservation
 
 Projects
 --------
+
+* Lakota People's Law Project
+  https://www.youtube.com/user/Lakotalaw1
 
 * Native American Documents Project (2007)
   California State University, San Marcos  
