@@ -41,6 +41,11 @@ Geronimo
 Indian Country
 * https://en.wikipedia.org/wiki/Indian_country
 
+Indian Removal (Jacksonian)
+* https://en.wikipedia.org/wiki/Indian_removal
+* https://en.wikipedia.org/wiki/Indian_Removal_Act
+* https://en.wikipedia.org/wiki/Trail_of_Tears
+
 John Trudell
 https://en.wikipedia.org/wiki/John_Trudell
 
