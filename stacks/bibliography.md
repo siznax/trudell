@@ -1,3 +1,5 @@
+1. Aronilth, Wilson. Foundation of Navajo Culture. Tsaile, Ariz.:
+   Navajo Community College, 1992. Print.
 1. Crow, Dog M, and Richard Erdoes. Lakota Woman: Die Geschichte Einer
    Sioux-Frau. München: Deutscher Taschenbuch Verlag, 2009. Print.
 1. Eastman, Charles A. Indian Heroes and Great Chieftains. Boston:
