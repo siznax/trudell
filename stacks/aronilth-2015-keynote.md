@@ -1,11 +1,5 @@
-Dr. Aronilth (2015) Parliament
+Wilson Aronilth (2015) Keynote
 ==============================
-
-_Navajo Dr. Wilson Aronilth Jr. Delivers Keynote at the 2015 Parliament_
-
-https://www.youtube.com/watch?v=rhJYX8umA5E
-
-29 January 2016
 
 _Dr. Wilson Aronilth, Jr., a well-known philosopher, educator, and
 spiritual leader who comes from the Navajo tribe, addresses the
@@ -14,11 +8,15 @@ World's Religions in Salt Lake City, Utah on October 19th. He is the
 author of "Foundation of Navajo Culture" published in 1992 by Navajo
 Community College._
 
-_Dr. Aronilth begins by stepping beside the podium, in full view of
+https://www.youtube.com/watch?v=rhJYX8umA5E
+
+29 January 2016
+
+[Dr. Aronilth begins by stepping beside the podium, in full view of
 teh audience. He gestures fluidly but with certainty with his hands,
 waving toward the audience, down to the ground, back up and touching
 his brow and upper lip and crossing his hands over his heart with a
-final flourish toward the audience._
+final flourish toward the audience...]
 
 I want to extend my holy heartedly spiritual greetings to all of you
 wonderful beautiful intelligent people, relatives and friends. And
@@ -79,8 +77,9 @@ Today, we're in different stages of our world where the vision and
 mission, and educational system, governmental system, of our "ahn
 'kun" generation is beg-dame and unclear.
 
-We need—WAKE UP—we need ya tah WAKE UP! (cheering) Let's all come back
-together. In our creator's name.
+We need—WAKE UP—we need ya tah WAKE UP! (cheering)
+
+Let's all come back together. In our creator's name.
 
 Today I want to tell my world-renowned leaders, wake up! 
 
