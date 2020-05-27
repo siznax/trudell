@@ -41,9 +41,9 @@ A woman is important!
 If it wasn't for a woman, you won't be here. There will be no
 spiritual leaders. No leaders. No educators. No warriors. No hunters.
 
-A woman special.
+A woman is _special_.
 
-Listen to a woman!
+_Listen_ to a woman!
 
 That's our philosophy.
 
