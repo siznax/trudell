@@ -1,9 +1,10 @@
-10 Point Program ================
+10 Point Program
+================
 
 by The Red Nation (organized in 2014 by Nick Estes)
 
-# WE DEMAND AN END TO VIOLENCE AGAINST NATIVE PEOPLES AND OUR NONHUMAN
-# RELATIVES THROUGH…
+*WE DEMAND AN END TO VIOLENCE AGAINST NATIVE PEOPLES AND OUR NONHUMAN
+RELATIVES THROUGH…*
 
 1. *The Re-Instatement of Treaty Rights*
 
