@@ -3,13 +3,15 @@ Articles
 
 * Counterpunch articles on John Trudell
   https://www.counterpunch.org/?s=john+trudell
+* Encyclopedia of the Great Plains
+  http://plainshumanities.unl.edu/encyclopedia/
 
 
 Media
 -----
 
-* Democracy Now!
-* Indian Country Today
+* [Democracy Now!](https://democracynow.org/)
+* [Indian Country Today](https://indiancountrytoday.com/)
 * [Lakota Times](https://www.lakotatimes.com/), Pine Ridge Indian Reservation
 
 Projects
@@ -17,7 +19,6 @@ Projects
 
 * Lakota People's Law Project
   https://www.youtube.com/user/Lakotalaw1
-
 * Native American Documents Project (2007)
   California State University, San Marcos  
   https://public.csusm.edu/nadp/
