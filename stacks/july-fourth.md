@@ -8,7 +8,7 @@ By Dennis Zotigh
 Smithsonian Voices & National Museum of the American Indian
 
 _Every few years, the museum updates this story to add more Native
-voices. The story first appeared on July 3, 2013. _
+voices. The story first appeared on July 3, 2013._
 
 https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/07/04/do-american-indians-celebrate-4th-july/
 
@@ -243,7 +243,7 @@ mention I love being in Oklahoma City? Fireworks will be everywhere!
 
 _Sicangu Lakota beaded vest (front), ca 1890. South Dakota. National
 Museum of the American Indian (20/1208). (National Museum of the
-American Indian, Smithsonian) _
+American Indian, Smithsonian)_
 
 ----
 
@@ -539,7 +539,7 @@ freedom, we just were. So on the 4th of July, I will practice my
 American heritage and celebrate this country's Independence Day. But
 my heart knows I don't need a day to recognize my autonomy.
 
-**Oklahoma City and the Choctaw Nation of Oklahoma: **I think of the
+**Oklahoma City and the Choctaw Nation of Oklahoma:** I think of the
 4th of July as American Ideals Day. If only America would live up to
 its own stated ideals, none of what happened to American Indian
 people would have happened. Today, if those ideals were finally
