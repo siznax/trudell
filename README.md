@@ -67,10 +67,18 @@ the American legend.
 <https://archive.org/details/endofthetrailtheamericanplainsindiansreel1>
 
 
-### Freedom Archive
+### The Freedom Archives
 
-The Freedom Archives | 522 Valencia Street San Francisco, CA 94110
-Phone: (415) 863-9977 | E-mail: info [at] freedomarchives [dot] org.
+The Freedom Archives    
+522 Valencia Street
+San Francisco, CA 94110    
+<https://freedomarchives.org>
+
+The Freedom Archives contains over 12,000 hours of audio and video
+recordings as well as print materials dating primarily from the
+late-1960s to the mid-90s. These collections chronicle the progressive
+history of the Bay Area, the United States, and international
+movements for liberation and social justice.
 
 
 ### Great Law of Peace (and the U.S. Constitution)
