@@ -86,7 +86,7 @@ Peyote Religion
 
 Pollution
 
-* Uranium mining taints most drinking water
+* Uranium mining taints most drinking water on reservations
 
 Red Cloud
 
