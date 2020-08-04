@@ -3,7 +3,9 @@ https://en.wikipedia.org/wiki/American_Indian_Movement
 
 Adam Fortunate Eagle
 
-* 
+* https://en.wikipedia.org/wiki/Adam_Fortunate_Eagle
+* https://www.youtube.com/watch?v=0BTakK2HbOQ
+* http://www.lillimar.com/contrar-warrior.html
 
 Ancestry
 
@@ -92,7 +94,7 @@ Indian Affairs
 * https://en.wikipedia.org/wiki/Bureau_of_Indian_Affairs
 * https://commons.wikimedia.org/wiki/Category:Bureau_of_Indian_Affairs_(United_States)
 * **Indian Child Welfare Act** ICWA (1978)
-  _governs the placement of Indian children in 
+  _governs the placement of Indian children in white homes_
     * The history and spirit of ICWA https://www.youtube.com/watch?v=yAcLsvEubwE
     * https://www.childwelfare.gov/topics/systemwide/diverse-populations/americanindian/icwa/
 * **Indian Relocation Act** (1956)    
@@ -111,6 +113,11 @@ Indian Country
 
 John Trudell    
 https://en.wikipedia.org/wiki/John_Trudell
+
+Journals
+
+* American Indian Law Review    
+  https://www.law.ou.edu/faculty-and-scholarship/journals/american-indian-law-review
 
 Law
 
@@ -157,6 +164,8 @@ Land Treaties
   https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)      
   _British ceded a vast amount of Indian territory to the U.S._
 
+Leonard Peltier
+
 Libraries
 
 * National Indian Law Library    
@@ -164,7 +173,9 @@ Libraries
 * U.S. Dept. of Interior **Tribal Documents Archive**    
   https://www.doi.gov/ost/tribal_doc_archive
 
-Leonard Peltier
+Literature
+
+* https://en.wikipedia.org/wiki/Native_American_Renaissance
 
 Money
 
@@ -187,6 +198,8 @@ Native American Rights Fund
 
 News
 
+* Native Roots Radio    
+  http://www.nativerootsradio.com/
 * National Indian Law Library Current Events    
   https://www.narf.org/nill/bulletins/news/currentnews.html    
   _Selected Native American News Stories_
@@ -206,12 +219,18 @@ Organizations
 
 * American Indian Movement (AIM)    
   https://americanindianmovement.org/     
+* First Nations Development Institute    
+  https://www.firstnations.org/
+* Friends of the Pine Ridge Reservation    
+  https://friendsofpineridgereservation.org/
 * National Congress of American Indians (NCAI)    
   http://www.ncai.org/
   _The National Congress of American Indians, founded in 1944, is the
   oldest, largest and most representative American Indian and Alaska
   Native organization serving the broad interests of tribal
   governments and communities._
+* National Indian Child Welfare Association (NICWA)    
+  https://www.nicwa.org/
 * Native American Rights Fund (NARF)    
   https://www.narf.org/
   _Since 1970, the Native American Rights Fund (NARF) has provided
@@ -276,6 +295,8 @@ Tribes
 
 * 565 Federally-recognized Indian tribes
   https://www.firstnations.org/tribes/
+* List of Federal and State Recognized Tribes    
+  https://www.ncsl.org/research/state-tribal-institute/list-of-federal-and-state-recognized-tribes.aspx
 * Some claim over 100K members and those that have fewer than 100
 * For some tribes English is a second language, and some tribes have
   totally lost their language base

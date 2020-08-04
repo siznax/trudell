@@ -1,3 +1,40 @@
+[ ] Watch Trudell again... https://www.youtube.com/watch?v=dlcmTeCcbME
+[ ] News from Native California (Heyday books)    
+    http://newsfromnativecalifornia.com/
+[ ] Encyclopedia of American Indian issues today (2013)    
+    https://archive.org/details/encyclopediaofam0001unse_v0q3
+[ ] Understand the DOI Buyback program: https://www.doi.gov/buybackprogram/about
+[ ] Records of the Bureau of Indian Affairs [BIA]
+    (Record Group 75) 1793-1989    
+    https://www.archives.gov/research/guide-fed-records/groups/075.html
+[ ] Indian Land Tenure Foundation    
+    https://iltf.org/
+[ ] Indian Nations Tribal Sovereignty    
+    http://americanindiansource.com/sovereignty.html
+[ ] Tribe data    
+    https://docs.google.com/spreadsheets/d/13FZgIL9f8tWP-FKXhLnpROg97FjOSJsoqx3xaOnlx-8/
+[ ] _When the Great Spirit Died_: The Destruction of the California
+    Indians, 1850-1860 By William B. Secrest · 2003
+[ ] National Museum of the American Indian    
+    https://americanindian.si.edu/
+[ ] https://en.wikipedia.org/wiki/O._M._Wozencraft
+[ ] https://americanindian.si.edu/nationtonation/unratified-california-treaty-k.html
+[ ] American Indian Religious Freedom Act    
+    https://en.wikipedia.org/wiki/American_Indian_Religious_Freedom_Act
+[ ] Outline of United States federal Indian law and policy    
+    https://en.wikipedia.org/wiki/Outline_of_United_States_federal_Indian_law_and_policy
+[ ] Native American sacred sites in the United States    
+    https://en.wikipedia.org/wiki/Recognition_of_Native_American_sacred_sites_in_the_United_States
+[ ] Finish watching [_The History and Spirit of the
+    ICWA_](https://www.youtube.com/watch?v=yAcLsvEubwE) (2012) good
+    general info on the tribes,
+[ ] Learn more about the [National Indian Child Welfare
+    Association](https://www.nicwa.org/about-icwa/)
+[ ] Digitized Version of Kappler’s Indian Affairs: Laws and Treaties
+    Now Available
+    https://www.fdlp.gov/news-and-events/3489-digitized-version-of-kappler-s-indian-affairs-laws-and-treaties-now-available
+[ ] What's this? https://archive.org/details/lawsofunitedstat1899unit/page/10/mode/2up
+
 ### 500 Years of Indigenous Resistance
 
 by Gord Hill
@@ -41,6 +78,11 @@ histories -- Renewing, remembering, and resisting: rituals and history
 Futures of Indian pasts: prophecy and history
 
 https://archive.org/details/forestoftimeamer0000nabo
+
+
+### American Indian Movement
+
+Grand Governing Council http://www.aimovement.org/
 
 
 ### American Indian Cultural Center San Francisco
@@ -158,8 +200,29 @@ topics. Each event mentioned is followed by a one to two paragraph
 elaboration. Sidebar quotations throughout the volume offer insight
 into people's thoughts and perceptions of important events described.
 
-
 https://archive.org/details/chronologyofamer0000sonn
+
+### Congressional Native American Caucus
+
+The Congressional Native American Caucus is a bipartisan coalition of
+lawmakers that work to advance our nation-to-nation relationships with
+tribal governments and uphold our federal trust responsibilities to
+Native Americans through the legislative process. The Caucus works on
+a bipartisan basis to meet our nation’s moral and legal commitments to
+American Indians, Alaska Natives, and Native Hawaiians across a broad
+range of policy areas, including but not limited to health, safety,
+housing, education, economic development, and cultural
+preservation. As outlined in Article 1, Section 8 of the Constitution,
+the caucus works to protect tribal sovereignty.  
+
+Members work to maintain close relationships with tribal nations and
+their representatives, and amplify the voices of Native Americans in
+policy debates across all issues. Members are connected with experts
+and leaders within Indian Country such as the National Congress of
+American Indians for information on legislative proposals that impact
+Native American tribes.
+
+https://mccollum.house.gov/about-betty/committees-caucuses/congressional-native-american-caucus
 
 
 ### End of the Trail: American Plains Indian
@@ -277,6 +340,8 @@ your honor, to help us._
   https://archive.org/details/peyotereligion
 * Peyote Way of Ceremonial Belief (2015) **Dr. Wilson Aronilth, Jr.** ⭐️     
   https://www.youtube.com/watch?v=rhJYX8umA5E
+* Peyote Way Church of God    
+  https://peyoteway.org/
 
 
 ### The Return of Navajo Boy
