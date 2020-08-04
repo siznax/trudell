@@ -12,6 +12,15 @@ https://www.youtube.com/channel/UCQYo7hQsKKkHi4f0X-gB1yg
 > continues to push the boundaries of with their modern spin on
 > traditional music.
 
+America's Native Prisoners of War, Aaron Huey (2013) 
+https://www.youtube.com/watch?v=MS6ARB2CgLI
+
+> Aaron Huey's effort to photograph poverty in America led him to the
+> Pine Ridge Indian Reservation, where the struggle of the native
+> Lakota people -- appalling, and largely ignored -- compelled him to
+> refocus. Five years of work later, his haunting photos intertwine
+> with a shocking history lesson in this bold, courageous talk.
+
 John Trudell on Hemp (2011)
 https://www.youtube.com/watch?v=huAQrkAg95o
 
@@ -33,6 +42,7 @@ https://www.youtube.com/watch?v=PWZsQ-ovkCY
 > to the injustices against his community.
 
 John Trudell "Crazy Horse" (1992)
+
 * https://www.youtube.com/watch?v=Ku8ga-krBe4 (music video)
 * https://www.youtube.com/watch?v=HAyWre4j8U4 (live 10 October 1992)
 
@@ -53,3 +63,6 @@ https://www.youtube.com/watch?v=3TBD0DHDYfg
 > high res or to find out more visit http://www.kinolibrary.com. Clip
 > ref AB75. INT interview with Native American man about why Indians
 > are making a stand on Alcatraz, Alcatraz Occupation
+
+
+@siznax
