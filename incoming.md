@@ -1,3 +1,9 @@
+[ ] Find a copy of Dr. Aronilth's book...
+    * https://www.worldcat.org/title/foundations-of-navajo-culture/oclc/41174674?referer=di&ht=edition
+    * https://books.google.com/books/about/Foundations_of_Navajo_Culture.html?id=r8OhHAAACAAJ
+[ ] Finish reading The Politics of
+    Morality... https://in.nau.edu/wp-content/uploads/sites/101/2019/09/Smith-2018.pdf
+[ ] Diné College: https://www.dinecollege.edu/careers/
 [ ] Watch Trudell again... https://www.youtube.com/watch?v=dlcmTeCcbME
 [ ] News from Native California (Heyday books)    
     http://newsfromnativecalifornia.com/
