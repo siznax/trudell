@@ -3,13 +3,26 @@
     * https://books.google.com/books/about/Foundations_of_Navajo_Culture.html?id=r8OhHAAACAAJ
 [ ] Finish reading The Politics of
     Morality... https://in.nau.edu/wp-content/uploads/sites/101/2019/09/Smith-2018.pdf
-[ ] Diné College: https://www.dinecollege.edu/careers/
-[ ] Watch Trudell again... https://www.youtube.com/watch?v=dlcmTeCcbME
-[ ] News from Native California (Heyday books)    
-    http://newsfromnativecalifornia.com/
+[ ] Transcribe and archive "John Trudell - American Indian Wisdom"    
+    https://www.youtube.com/watch?v=XAxaeKk_FoA&list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ
+[ ] Understand the DOI Buyback program: https://www.doi.gov/buybackprogram/about
+[ ] Diné College Careers https://www.dinecollege.edu/careers/
+
+----
+
+[ ] Sign Lanuage
+    * Tomkins, William. "Indian Sign Language," New York: Dover, 1969,
+      130pp. https://archive.org/details/indiansignlangua00tomk
+    * https://plainsindiansignlanguage.com/
+    * https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language
+    * https://www.audicus.com/before-american-sign-language-there-was-native-american-sign-language/
+[ ] Put O.M. Wozencraft's California [Indian
+    notice](https://www.youtube.com/watch?v=XAxaeKk_FoA&list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ)
+    in context
+    * https://en.wikipedia.org/wiki/O._M._Wozencraft
+    * https://americanindian.si.edu/nationtonation/unratified-california-treaty-k.html
 [ ] Encyclopedia of American Indian issues today (2013)    
     https://archive.org/details/encyclopediaofam0001unse_v0q3
-[ ] Understand the DOI Buyback program: https://www.doi.gov/buybackprogram/about
 [ ] Records of the Bureau of Indian Affairs [BIA]
     (Record Group 75) 1793-1989    
     https://www.archives.gov/research/guide-fed-records/groups/075.html
@@ -17,14 +30,12 @@
     https://iltf.org/
 [ ] Indian Nations Tribal Sovereignty    
     http://americanindiansource.com/sovereignty.html
-[ ] Tribe data    
+[ ] Selected tribe data    
     https://docs.google.com/spreadsheets/d/13FZgIL9f8tWP-FKXhLnpROg97FjOSJsoqx3xaOnlx-8/
 [ ] _When the Great Spirit Died_: The Destruction of the California
     Indians, 1850-1860 By William B. Secrest · 2003
 [ ] National Museum of the American Indian    
     https://americanindian.si.edu/
-[ ] https://en.wikipedia.org/wiki/O._M._Wozencraft
-[ ] https://americanindian.si.edu/nationtonation/unratified-california-treaty-k.html
 [ ] American Indian Religious Freedom Act    
     https://en.wikipedia.org/wiki/American_Indian_Religious_Freedom_Act
 [ ] Outline of United States federal Indian law and policy    
@@ -41,11 +52,14 @@
     https://www.fdlp.gov/news-and-events/3489-digitized-version-of-kappler-s-indian-affairs-laws-and-treaties-now-available
 [ ] What's this? https://archive.org/details/lawsofunitedstat1899unit/page/10/mode/2up
 
-### 500 Years of Indigenous Resistance
 
-by Gord Hill
+### _500 Years of Indigenous Resistance_
 
-2002
+![alt](https://images-na.ssl-images-amazon.com/images/I/41hUWrO5AJL._SX313_BO1,204,203,200_.jpg)
+
+1992 by Anonymous, The Anarchist Library
+
+2002 by Gord Hill
 
 An alternative and unorthodox view of the colonization of the Americas
 by Europeans is offered in this concise history. Eurocentric studies
@@ -62,6 +76,9 @@ that these confrontations shaped the forms and extent of
 colonialism. This account encompasses North and South America, the
 development of nation-states, and the resurgence of indigenous
 resistance in the post-World War II era.
+
+* https://archive.org/details/al_Anonymous_500_Years_of_Indigenous_Resistance_a4
+* https://archive.org/details/GordHill500YearsOfIndigenousResistance/
 
 
 ### A Forest of Time: American Indian Ways of History
@@ -132,17 +149,6 @@ https://www.aiccsf.org/updates
 ### American Indian Movement on the Internet Archive
 
 https://archive.org/search.php?query=American+Indian+Movement
-
-
-### American Indian Movement _Documentary 1970s_
-
-Presented via YouTube by
-[aimmovementmedia](https://www.youtube.com/channel/UCK7AP8Z_lCvKs0l3-9YImaQ)
-
-A part of the A.I.M. Media Project, bringing the American Indian
-Movement audio and video archives to the public.
-
-https://www.youtube.com/watch?v=7CoypTJgG74
 
 
 ### Bay Area American Indian Two-Spirits
@@ -272,6 +278,23 @@ confederation, as were notions of individual liberty and the
 separation of powers. [more...](https://en.wikipedia.org/wiki/Great_Law_of_Peace#Influence_on_the_United_States_Constitution)
 
 
+### House Made of Dawn
+
+![alt](https://prodimage.images-bn.com/pimages/9780062909954_p0_v5_s550x406.jpg)
+
+by N. Scott Mamaday
+
+1968 · Novel/Historical Fiction · 
+
+_Pulitzer Prize for Fiction_
+
+House Made of Dawn is a 1968 novel by N. Scott Momaday, widely
+credited as leading the way for the breakthrough of Native American
+literature into the mainstream. It was awarded the Pulitzer Prize for
+Fiction in 1969, and has also been noted for its significance in
+Native American anthropology.
+
+
 ### John Trudell and his Legacy in the Hemp World
 
 By Marc Grignon
@@ -288,6 +311,8 @@ https://www.hemphistoryweek.com/post/john-trudell-and-his-legacy-in-the-hemp-wor
 
 
 ### _Kill the Indian, Save the Man_
+
+![alt](https://i.pinimg.com/600x315/51/d4/5b/51d45b6aa9aacad4e24c606092ca9d9f.jpg)
 
 by Ward Churchill
 
@@ -348,19 +373,6 @@ your honor, to help us._
   https://www.youtube.com/watch?v=rhJYX8umA5E
 * Peyote Way Church of God    
   https://peyoteway.org/
-
-
-### The Return of Navajo Boy
-
-![alt](https://m.media-amazon.com/images/M/MV5BMjk0ZWVhMmEtNjNiZC00ZWZlLWI2NmQtODM2MjNmMDI4M2E3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg)
-
-2000 ‧ Documentary/History/Native Americans ‧ 52 mins
-
-The Return of Navajo Boy is a documentary film produced by Jeff Spitz
-and Bennie Klain about the Cly family, Navajo who live on their
-reservation.
-
-https://navajoboy.com/watch/
 
 
 ### The Long Death: The Last Days of the Plains Indians

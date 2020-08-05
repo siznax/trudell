@@ -7,13 +7,6 @@ Articles
   http://plainshumanities.unl.edu/encyclopedia/
 
 
-Media
------
-
-* [Democracy Now!](https://democracynow.org/)
-* [Indian Country Today](https://indiancountrytoday.com/)
-* [Lakota Times](https://www.lakotatimes.com/), Pine Ridge Indian Reservation
-
 Projects
 --------
 

@@ -13,7 +13,24 @@ Ancestry
   https://www.narf.org/nill/resources/roots.html     
   _We hope this guide will help you get started tracing your Native
   American roots_
+* Am I Native American?      
+  https://www.powwows.com/am-i-native-american-how-to-find-my-indian-ancestors/
+  _How to Find My Indian Ancestors - Native American Geneaology_
 
+Art
+
+* National Museum of the American Indian    
+  https://en.wikipedia.org/wiki/National_Museum_of_the_American_Indian
+* George Gustav Heye Center    
+  https://en.wikipedia.org/wiki/George_Gustav_Heye_Center
+* E. Irving Couse (1866-1936)    
+  https://en.wikipedia.org/wiki/E._Irving_Couse
+    * _Elk Foot of the Taos Tribe_, 1909 painting considered Couse's
+      masterpiece    
+      https://en.wikipedia.org/wiki/Elk-Foot_of_the_Taos_Tribe
+    * _The Captive_, a controversial 1891 painting    
+      https://en.wikipedia.org/wiki/E._Irving_Couse#/media/File:E._Irving_Couse,_'The_Captive',_1891.jpg
+    
 Assimilation
 
 * Cultural Assimilation of Native Americans    
@@ -37,6 +54,10 @@ Black Elk
 * https://en.wikipedia.org/wiki/Black_Elk
 * https://en.wikiquote.org/wiki/Black_Elk
 
+Cannabis
+
+* https://deeprootzcannabis.com/
+
 Charles Eastman
 
 * https://en.wikipedia.org/wiki/Charles_Eastman
@@ -48,10 +69,16 @@ Chief Joseph
 * https://en.wikipedia.org/wiki/Chief_Joseph
 * https://en.wikiquote.org/wiki/Chief_Joseph
 
+Corporations
+
+* Nana Management Services https://www.nmsusa.com/
+
 Crazy Horse
 
 * https://en.wikipedia.org/wiki/Crazy_Horse
 * https://en.wikiquote.org/wiki/Crazy_Horse
+
+Death
 
 Disease
 
@@ -111,6 +138,12 @@ Indian Country
 * https://indiancountrytoday.com/
 * https://en.wikipedia.org/wiki/Indian_country
 
+Jobs
+
+* https://www.indianz.com/Jobs/
+* https://www.dinecollege.edu/careers/
+* https://dinecollege.isolvedhire.com/jobs/
+
 John Trudell    
 https://en.wikipedia.org/wiki/John_Trudell
 
@@ -164,6 +197,16 @@ Land Treaties
   https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)      
   _British ceded a vast amount of Indian territory to the U.S._
 
+Law News
+
+1. National Indian Law Library Current Events    
+   https://www.narf.org/nill/bulletins/news/currentnews.html    
+   _Selected Native American News Stories_
+1. National Indian Law Library blog    
+   https://nill-news.narf.org/    
+  _A blog covering current events in federal and tribal American
+  Indian Law._
+
 Leonard Peltier
 
 Libraries
@@ -177,15 +220,19 @@ Literature
 
 * https://en.wikipedia.org/wiki/Native_American_Renaissance
 
+Missing and murdered Indigenous women
+
+* https://en.wikipedia.org/wiki/Anna_Mae_Aquash
+* https://en.wikipedia.org/wiki/Missing_and_murdered_Indigenous_women
+
 Money
 
 * Individuals Indian Money (IIM) Accounts
   https://www.bia.gov/bia/ois/dhs/individuals-indian-money-accounts
 
-Missing and murdered Indigenous women
+Music
 
-* https://en.wikipedia.org/wiki/Missing_and_murdered_Indigenous_women
-* https://en.wikipedia.org/wiki/Anna_Mae_Aquash
+* 
 
 Native Americans in the United States
 
@@ -196,17 +243,7 @@ Native American Rights Fund
 * https://en.wikipedia.org/wiki/Native_American_Rights_Fund
 * http://www.narf.org/ redirects to https://www.engagingnetworks.net/
 
-News
-
-* Native Roots Radio    
-  http://www.nativerootsradio.com/
-* National Indian Law Library Current Events    
-  https://www.narf.org/nill/bulletins/news/currentnews.html    
-  _Selected Native American News Stories_
-* National Indian Law Library blog    
-  https://nill-news.narf.org/    
-  _A blog covering current events in federal and tribal American
-  Indian Law._
+[News](news.md)
 
 Oral traditions
 
@@ -214,6 +251,12 @@ Oral traditions
 * The Seven Grandfathers
 * Turtle Island    
   https://en.wikipedia.org/wiki/Turtle_Island_(Native_American_folklore)
+
+Origins
+
+* Atlatl darts
+* Emergence points
+* Clovis points
 
 Organizations
 
@@ -250,6 +293,18 @@ Outlawed Practices
 * **Peyote** (called "the peyote cult", violating the Bureau's _religious crimes code_)
 * Speaking **Native languages**
 * **Traditional dances** (Sun Dance, ...)
+
+Powwow
+
+* Powwows.com http://powwows.com/
+* Pow-wow Radio ...
+* Gathering of Nations    
+  https://www.gatheringofnations.com/
+* Gathering of Nations Program    
+  https://online.flippingbook.com/view/199601/
+* Gathering of Nations on YouTube    
+  https://www.youtube.com/user/GONpowwow
+* Standing Strong iBook https://archive.org/details/StandingStrongCopy
 
 Red Cloud
 
@@ -290,6 +345,13 @@ Sitting Bull
 
 * https://en.wikipedia.org/wiki/Sitting_Bull
 * https://en.wikiquote.org/wiki/Sitting_Bull
+
+Teachings
+
+* Wolakota Project, South Dakota    
+  https://www.wolakotaproject.org/
+* Teachings of Our Elders, North Dakota    
+  https://teachingsofourelders.org/
 
 Tribes
 
@@ -338,4 +400,4 @@ Wounded Knee
     * https://web.archive.org/web/20050306185558/http://www.dickshovel.com/WKmasscre.html
 
 
-~
+@siznax

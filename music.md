@@ -1,4 +1,53 @@
-John Trudell's Musical career
+* [John Trudell
+  topic](https://www.youtube.com/channel/UCK4DQQdsJDzuNp_Dw3esR9w) on
+  YouTube
+* [Robbie Robertson
+  topic](https://www.youtube.com/channel/UCgkhErULJj1D5EB7IZwDzAQ) on
+  YouTube 
+
+### _Above the Prairie_ (2015) The Pines
+
+![alt](https://img.discogs.com/fG-WSK0SUzqT3dPF5yJB5Crm9l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8064424-1454448030-6947.jpeg.jpg)
+
+https://www.youtube.com/playlist?list=OLAK5uy_l6kNc0HaWOXD_yoHV2t17ixBT7hwPMtOQ
+
+
+### John Trudell Discography on Wikipedia (23 albums)
+
+https://en.wikipedia.org/wiki/John_Trudell#Discography
+
+His music draws from a blend of styles, including rock, blues and
+native beats, pop and political protest songs. He also draws from his
+own poetry. His music can be both insightful and funny.
+
+
+### John Trudell on Discogs (17 albums)
+
+https://www.discogs.com/artist/396964-John-Trudell
+
+John Trudell (February 15, 1946 – December 8, 2015) was an acclaimed
+poet, national recording artist, actor and activist whose
+international following reflects the universal language of his words,
+work and message. Trudell (Santee Sioux) was a spokesperson for the
+Indian of All Tribes occupation of Alcatraz Island from 1969 to
+1971. He then worked with the American Indian Movement (AIM), serving
+as Chairman of AIM from 1973 to 1979. In February of 1979, a fire of
+unknown origin killed Trudell’s wife, three children and
+mother-in-law. It was through this horrific tragedy that Trudell began
+to find his voice as an artist and poet, writing, in his words, “to
+stay connected to this reality.”
+
+### John Trudell .com (12 albums)
+
+Links to Amazon partner sales only.
+
+https://www.johntrudell.com/discography/
+
+
+----
+
+### John Trudell's Musical career
+
 https://en.wikipedia.org/wiki/John_Trudell#Musical_career
 
 > In 1979, Trudell met musical artist and activist Jackson Browne and
@@ -43,29 +92,5 @@ https://en.wikipedia.org/wiki/John_Trudell#Musical_career
 > The closing sequence of Alanis Obomsawin's 2014 documentary film
 > Trick or Treaty? is set to Trudell's song "Crazy Horse."[21]
 
-John Trudell Discography on Wikipedia (23 albums)
-https://en.wikipedia.org/wiki/John_Trudell#Discography
 
-> His music draws from a blend of styles, including rock, blues and
-> native beats, pop and political protest songs. He also draws from his
-> own poetry. His music can be both insightful and funny.
-
-John Trudell on Discogs (17 albums)
-https://www.discogs.com/artist/396964-John-Trudell
-
-> John Trudell (February 15, 1946 – December 8, 2015) was an acclaimed
-> poet, national recording artist, actor and activist whose
-> international following reflects the universal language of his words,
-> work and message. Trudell (Santee Sioux) was a spokesperson for the
-> Indian of All Tribes occupation of Alcatraz Island from 1969 to
-> 1971. He then worked with the American Indian Movement (AIM), serving
-> as Chairman of AIM from 1973 to 1979. In February of 1979, a fire of
-> unknown origin killed Trudell’s wife, three children and
-> mother-in-law. It was through this horrific tragedy that Trudell began
-> to find his voice as an artist and poet, writing, in his words, “to
-> stay connected to this reality.”
-
-John Trudell .com (12 albums Amazon.com links)
-https://www.johntrudell.com/discography/
-
-> Amazon partner sales only.
+@siznax
