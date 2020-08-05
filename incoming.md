@@ -1,3 +1,8 @@
+[ ] Bertrand and her partner, John Trudell, founded the All Tribes
+    Foundation, to support the cultural and economic survival of
+    Native peoples.[9] By 2007, the foundation had issued over
+    $800,000 in grants to reservation-based programs that strengthen
+    tribal ways of life and safeguard a future for Native communities.
 [ ] Transcribe and archive "John Trudell - American Indian Wisdom"    
     https://www.youtube.com/watch?v=XAxaeKk_FoA&list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ
 [ ] In Memory Of John Trudell    
@@ -7,11 +12,14 @@
     * https://books.google.com/books/about/Foundations_of_Navajo_Culture.html?id=r8OhHAAACAAJ
 [ ] Finish reading The Politics of Morality    
     https://in.nau.edu/wp-content/uploads/sites/101/2019/09/Smith-2018.pdf
-[ ] Understand the DOI Buyback program (until 2022)    
+[ ] Understand the Dept. of the Interior Buyback program (until 2022)    
     https://www.doi.gov/buybackprogram/about
 
 ----
 
+[ ] Snyder, Gary. "Turtle Island," New York: New Directions, 1974,
+    132pp.    
+    https://archive.org/details/turtleisland00snyd
 [ ] Mooney, James. "The Ghost-dance Religion and the Sioux Outbreak of
     1890", U.S. GPO, 1896, 598pp.    
     https://archive.org/details/ghostdancerelig01moongoog
