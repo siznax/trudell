@@ -1,9 +1,4 @@
-### "We must go beyond the arrogance of human rights. We must go beyond
-### the ignorance of civil rights. We must step into the reality of
-### natural rights because all of the natural world has a right to
-### existence and we are only a small part of it. There can be no
-### trade-off."
-
+# "We must go beyond the arrogance of human rights. We must go beyond the ignorance of civil rights. We must step into the reality of natural rights because all of the natural world has a right to existence and we are only a small part of it. There can be no trade-off."
 
 _Lines From a Mined Mind_, 2008
 
