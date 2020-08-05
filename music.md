@@ -1,15 +1,21 @@
 * [John Trudell
   topic](https://www.youtube.com/channel/UCK4DQQdsJDzuNp_Dw3esR9w) on
   YouTube
+* [Jesse Ed Davis](https://en.wikipedia.org/wiki/Jesse_Ed_Davis)
+* [Jesse Ed Davis
+  topic](https://www.youtube.com/channel/UCpHT1Y0RhN5f8gg6RZumuyg) on
+  YouTube 
 * [Robbie Robertson
   topic](https://www.youtube.com/channel/UCgkhErULJj1D5EB7IZwDzAQ) on
   YouTube 
-
-### _Above the Prairie_ (2015) The Pines
-
-![alt](https://img.discogs.com/fG-WSK0SUzqT3dPF5yJB5Crm9l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8064424-1454448030-6947.jpeg.jpg)
-
-https://www.youtube.com/playlist?list=OLAK5uy_l6kNc0HaWOXD_yoHV2t17ixBT7hwPMtOQ
+* [_A Moment of
+  Forever_](https://en.wikipedia.org/wiki/A_Moment_of_Forever) (1995)
+  by Kris Kristofferson. The song "Johnny Lobo" is about the Indian
+  activist John Trudell.
+* [_Above the
+  Prairie_](https://www.youtube.com/playlist?list=OLAK5uy_l6kNc0HaWOXD_yoHV2t17ixBT7hwPMtOQ)
+  (2015) The Pines. The song "Time Dreams" features John Trudell and
+  Quiltman. 
 
 
 ### John Trudell Discography on Wikipedia (23 albums)
@@ -36,6 +42,7 @@ unknown origin killed Trudell’s wife, three children and
 mother-in-law. It was through this horrific tragedy that Trudell began
 to find his voice as an artist and poet, writing, in his words, “to
 stay connected to this reality.”
+
 
 ### John Trudell .com (12 albums)
 
