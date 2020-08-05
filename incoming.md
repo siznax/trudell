@@ -1,21 +1,30 @@
-[ ] Find a copy of Dr. Aronilth's book...
-    * https://www.worldcat.org/title/foundations-of-navajo-culture/oclc/41174674?referer=di&ht=edition
-    * https://books.google.com/books/about/Foundations_of_Navajo_Culture.html?id=r8OhHAAACAAJ
-[ ] Finish reading The Politics of
-    Morality... https://in.nau.edu/wp-content/uploads/sites/101/2019/09/Smith-2018.pdf
 [ ] Transcribe and archive "John Trudell - American Indian Wisdom"    
     https://www.youtube.com/watch?v=XAxaeKk_FoA&list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ
-[ ] Understand the DOI Buyback program: https://www.doi.gov/buybackprogram/about
-[ ] Diné College Careers https://www.dinecollege.edu/careers/
+[ ] In Memory Of John Trudell    
+    https://www.youtube.com/channel/UCdWusYD5UmtXbrCwjToWweA
+[ ] Find a copy of Dr. Aronilth's book    
+    * https://www.worldcat.org/title/foundations-of-navajo-culture/oclc/41174674?referer=di&ht=edition
+    * https://books.google.com/books/about/Foundations_of_Navajo_Culture.html?id=r8OhHAAACAAJ
+[ ] Finish reading The Politics of Morality    
+    https://in.nau.edu/wp-content/uploads/sites/101/2019/09/Smith-2018.pdf
+[ ] Understand the DOI Buyback program (until 2022)    
+    https://www.doi.gov/buybackprogram/about
 
 ----
 
+[ ] Mooney, James. "The Ghost-dance Religion and the Sioux Outbreak of
+    1890", U.S. GPO, 1896, 598pp.    
+    https://archive.org/details/ghostdancerelig01moongoog
+[ ] Indian Songs Today, issued by the Bureau of Indian Affairs
+    https://archive.org/details/podcast_indian-songs-today_1121382367?sort=-downloads
 [ ] Sign Lanuage
     * Tomkins, William. "Indian Sign Language," New York: Dover, 1969,
       130pp. https://archive.org/details/indiansignlangua00tomk
     * https://plainsindiansignlanguage.com/
     * https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language
     * https://www.audicus.com/before-american-sign-language-there-was-native-american-sign-language/
+[ ] _An Illustrated Guide to American Folklife Center_    
+    https://www.loc.gov/folklife/guide
 [ ] Put O.M. Wozencraft's California [Indian
     notice](https://www.youtube.com/watch?v=XAxaeKk_FoA&list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ)
     in context
@@ -293,6 +302,29 @@ credited as leading the way for the breakthrough of Native American
 literature into the mainstream. It was awarded the Pulitzer Prize for
 Fiction in 1969, and has also been noted for its significance in
 Native American anthropology.
+
+### Indian Rezervation Blues And More
+
+2009 · Blues/Compilation
+
+A unique project presenting the best Native American music from the US
+and Canada of today : Blues, Country, Folk music, Traditional songs
+and chants, Americana... even some R'n'B and Hip-Hop music, American
+Indian style! 3 CDs - 3 hours of music - 30 minutes of video - 33
+Artists - a 48-page booklet with an introduction by Pura Fe' (artist),
+Elaine Bomberry (television producer) and Guy “The American” Fay
+(talent scout). This 3-CD collection sets the record straight about
+the reality of Indian music, highlighting its strong influence on
+American music in general, and blues in particular. This set
+introduces us to the “Real Indians” of today who express their
+rebellion through hip-hop, performing highly original music that
+carries traces of blues, rock and country. It is time to re-evaluate
+the culture of the indigenous, “First Nations” people of North
+America, and the influence they have had since the beginning of
+American roots music.
+
+* https://archive.org/details/wcd_indian-rezervation-b_a-paul-ortega_flac_lossless_30830883
+* https://www.discogs.com/Various-Indian-Rezervation-Blues-And-More/release/3271453
 
 
 ### John Trudell and his Legacy in the Hemp World

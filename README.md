@@ -3,7 +3,11 @@ political activist. He was the spokesperson for the United Indians of
 All Tribes' takeover of Alcatraz beginning in 1969, broadcasting as
 Radio Free Alcatraz.
 
-See [incoming](incoming.md), [index](index.md)
+See
+[_Crazy Horse_](https://www.youtube.com/watch?v=HAyWre4j8U4),
+[index](index.md), 
+[incoming](incoming.md)
+
 
 ### A [Lakota timeline](timeline.md)
 
