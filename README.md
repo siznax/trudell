@@ -25,6 +25,7 @@ See
   were illegally taken and that the Sioux Nation should be awarded
   $106 million dollars. The Sioux decline, saying ["The Black Hills Are
   Not For Sale"](https://en.wikipedia.org/wiki/Black_Hills_land_claim)
+* [Jim Crow laws overruled](https://en.wikipedia.org/wiki/Jim_Crow_laws) (1965)
 * 1900: U.S. Indian population less than 250,000 compared to 8 million
   in 1492.
 
