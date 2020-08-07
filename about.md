@@ -17,9 +17,8 @@ Turtle Island (North America) since the arrival of Europeans.
 
 I am gathering and organizing material on GitHub because it is free,
 reliable, and durable. All data and media there will be uploaded to a
-new collection on the Internet Archive which has a mandate to protect,
-preserve, and make available this collection for free, forever, by
-virtue of its stated mission: "Universal Access to All Knowledge".
+new collection to an organization which has a mandate to protect,
+preserve, and make available this collection for free, forever.
 
 I claim no right to do this. I am only a strongly like-minded human
 (and coincidental technologist). I was born in the U.S., but I am
@@ -33,12 +32,11 @@ better way to preserve and amplify John's voice, please contact me. I
 would very much like to help.
 
 Ultimately, I hope we can announce a new "American Indian" collection
-with a pow wow at the Internet Archive where selections from John’s
-1983 album _Tribal Voice_ can be performed live with tribal members
-and speakers selected to read John's poems. I also hope we can present
-a new name for the collection in honor of John Trudell and his
-contributions to indigenous peoples and like minded people
-everywhere.
+with a pow wow where selections from John’s 1983 album _Tribal Voice_
+can be performed live with tribal members and speakers selected to
+read John's poems. I also hope we can present a new name for the
+collection in honor of John Trudell and his contributions to
+indigenous peoples and like minded people everywhere.
 
 
 Steve Sisney
