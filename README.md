@@ -11,6 +11,8 @@ called himself a [Blue Indian](https://youtu.be/foQKPMGA1Ws).
 2000s
 
 * 2020: Covid-19 hits indigenous communities the hardest
+* 2020: Trump [threatens protesters](stacks/2020-trump-fourth.md) from
+  the Black Hills for fourth of July
 * 2015: John Trudell [died of cancer](trudell-2015-death.md) on 8
   December
 
@@ -89,6 +91,12 @@ Leading up to the **Bureau of Indian Affairs**
 * [First enslaved Africans arrive](https://en.wikipedia.org/wiki/The_1619_Project) (1619)
 * [Native American Genocide](https://en.wikipedia.org/wiki/Genocide_of_indigenous_peoples#Native_American_Genocide) (1492-)
 * [Pre-Columbian Settlement](https://en.wikipedia.org/wiki/Archaeology_of_the_Americas) (10,000 years ago)
+
+
+### Contribute
+
+Please contribute by studying, sharing, and discussing, or by
+submitting material.
 
 
 @siznax
