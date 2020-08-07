@@ -8,8 +8,9 @@ performances, speeches, and talks—other than by fragmentary web sites
 and playlists on social media platforms.
 
 I am backing it all up (archiving it), organizing it, and will attempt
-to present in such a way as **to amplify John's voice and powerful
-words, and to make them freely available forever to everyone**.
+to present in such a way as **to amplify John Trudell's voice and
+powerful words, and to make them freely available forever to
+everyone**.
 
 I am also documenting everything John Trudell had issues with, and
 that is basically the entire history of the indigenous people of
@@ -23,18 +24,18 @@ preserve, and make available this collection for free, forever.
 I claim no right to do this. I am only a strongly like-minded human
 (and coincidental technologist). I was born in the U.S., but I am
 white (of European descent), and I am not a tribe member. However,
-John's life and words have changed my understanding of the world and
-what I choose to do with my time here.
+John Trudell's life and words have changed my understanding of the
+world and what I choose to do with my time here.
 
 I am **seeking guidance and participation** from like-minded people,
-local (Ohlone) tribes, as well as John’s tribe (Sioux). If there is a
-better way to preserve and amplify John's voice, please contact me. I
+local (Ohlone) tribes, as well as Trudell’s tribe (Sioux). If there is
+a better way to preserve and amplify his voice, please contact me. I
 would very much like to help.
 
 Ultimately, I hope we can announce a new "American Indian" collection
-with a pow wow where selections from John’s 1983 album _Tribal Voice_
-can be performed live with tribal members and speakers selected to
-read John's poems. I also hope we can present a new name for the
+with a pow wow where selections from Trudell’s 1983 album _Tribal
+Voice_ can be performed live with tribal members and speakers selected
+to read his poems. I also hope we can present a new name for the
 collection in honor of John Trudell and his contributions to
 indigenous peoples and like minded people everywhere.
 
