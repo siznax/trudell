@@ -1,4 +1,7 @@
-I don't really know our native customs yet, but some sort of
-dedication seems appropriate. Until I know better...
+> _To honor Mother Earth and Father Sky_
 
-    To honor Mother Earth and Father Sky
+
+
+
+@siznax
+
