@@ -6,6 +6,9 @@ the spokesperson for the _United Indians of All Tribes_' takeover of
 Alcatraz beginning in 1969, broadcasting as _Radio Free Alcatraz_. He
 called himself a [Blue Indian](https://youtu.be/foQKPMGA1Ws).
 
+See [about.md](about.md)
+
+
 ### An American Indian [chronology](lakota-timeline.md)
 
 2000s
