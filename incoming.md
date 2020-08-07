@@ -1,3 +1,5 @@
+[ ] John Trudell calls himself a Blue Indian    
+    https://www.youtube.com/watch?v=foQKPMGA1Ws
 [ ] Bertrand and her partner, John Trudell, founded the All Tribes
     Foundation, to support the cultural and economic survival of
     Native peoples.[9] By 2007, the foundation had issued over

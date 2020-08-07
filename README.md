@@ -1,20 +1,16 @@
-John Trudell was a Native American author, poet, actor, musician, and
-political activist. He was the spokesperson for the United Indians of
-All Tribes' takeover of Alcatraz beginning in 1969, broadcasting as
-Radio Free Alcatraz.
+# "We must go beyond the arrogance of human rights. We must go beyond the ignorance of civil rights. We must step into the reality of natural rights because all of the natural world has a right to existence and we are only a small part of it." —John Trudell
 
-See
-[_Crazy Horse_](https://www.youtube.com/watch?v=HAyWre4j8U4),
-[index](index.md), 
-[incoming](incoming.md),
-[quotes](quotes.md)
+**John Trudell** (15 Feb 1946-8 Dec 2015) was an _American Indian_
+author, poet, actor, musician, veteran, and political activist. He was
+the spokesperson for the _United Indians of All Tribes_' takeover of
+Alcatraz beginning in 1969, broadcasting as _Radio Free Alcatraz_. He
+called himself a [Blue Indian](https://youtu.be/foQKPMGA1Ws).
 
-
-### A [chronology](lakota-timeline.md)
+### An American Indian [chronology](lakota-timeline.md)
 
 2000s
 
-* 2020: Covid-19 ravages Navajo Nation
+* 2020: Covid-19 hits indigenous communities the hardest
 * 2015: John Trudell [died of cancer](trudell-2015-death.md) on 8
   December
 
