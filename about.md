@@ -34,21 +34,22 @@ of a tribe. However, **John Trudell's life and words have changed my
 understanding of the world and what I choose to do with my time
 here.**
 
-I am **seeking guidance and participation** from friends of John
+**I am seeking guidance and participation** from friends of John
 Trudell, tribal members, and like-minded people everywhere. If there
 is a better way to preserve, contextualize, and amplify his voice,
 please contact me. I would very much like to help because
 non-indigenous people continue to do great harm to the indigenous, so
 **it is critical to help the non-indigenous to understand** that.
 
-I know that we can build an independent "American Indian" collection
-that far exceeds the quality, accessibility, impact, and durability of
-vulnerable personal collections on commercial platforms like Facebook
-and YouTube, official records retained by governments, or even his
-commercially available products. I also know that honoring John
-Trudell's life and work with a dedicated library would be of
-tremendous benefit to this world, especially now, in the wake of the
-brutal killing of George Floyd.
+With indigenous guidance and participation, I know that we can build
+an independent "American Indian" collection that far exceeds the
+quality, accessibility, impact, and durability of vulnerable personal
+collections on commercial platforms like Facebook and YouTube,
+official records retained by governments, or even his commercially
+available products. I also know that honoring John Trudell's life and
+work with a dedicated library would be of tremendous benefit to this
+world, especially now, in the wake of the brutal killing of George
+Floyd.
 
 I propose this collection be the basis for a new library to be named
 in honor of John Trudell and his family for their contributions to
