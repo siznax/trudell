@@ -22,7 +22,7 @@ of Europeans.
 I am gathering and organizing material on GitHub because is easy to
 use, free, accessible, reliable, durable, and capacious. However,
 GitHub is still a commercial enterprise with all of the attendant
-vulnerabilities. Therefor, all documents and media there will be
+vulnerabilities. Therefore, all documents and media there will be
 uploaded/copied to a new collection at a non-government archive which
 has a mandate to preserve, maintain, and make available this
 collection to the public for free, for ever.
@@ -39,7 +39,7 @@ Trudell, tribal members, and like-minded people everywhere. If there
 is a better way to preserve, contextualize, and amplify his voice,
 please contact me. I would very much like to help because
 non-indigenous people continue to do great harm to the indigenous, so
-**it is critical to help the non-indigenous to understand that.**
+**it is critical to help the non-indigenous to understand** that.
 
 I know that we can build an independent "American Indian" collection
 that far exceeds the quality, accessibility, impact, and durability of
@@ -47,14 +47,15 @@ vulnerable personal collections on commercial platforms like Facebook
 and YouTube, official records retained by governments, or even his
 commercially available products. I also know that honoring John
 Trudell's life and work with a dedicated library would be of
-tremendous benefit to this world, especially now.
+tremendous benefit to this world, especially now, in the wake of the
+brutal killing of George Floyd.
 
 I propose this collection be the basis for a new library to be named
 in honor of John Trudell and his family for their contributions to
-indigenous people everywhere. The announcement of the library could be
-an occasion for a pow wow where selections from Trudell’s 1983 album
-_Tribal Voice_ may be performed live with a drum group and speakers 
-selected to read his poems.
+indigenous people everywhere. My hope is that announcing the library
+could be an occasion for a pow wow where selections from Trudell’s
+1983 album _Tribal Voice_ may be performed live with a drum group and
+speakers selected to read his poems.
 
 
 Steve Sisney
