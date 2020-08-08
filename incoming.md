@@ -1,9 +1,12 @@
 Incoming material
 =================
 
+[ ] Sogorea Te Land Trust    
+    * https://en.wikipedia.org/wiki/Sogorea_Te_Land_Trust
+    * https://sogoreate-landtrust.org/    
 [ ] Backup Leonard Peltier websites
+    * https://leonardpeltier.info/
     * https://www.facebook.com/LeonardPeltierUSA/
-    *     
 [ ] Backup US Dept. of Interior's Tribal Documents Archive
     https://www.doi.gov/ost/tribal_doc_archive?page=29
 

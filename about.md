@@ -1,43 +1,60 @@
-Help me build a library for the works of John Trudell.
+Help me build a library to honor and amplify John Trudell's life and
+message at https://github.com/siznax/trudell.
 
-https://github.com/siznax/trudell
+To my knowledge, no one has collected the works of John Trudell—radio
+broadcasts, interviews, articles, letters, poems, music, performances,
+speeches, and talks—other than by fragmentary uploads to social media,
+personal blogs, some commercial websites, and public reporting.
 
-Because, to my knowledge, no one has collected the works of John
-Trudell—radio broadcasts, interviews, articles, letters, poems, music,
-performances, speeches, and talks—other than by fragmentary web sites
-and playlists on social media platforms.
-
-I am backing it all up (archiving it), organizing it, and will attempt
+I am archiving much of this material, organizing it, and will attempt
 to present in such a way as **to amplify John Trudell's voice and
 powerful words, and to make them freely available forever to
-everyone**.
+everyone**. This would not include his commercially viable output, 
+which this library would seek to promote for the benefit of his
+estate.
 
-I am also documenting everything John Trudell had issues with, and
-that is basically the entire history of the indigenous people of
-Turtle Island (North America) since the arrival of Europeans.
+However, archiving John Trudell's life and work is not enough. I am
+also archiving everything John Trudell and his family struggled
+against, including the known (oral and documented) history of the
+indigenous people of Turtle Island (North America) since the arrival
+of Europeans.
 
-I am gathering and organizing material on GitHub because it is free,
-reliable, and durable. All data and media there will be uploaded to a
-new collection to an organization which has a mandate to protect,
-preserve, and make available this collection for free, forever.
+I am gathering and organizing material on GitHub because is easy to
+use, free, accessible, reliable, durable, and capacious. However,
+GitHub is still a commercial enterprise with all of the attendant
+vulnerabilities. Therefor, all documents and media there will be
+uploaded/copied to a new collection at a non-government archive which
+has a mandate to preserve, maintain, and make available this
+collection to the public for free, for ever.
 
-I claim no right to do this. I am only a strongly like-minded human
-(and coincidental technologist). I was born in the U.S., but I am
-white (of European descent), and I am not a tribe member. However,
-John Trudell's life and words have changed my understanding of the
-world and what I choose to do with my time here.
+I claim no right to do this other than that of free speech. I am only
+a strongly like-minded human (and coincidental technologist). I was
+born in the U.S. but I am partly of European descent and not a member
+of a tribe. However, **John Trudell's life and words have changed my
+understanding of the world and what I choose to do with my time
+here.**
 
-I am **seeking guidance and participation** from like-minded people,
-local (Ohlone) tribes, as well as Trudell’s tribe (Sioux). If there is
-a better way to preserve and amplify his voice, please contact me. I
-would very much like to help.
+I am **seeking guidance and participation** from friends of John
+Trudell, tribal members, and like-minded people everywhere. If there
+is a better way to preserve, contextualize, and amplify his voice,
+please contact me. I would very much like to help because
+non-indigenous people continue to do great harm to the indigenous, so
+**it is critical to help the non-indigenous to understand that.**
 
-Ultimately, I hope we can announce a new "American Indian" collection
-with a pow wow where selections from Trudell’s 1983 album _Tribal
-Voice_ can be performed live with tribal members and speakers selected
-to read his poems. I also hope we can present a new name for the
-collection in honor of John Trudell and his contributions to
-indigenous peoples and like minded people everywhere.
+I know that we can build an independent "American Indian" collection
+that far exceeds the quality, accessibility, impact, and durability of
+vulnerable personal collections on commercial platforms like Facebook
+and YouTube, official records retained by governments, or even his
+commercially available products. I also know that honoring John
+Trudell's life and work with a dedicated library would be of
+tremendous benefit to this world, especially now.
+
+I propose this collection be the basis for a new library to be named
+in honor of John Trudell and his family for their contributions to
+indigenous people everywhere. The announcement of the library could be
+an occasion for a pow wow where selections from Trudell’s 1983 album
+_Tribal Voice_ may be performed live with a drum group and speakers 
+selected to read his poems.
 
 
 Steve Sisney
