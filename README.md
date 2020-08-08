@@ -21,8 +21,15 @@ See [about.md](about.md)
   begin**](https://en.wikipedia.org/wiki/Reactions_to_the_George_Floyd_protests)
 * 25 May 2020: [**George Floyd killed by police in Minneapolis** over
   a $20 bill](https://en.wikipedia.org/wiki/Killing_of_George_Floyd)
+* 31 March 2020: San Francisco passes legislation for the formation of
+  an [American Indian Cultural District in San
+  Francisco](https://www.aiccsf.org/)
+* 2018: Farm Bill signed into law with hemp legalized and tribal
+  sovereignty (partially) upheld.
 * 2015: John Trudell [died of cancer](trudell-2015-death.md) on 8
   December
+* 2012: John Trudell starts [Hempseatd Project
+  Heart](https://www.hempsteadprojectheart.org/)
 
 1900s
 
@@ -31,6 +38,10 @@ See [about.md](about.md)
   were illegally taken and that the Sioux Nation should be awarded
   $106 million dollars. The Sioux decline, saying ["The Black Hills Are
   Not For Sale"](https://en.wikipedia.org/wiki/Black_Hills_land_claim)
+* 1979: John Trudell's wife, three children, and mother-in-law killed
+  by house fire on Duck Valley Reservation while John protested in
+  Washington, D.C.
+* 1978: Freedom of Religion Act allowed public ceremony
 * [Jim Crow laws overruled](https://en.wikipedia.org/wiki/Jim_Crow_laws) (1965)
 * 1900: U.S. Indian population less than 250,000 compared to 8 million
   in 1492.
