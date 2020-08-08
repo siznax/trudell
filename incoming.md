@@ -1,6 +1,13 @@
 Incoming material
 =================
 
+To be archived, organized, and contextualized...
+
+[ ] Ramaytush (rah-my-toosh) Ohlone, the original peoples of the San
+    Francisco Peninsula http://www.ramaytush.com/
+[ ] _Hemp Bound_ (2014) by Doug Fine, Willie Nelson calls his 2014
+    hemp book, Hemp Bound, a must-read for anyone entering the
+    industry, and “a blueprint for the America of the future.
 [ ] Sogorea Te Land Trust    
     * https://en.wikipedia.org/wiki/Sogorea_Te_Land_Trust
     * https://sogoreate-landtrust.org/    
