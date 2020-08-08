@@ -14,8 +14,13 @@ See [about.md](about.md)
 2000s
 
 * 2020: Covid-19 hits indigenous communities the hardest
-* 2020: Trump [threatens protesters](stacks/2020-trump-fourth.md) from
-  the Black Hills for fourth of July
+* 4 July 2020: Trump [threatens
+  protesters](stacks/2020-trump-fourth.md) from the Black Hills of
+  South Dakota
+* 26 May 2020: [National and international **protests
+  begin**](https://en.wikipedia.org/wiki/Reactions_to_the_George_Floyd_protests)
+* 25 May 2020: [**George Floyd killed by police in Minneapolis** over
+  a $20 bill](https://en.wikipedia.org/wiki/Killing_of_George_Floyd)
 * 2015: John Trudell [died of cancer](trudell-2015-death.md) on 8
   December
 
