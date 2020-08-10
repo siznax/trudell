@@ -8,61 +8,146 @@ Articles
   https://www.counterpunch.org/?s=john+trudell
 * Encyclopedia of the Great Plains
   http://plainshumanities.unl.edu/encyclopedia/
+* The Third Eye Magazine    
+  http://www.thethird-eye.co.uk/
+* Zinned Project
+    * https://www.zinnedproject.org/news/tdih/alcatraz-occupation/
+    * https://www.zinnedproject.org/materials/indigenous-peoples-history-of-the-us/
+
+Audio
+-----
+
+* Mooney, James [_Recordings of American Indian Ghost Dance songs:
+  Songs from the Indian tribal ghost
+  dances](https://www.loc.gov/item/2014655251/), Washington D.C.:
+  E. Berliner, 1894. 
+* Frances Densmore was a prolific collector of American Indian music
+  who made more than twenty-five hundred wax-cylinder recordings with
+  members of forty tribes between 1907 and the early 1940s. Her
+  extensive collection is part of the Archive of Folk Culture.
 
 
-Projects
---------
+Documents
+---------
 
-* Lakota People's Law Project
-  https://www.youtube.com/user/Lakotalaw1
+Documents created by the tribes
+
 * Native American Documents Project (2007)
   California State University, San Marcos  
   https://public.csusm.edu/nadp/
 
+Government
+----------
 
-GitHub
-------
-
-* https://help.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets
-
+* An Introduction to Tribal Nations & The United States
+  National Congress of American Indians
+  http://www.ncai.org/about-tribes
+* Tribal Nations
+  U.S. Dept. of the Interior    
+  https://www.doi.gov/tribes
 
 Records
 -------
 
 Documents created by Federal agencies
 
-* **American Indian Records** in the National Archives
+* American Indian Records in the National Archives
   https://www.archives.gov/research/native-americans
-* US Department of the Interior **Tribal Documents Archive**
-  https://www.doi.gov/ost/tribal_doc_archive?page=29
-
-
-Treaties
---------
-
 * List of U.S. Native American treaties    
   https://en.wikipedia.org/wiki/List_of_United_States_treaties#U.S.%E2%80%93Native_American_treaties
 * Treaties Between the United States and Native Americans at Yale Law School    
   https://avalon.law.yale.edu/subject_menus/ntreaty.asp
+* US Department of the Interior **Tribal Documents Archive**
+  https://www.doi.gov/ost/tribal_doc_archive?page=29
+
+For Kids
+--------
+
+* Native Americans at National Geographic Kids
+  https://kids.nationalgeographic.com/explore/native-americans/
+
+Maps
+----
+
+* Tribal Nations Maps
+  http://tribalnationsmaps.com/
+
+Nature
+------
+
+* Earth Justice Library
+  https://earthjustice.org/library
+* The Cultural Conservancy
+  https://nativeland.org/  
+
+Projects
+--------
+
+* Lakota People's Law Project
+  https://www.youtube.com/user/Lakotalaw1
+
+Research
+--------
+
+* STEPS FOR CONDUCTING RESEARCH AND EVALUATION IN NATIVE COMMUNITIES
+https://www.samhsa.gov/sites/default/files/nace-steps-conducting-research-evaluation-native-communities.pdf
 
 
-YouTube
--------
 
-* John Trudell - American Indian Wisdom
-  https://www.youtube.com/playlist?list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ
-* OneEarth OneMother - John Trudell, Crazy Horse
-  https://www.youtube.com/playlist?list=PL147616FB8898F4C0
+Video
+-----
 
-### youtube-dl
+* Prelinger videos on Found SF wiki
+  http://www.foundsf.org/index.php?search=prelinger
+* John Trudell topic on YouTube    
+  https://www.youtube.com/channel/UCK4DQQdsJDzuNp_Dw3esR9w
+* John Trudell channel on YouTube    
+  https://www.youtube.com/channel/UCt2KWWXOKWpyeKL3z25Przg
+* The Cultural Conservancy
+  https://www.nativeland.org/videos
+* Unicorn Riot Documentaries    
+  https://unicornriot.ninja/documentary/
 
-https://github.com/ytdl-org/youtube-dl/blob/master/README.md#format-selection
+----
 
-```
-# Download best mp4 format available or any other best if no mp4 available
+Compiled by The Cultural Conservancy https://nativeland.org/
 
-$ youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
-```
+* Advocates for Indigenous California Language Survival  www.aicls.org
+* American Indian Heritage Foundation  www.indians.org
+* American Indian Studies, San Francisco State University  www.sfsu.edu/~ais
+* California Indian Basketweavers Association  www.ciba.org
+* California Indian Storytelling Association  www.cistory.org
+* Center for World Indigenous Studies  www.cwis.org
+* Circle of Stories  www.pbs.org/circleofstories
+* Declaration on the Rights of Indigenous Peoples  www.iwgia.org/sw248.asp
+* First Nations Development Institute  www.firstnations.org
+* Honor the Earth  www.honorearth.org
+* Indian Land Tenure Foundation  www.indianlandtenure.org
+* Indian Law Resource Center  www.indianlaw.org
+* Indigenous Environmental Network  www.ienearth.org
+* Indigenous Language Institute  www.indigenous-language.org
+* Indigenous Peoples Council on Biocolonialism  www.ipcb.org
+* International Funders for Indigenous Peoples  www.internationalfunders.org
+* International Indian Treaty Council  www.treatycouncil.org
+* International Indigenous Peoples Forum  www.firstpeoples.org
+* National Congress of American Indians  www.ncai.org
+* National Environmental Coalition of Native Americans  necona.indigenousnative.org
+* National Museum of the American Indian  www.nmai.si.edu
+* Native American Public Telecommunications  www.nativecalling.org
+* Native American Rights Fund  www.narf.org
+* Native Harvest/White Earth Land Recovery Project  nativeharvest.com
+* Native Seeds/SEARCH  www.nativeseeds.org
+* New Mexico Acequias Association  www.lasacequias.org
+* Red Zone - Eyak Preservation Council  www.redzone.org
+* Sacred Land Film Project  www.sacredland.org
+* Seventh Generation Fund  www.7genfund.org
+* Terralingua  www.terralingua.org
+* Tohono O’odham Community Action  www.tocaonline.org
+* Traditional Native American Farmers Association  www.tnafa.org/TNAFA.html
+* Turtle Island Productions  www.turtle-island.com
+* United Nations Declaration on the Rights of Indigenous Peoples  http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf
+* White Earth Recovery Project www.nativeharvest.com
+* Who Owns Native Culture?  www.williams.edu/go/native
 
 
 @siznax

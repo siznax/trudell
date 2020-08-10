@@ -1,12 +1,11 @@
 # "We must go beyond the arrogance of human rights. We must go beyond the ignorance of civil rights. We must step into the reality of natural rights because all of the natural world has a right to existence and we are only a small part of it." —John Trudell (1946-2015)
 
-**John Trudell** (15 Feb 1946-8 Dec 2015) was an _American Indian_
-author, poet, actor, musician, veteran, and political activist. He was
-the spokesperson for the _United Indians of All Tribes_' takeover of
-Alcatraz beginning in 1969, broadcasting as _Radio Free Alcatraz_. He
-called himself a [Blue Indian](https://youtu.be/foQKPMGA1Ws).
-
-See [about.md](about.md)
+**John Trudell** (15 Feb 1946-8 Dec 2015) was a Santee _American
+Indian_ philosopher, author, poet, actor, musician, veteran, and
+political activist. He was the spokesperson for the _United Indians of
+All Tribes_' takeover of Alcatraz beginning in 1969, broadcasting as
+_Radio Free Alcatraz_. He called himself a [Blue
+Indian](https://youtu.be/foQKPMGA1Ws).
 
 
 ### An American Indian [chronology](lakota-timeline.md)

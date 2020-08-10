@@ -1,5 +1,17 @@
 # "We must go beyond the arrogance of human rights. We must go beyond the ignorance of civil rights. We must step into the reality of natural rights because all of the natural world has a right to existence and we are only a small part of it. There can be no trade-off."
 
+"We’re not Indians and we’re not Native Americans. We’re older than
+both concepts. We’re the people, we’re the human beings."
+
+"I think it's the responsibility of every human being, not just those
+who wear the identity of poet, activist, voter, religious
+person... it's the responsibility of every person. Our responsibility
+is to use our intelligence as clearly and coherently as we possibly
+can."
+
+
+----
+
 _Lines From a Mined Mind_, 2008
 
 "As human beings it is time to take responsibility for the power of

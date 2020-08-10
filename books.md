@@ -1,54 +1,95 @@
-John Trudell's Writing career
-https://en.wikipedia.org/wiki/John_Trudell#Writing_career
+### Lines from a Mined Mind: The Words of John Trudell
 
-> About six months after the deaths of his family, Trudell started
-> writing poetry. He described his work, "They're called poems, but in
-> reality they're lines given to me to hang on to."[22] He has written
-> many poems, including "Baby Boom Che" and "Rant and Roll," and
-> hundreds of others.
-> 
-> In the 2010s he often shared recent poetic musings and written
-> works-in-progress via social media, such as his Facebook page.
-> 
-> Various impromptu videos of Trudell in live concert appearances or
-> addressing political, social, indigenous rights and educational
-> groups are posted on Google's Youtube.com, and although he was
-> sought after by various print and broadcast media outlets for "sound
-> byte commentary," Trudell preferred to speak in less frenetic style
-> directly to gatherings assembled for specific causes that he
-> supports (e.g., advocating on behalf of re-legalizing hemp
-> cultivation for its many beneficial uses, including sustainable
-> paper pulp).
-> 
-> Trudell often used his poetry as lyrics for recordings, and began in
-> 1982 to set them to traditional American Indian music, which also in
-> the 1980s eventually led to the recording of A.K.A Graffiti Man, as
-> he struggled to make sense of bewildering situations that confronted
-> him, including the loss of so many loved ones.
-> 
-> In late 1988, Australian rock band Midnight Oil invited Trudell (as
-> Graffiti Man) to tour with them during their From Diesel and Dust to
-> the Big Mountain world tour. They billed Trudell's part of the show
-> as "Native American activist performance." Members of Midnight Oil
-> played traditional instruments, sang in native American languages,
-> and accompanied songs with heavy psychedelic Hendrix-style guitar,
-> accompanying Trudell. This exposure brought Trudell new and larger
-> audiences.[citation needed]
-> 
-> Trudell also toured in 1993 with Peter Gabriel's global WOMAD (World
-> Music and Dance) production. He was billed as John Trudell,
-> performing his traditional songs and reading his poetry.
-> 
-> In 2008, Trudell published a book, Lines From a Mined Mind: The
-> Words of John Trudell, a collection of 25 years of poetry, lyrics
-> and essays.
+![alt](https://images.bookstore.ipgbook.com/images/book_image/large/9781555916787.jpg)
 
-Bibliography
+2008 · Fulcrum Pub · 280pp
 
-1. Trudell, John. Living in Reality: Songs Called Poems, Society of
-   the People Struggling to be Free, 1982, 71 pages, ISBN B001B0TKZO
-1. Trudell, John. Stickman: Poems, Lyrics, Talks, edited by Paola
-   Igliori. New York, New York: Inanout Press, 1999, 168 pages, ISBN
-   978-0962511981
-1. Trudell, John. Lines From a Mined Mind: The Words of John Trudell,
-   Fulcrum Pub, 2008, 280 pages, ISBN 978-1555916787
+A collection of 25 years of poetry, lyrics and essays.
+
+**John Trudell** is an acclaimed poet, national recording artist,
+actor, and activist whose international following reflects the
+universal language of his words, work, and message. Trudell (Santee
+Sioux) was a spokesperson for the Indian of All Tribes occupation of
+Alcatraz Island from 1969 to 1971. He then worked with the American
+Indian Movement, serving as chairman from 1973 to 1979.
+
+https://fulcrum.bookstore.ipgbook.com/lines-from-a-mined-mind-products-9781555916787.php
+
+### Stickman: Poems, Lyrics, Talks, edited by Paola Igliori
+
+![alt](https://images-na.ssl-images-amazon.com/images/I/31AQujF2E7L._SX337_BO1,204,203,200_.jpg)
+
+1999 · New York: Inanout Press · 168pp
+
+
+### Living in Reality: Songs Called Poems
+
+![alt](https://images-na.ssl-images-amazon.com/images/I/51nnmHD7l7L._SX330_BO1,204,203,200_.jpg)
+
+1982 · Society of the People Struggling to be Free · 71pp
+
+---
+
+### _The Overstory_ by Richard Powers
+
+
+
+### _There, There_
+
+by Tommy Orange
+
+2018 · Novel · 
+
+There There (2018) _A Novel_ by Tommy Orange
+https://www.google.com/books/edition/There_There/Dw83DwAAQBAJ
+
+There There is a wondrous and shattering portrait of an America few
+of us have ever seen. It’s “masterful . . . white-hot
+. . . devastating” (The Washington Post) at the same time as it is
+fierce, funny, suspenseful, thoroughly modern, and impossible to put
+down. Here is a voice we have never heard—a voice full of poetry and
+rage, exploding onto the page with urgency and force. Tommy Orange
+has written a stunning novel that grapples with a complex and
+painful history, with an inheritance of beauty and profound
+spirituality, and with a plague of addiction, abuse, and
+suicide. This is the book that everyone is talking about right now,
+and it’s destined to be a classic.
+
+
+### _The Ohlone Way_
+
+![alt](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJfWkfvQPOOfvuVXCYpsl3jLsdpNLG4gK7YBe5-o-bmWTLF0qS)
+
+_Indian Life in the San Francisco-Monterey Bay Area_
+
+by Malcolm Margolin
+
+1978 · Heyday Books · 182pp
+
+Two hundred years ago, herds of elk and antelope dotted the hills of
+the San Francisco-Monterey Bay area. Grizzly bears lumbered down to
+the creeks to fish for silver salmon and steelhead trout. From vast
+marshlands geese, ducks, and other birds rose in thick clouds "with
+a sound like that of a hurricane." This land of "inexpressible
+fertility," as one early explorer described it, supported one of the
+densest Indian populations in all of North America.
+
+* https://www.google.com/books/edition/The_Ohlone_Way/vapzCy2oVQoC
+
+
+----
+
+1. Black Elk, Nicholas (Oglala Sioux) and John G. Neihardt. Black Elk
+   Speaks: Being the Life Story of a Holy Man of the Oglala
+   Sioux. Lincoln: University of Nebraska Press, 1961.
+1. Klein, Laura F. and Lillian A. Ackerman. Women and Power in Native
+   North America. Norman: University of Oklahoma Press, 1995.
+1. Lame Deer, John (Lakota) and Richard Erdoes. Lame Deer, Seeker of
+   Visions. New York: Simon and Schuster, 1972.
+1. Mehl-Madrona, Lewis (Cherokee/Lakota). Coyote Medicine: Lessons
+   from Native American Healing. New York: Fireside, 1997.
+1. Mooney, James, "The Ghost Dance Religion and the Sioux Outbreak of
+   1890"
+1. Vine, Deloria, Jr. "[Custer died for your sins; an Indian
+   manifesto](https://archive.org/details/custerdiedfory00delo)," New
+   York: Macmillan, 1969.

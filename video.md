@@ -54,8 +54,18 @@ with your soul. With all the sham, drudgery, and broken dreams, it is
 still a beautiful world. Be cheerful, and strive to be happy._
 —[Max Ehrmann, 1920s](https://en.wikipedia.org/wiki/Desiderata)
 
-
 https://www.youtube.com/watch?v=nbSRUtuWh7s
+
+
+### John Trudell: A Blue Indian
+
+2017 · Short Film · John Trudell on YouTube
+
+John Trudell was a poet, recording artist, actor and speaker whose
+international following reflects the universal language of his words,
+work and message.
+
+https://www.youtube.com/watch?v=foQKPMGA1Ws
 
 
 ### Lakota in America 

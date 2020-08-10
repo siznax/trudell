@@ -1,3 +1,18 @@
+Trudell often used his poetry as lyrics for recordings, and began in
+1982 to set them to traditional American Indian music, which also in
+the 1980s eventually led to the recording of A.K.A Graffiti Man, as
+he struggled to make sense of bewildering situations that confronted
+him, including the loss of so many loved ones.
+
+In late 1988, Australian rock band Midnight Oil invited Trudell (as
+Graffiti Man) to tour with them during their From Diesel and Dust to
+the Big Mountain world tour. They billed Trudell's part of the show
+as "Native American activist performance." Members of Midnight Oil
+played traditional instruments, sang in native American languages,
+and accompanied songs with heavy psychedelic Hendrix-style guitar,
+accompanying Trudell. This exposure brought Trudell new and larger
+audiences.
+
 * [John Trudell
   topic](https://www.youtube.com/channel/UCK4DQQdsJDzuNp_Dw3esR9w) on
   YouTube
@@ -16,7 +31,6 @@
   Prairie_](https://www.youtube.com/playlist?list=OLAK5uy_l6kNc0HaWOXD_yoHV2t17ixBT7hwPMtOQ)
   (2015) The Pines. The song "Time Dreams" features John Trudell and
   Quiltman. 
-
 
 ### John Trudell Discography on Wikipedia (23 albums)
 
@@ -49,7 +63,6 @@ stay connected to this reality.”
 Links to Amazon partner sales only.
 
 https://www.johntrudell.com/discography/
-
 
 ----
 

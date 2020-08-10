@@ -18,8 +18,6 @@ covers his rebirth as a poet after his wife died in a house fire
 suspected as arson.
 
 
-
-
 ### Dark Blood
 
 ![alt](https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_21502_79.jpg)
@@ -224,8 +222,6 @@ share what Crazy Horse means in their world today. The film features
 original music created for this story. Sharing their insights are
 Lakota historians Jace DeCory, Donovin Sprague, Wilmer Mesteth and
 Whitney Recountre.
-
-
 
 See also
 

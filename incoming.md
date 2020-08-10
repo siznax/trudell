@@ -3,6 +3,35 @@ Incoming material
 
 To be archived, organized, and contextualized...
 
+[ ] _'Going Green' Is Really 'Going Native': Western Apache Chef Nephi Craig_
+    https://media.npr.org/assets/img/2016/04/01/nephicraig_photo-by-evansung_sq-2b036685be318170cc91ba8223e6a8756ae4726e-s100-c15.jpg)](https://www.npr.org/sections/codeswitch/2016/04/04/470071043/going-green-is-really-going-native-western-apache-chef-nephi-craig
+[ ] _Seminole Patchwork: Admiration And Appropriation_
+   https://www.npr.org/sections/codeswitch/2017/02/18/510241789/seminole-patchwork-admiration-and-appropriation)
+[ ] _Rising: The American Indian Movement and the Third Space of Sovereignty_
+    https://muscarelle.wm.edu/rising/relocation/
+[ ] Remembering John Trudell, Voice of the American Indian Movement
+    https://progressive.org/dispatches/remembering-john-trudell-voice-american-indian-movement/
+[ ] Power and Place: Indian Education in America
+    https://nycstandswithstandingrock.files.wordpress.com/2016/10/vine-deloria-jr-daniel-r-wildcat-power-and-place-indian-education-in-america.pdf
+[ ] Chief Seattle Speech
+    * https://en.wikipedia.org/wiki/Chief_Seattle%27s_speech
+    * http://www.synaptic.bc.ca/ejournal/wslibrry.htm
+    * Answering Chief Seattle By Albert Furtwangler, Chief Seattle · 1997
+      https://www.google.com/books/edition/_/GaNRJF6zQAAC?hl=en&gbpv=0
+    * Ted Perry, "Chief Seattle's Speech"
+      https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Reading%20the%20Region/Texts%20by%20and%20about%20Natives/Texts/8.html
+[ ] _Over 100 Protesters Block Road to Mt. Rushmore During July 4th Festivities_
+    https://unicornriot.ninja/2020/over-100-protesters-block-road-to-mt-rushmore-during-july-4th-festivities/
+[ ] _What It Means To Be A Human Being_ by John Trudell    
+    The Women’s Building, San Francisco
+    https://ratical.org/many_worlds/JohnTrudell/HumanBeing.html
+[ ] _Take Back the Earth_: The Empowering Speech of Native American Rights
+    Defender John Trudell    
+    http://www.thethird-eye.co.uk/john-trudell-speech/
+[ ] _The Difficult Math Of Being Native American_, NPR Codeswitch
+    https://www.npr.org/sections/codeswitch/2018/02/07/583665568/love-and-blood-quantum-buy-in-or-die-out
+[ ] _Broken Promises On Display At Native American Treaties Exhibit_, NPR Codeswitch    
+    https://www.npr.org/sections/codeswitch/2015/01/18/368559990/broken-promises-on-display-at-native-american-treaties-exhibit
 [ ] Ramaytush (rah-my-toosh) Ohlone, the original peoples of the San
     Francisco Peninsula http://www.ramaytush.com/
 [ ] _Hemp Bound_ (2014) by Doug Fine, Willie Nelson calls his 2014
@@ -19,8 +48,14 @@ To be archived, organized, and contextualized...
 
 ---
 
-[ ] John Trudell calls himself a Blue Indian    
-    https://www.youtube.com/watch?v=foQKPMGA1Ws
+[ ] https://en.wikipedia.org/wiki/John_Trudell#Further_reading
+    * Lee Kimberly, "Heartspeak from the Spirit Songs of John Trudell, Keith Secola, and Robbie Robertson", Studies in American Indian Literature, JSTOR, Access provided by University of Illinois @ Urbana-Champaign
+    * Richard Burke, "What Tribe? Whose Island?", The North American Review, Vol. 255, No. 1 (Spring, 1970), pp. 51–56, JSTOR provided by University of Illinois
+    * Liz Cook, "Some Thoughts About Biography", pp. 73–74, Wicazo Sa Review, Vol. 10, No. 1 (Spring, 1994), JSTOR
+    * Louis Heath, "No Rock Is an Island No Rock Is an Island", The Phi Delta Kappan, Vol. 52, No. 7 (Mar. 1971), pp. 397–399, JSTOR
+    * King, Frank J., III. "A Native Voice: Visit Activist/Actor/Artist John Trudell", University of Michigan, ProQuest subscriber only
+    * Akwesasne Notes (1975–1989). Rooseveltown: August 31, 1975. Vol. 7, Iss. 3; p. 14
+    * Segel, Joel. "Interview with John Trudell." Cultural Democracy Spring 1996: 4–6.
 [ ] Bertrand and her partner, John Trudell, founded the All Tribes
     Foundation, to support the cultural and economic survival of
     Native peoples.[9] By 2007, the foundation had issued over
@@ -91,6 +126,128 @@ To be archived, organized, and contextualized...
     Now Available
     https://www.fdlp.gov/news-and-events/3489-digitized-version-of-kappler-s-indian-affairs-laws-and-treaties-now-available
 [ ] What's this? https://archive.org/details/lawsofunitedstat1899unit/page/10/mode/2up
+
+
+----
+
+The Heartbeat of Wounded Knee (2019) by David Treuer
+_Native America From 1890 to the Present_
+https://www.google.com/books/edition/_/oG-DDwAAQBAJ?hl=en
+
+> In The Heartbeat of Wounded Knee, Treuer melds history with
+> reportage and memoir. Tracing the tribes' distinctive cultures from
+> first contact, he explores how the depredations of each era spawned
+> new modes of survival. The devastating seizures of land gave rise to
+> increasingly sophisticated legal and political maneuvering that put
+> the lie to the myth that Indians don't know or care about
+> property. The forced assimilation of their children at
+> government-run boarding schools incubated a unifying Native
+> identity. Conscription in the US military and the pull of urban life
+> brought Indians into the mainstream and modern times, even as it
+> steered the emerging shape of self-rule and spawned a new generation
+> of resistance. The Heartbeat of Wounded Knee is the essential,
+> intimate story of a resilient people in a transformative era.
+
+Voices of Standing Rock (2017)
+https://archive.org/details/podcast_voices-of-standing-rock_1173368814
+
+> Short stories told by water protectors at Standing Rock, ND. "To
+> understand one another brings unity. We need to share our
+> lives. Without fear. Without judgement. And that will create unity
+> that will be unbreakable." - Duane His Chase. That is our mission.
+
+Fighting Addiction on Pine Ridge Reservation (2017)
+The Guardian
+* https://www.theguardian.com/society/2017/sep/29/pine-ridge-indian-reservation-south-dakota
+* https://www.youtube.com/watch?v=FoKF8H1l7NU
+
+> Whiteclay, Nebraska is a tiny unincorporated town that sits on the
+> border with South Dakota. Until its closure by state officials, its
+> four liquor stores sold more than 4m cans of beer a year, almost
+> entirely to members of Lakota Sioux tribe on the Pine Ridge Indian
+> reservation, where the sale of alcohol is banned. The Guardian spent
+> time on the reservation to understand the impact of alcohol on its
+> residents – and the activists and Lakota tribe members determined to
+> keep the town closed
+
+Cursed by Coal: Mining the Navajo Nation (2015)
+VICE News
+https://www.youtube.com/watch?v=F4uGCj6knVw
+
+> There's a resource curse on the Navajo Nation. The
+> 27,000-square-mile reservation straddling parts of Arizona, New
+> Mexico, and Utah has an extremely high abundance of many energy
+> resources — particularly coal. That coal is what's burned to provide
+> much of the Southwest with electricity, and it creates jobs for the
+> Navajo. But the mining and burning have also caused environmental
+> degradation, serious health issues, and displacement.
+
+The Navajo Water Lady (2015)
+CBS Sunday Morning
+https://www.youtube.com/watch?v=hk8Rm9EsET4
+
+> In this corner of the Navajo Nation, just 100 miles west of
+> Albuquerque, N.M., an estimated 40 percent of residents don't have
+> access to running water. Their savior is Darlene Arviso, born and
+> raised on the Reservation, who drives her precious cargo - a tanker
+> truck filled with water - to make monthly deliveries to 250
+> families. Lee Cowan reports.
+
+Why the Sioux Are Refusing $1.3 Billion (2011)
+PBS News Hour
+https://www.youtube.com/watch?v=ObabZdcEXh4
+
+> Members of the Great Sioux Nation could pocket a large sum set aside
+> by the government for taking the resource-rich Black Hills away from
+> the tribes in 1877. But leaders say the sacred land was never, and
+> still isn't, for sale.
+
+Overview of Indian Affairs (1989)
+Senate Committee on the Bureau of Indian Affairs
+30 Jan - 5 Feb 1989
+C-SPAN
+
+* https://www.youtube.com/watch?v=xVANRroxuOo
+* https://www.c-span.org/video/?5987-1/overview-indian-affairs
+
+> Special Committee on Investigations held hearings to examine various
+> matters relating to Indian affairs, focusing on problems arising
+> from Federal Government representation of Indian interests, and
+> alleged fraud and corruption in regulating contracting on Indian
+> reservations.
+
+### Black Hills Speech (1980) Russell Means
+
+* https://theanarchistlibrary.org/library/russell-means-for-america-to-live-europe-must-die
+* http://mikenormaneconomics.blogspot.com/2014/08/russell-means-for-america-to-live.html
+* https://c21stleft.com/2018/11/17/for-america-to-live-europe-must-die-existential-torpor-versus-modernitys-melting-dialectic-a-critique-of-the-reactionary-outlook-of-the-late-north-american-indian-activist-russ/
+* https://www.youtube.com/watch?v=6Pu1q0am91E
+
+> The only possible opening for a statement of this kind is that I
+> detest writing. The process itself epitomizes the European concept
+> of “legitimate” thinking; what is written has an importance that is
+> denied the spoken. My culture, the Lakota culture, has an oral
+> tradition, so I ordinarily reject writing. It is one of the white
+> world’s ways of destroying the cultures of non-European peoples, the
+> imposing of an abstraction over the spoken relationship of a people.
+
+
+### Mission Dolores’ dark legacy for Indians: From salvation to subjugation and death
+
+By Gary Kamiya
+
+San Francsico Chronicle
+
+2 November 2019
+
+https://www.sfchronicle.com/chronicle_vault/article/Mission-Dolores-dark-legacy-for-Indians-From-14785648.php
+
+Mission Dolores is by far the oldest and most historically significant
+building in San Francisco. The white adobe church on Dolores Street
+was once celebrated as a testament to the faith and courage of the
+Spanish colonizers who built it — a reverential attitude enshrined in
+the 1894 statue “Early Days,” which depicted a preaching priest
+looming over a crouching Indian.
 
 
 ### _500 Years of Indigenous Resistance_
@@ -468,12 +625,6 @@ education and action in creating positive
 change. [more...](https://www.hempsteadprojectheart.org/our-story)
 
 https://www.hempsteadprojectheart.org/
-
-
-### Zinned Project
-
-* https://www.zinnedproject.org/news/tdih/alcatraz-occupation/
-* https://www.zinnedproject.org/materials/indigenous-peoples-history-of-the-us/
 
 
 @siznax
