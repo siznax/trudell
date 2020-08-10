@@ -1,0 +1,2784 @@
+U.S. Department of Justice
+Office of Justice Programs
+
+Jan Chaiken, Ph.D.
+Director
+
+American Indians and Crime   
+
+This file was revised
+6/18/99 to be consistent
+with printed report.
+
+By Lawrence A. Greenfeld
+and Steven K. Smith
+BJS Statisticians
+
+February 1999,  NCJ  173386
+
+
+Contents
+
+Foreword  iii
+
+Highlights     v
+
+Measuring criminal victimization 
+among  American Indians 
+
+     Types of violent crime  
+     Sex, age, and location of residence
+          of victims of violent crime
+     Household income of victims
+         of violent crime   
+     Victim-offender relationship
+     Race of offender   
+     Intimate and family violence
+     Alcohol, drugs, and crime    
+     Location of violent crime    
+     Time of violent crime and 
+          crime in the workplace  
+     Weapons and self-protective
+          measures used in violent crime    
+     Injury rates, hospitalization, and financial loss
+     Child abuse and neglect 
+     Reporting violent crime to the police 
+     Arrests of offenders and services to victims    
+     Race and ethnicity in violent victimization
+
+Murder among American Indians
+
+     Circumstances of murder 
+     Murder victim-offender relationship    
+     Race of murderers  
+     Murder weapons
+
+Arrests and convictions of American Indians
+     Felony convictions in State courts
+
+American Indians under correctional supervision
+    Offenses charged in 
+          U.S. district courts    
+     American Indians and the death
+          penalty  
+
+American Indian tribal 
+criminal justice   
+
+
+Sources of data on American Indians 
+and crime
+
+Tables for the graphical figures  
+
+
+
+----------------
+Foreword
+----------------
+
+This report represents a compilation and new analysis of data on
+the effects and consequences of violent crime among American
+Indians.  The report uses data from a wide variety of sources,
+including statistical series maintained by the Bureau of Justice
+Statistics (BJS), the FBI, and the Bureau of the Census.  Data
+are reported from American Indian crime victims on how they were
+affected by the victimization and about who victimized them. The
+report also includes the first BJS estimates of the total number
+of American Indians under the custody or supervision of the
+justice system.
+
+The findings reveal a disturbing picture of American Indian
+involvement in crime as both victims and offenders.  The rate of
+violent victimization estimated from responses by American
+Indians is well above that of other U.S. racial or ethnic
+subgroups and is more than twice as high as the national
+average.  This disparity in the rates of violence affecting
+American Indians occurs across age groups, housing locations,
+income groups, and sexes.
+
+With respect to the offender, two findings are perhaps most
+notable:  American Indians are more likely than people of other
+races to experience violence at the hands of someone of a
+different race, and the criminal victimizer is more likely to
+have consumed alcohol preceding the offense.  However, the
+victim/offender relationships of American Indians parallel that
+of all victims of violence.
+
+On a given day, an estimated 1 in 25 American Indians age 18 or
+older is under the jurisdiction of the criminal justice system
+-- 2.4 times the per capita rate of whites and 9.3 times the per
+capita rate of Asians.  But black Americans, with a per capita
+rate nearly double that of American Indians, are more likely to
+be under the care or custody of correctional authorities.
+
+This report is the first step in a vigorous BJS effort to
+document issues of crime and justice affecting American Indians.
+Statistical programs have been instituted to learn more about
+tribal criminal justice agencies, such as law enforcement and
+confinement facilities, and these will complement data available
+from other BJS series covering the justice system.
+
+This study was prepared as a resource to respond to frequent
+inquiries.  Since the number of American Indians in our annual
+samples are inadequate to provide definitive statistics, this
+report cumulates data from over a 5-year period.  I hope that
+this report will serve as a foundation for other reports and
+discussions about how best to address the problem of crime
+affecting this segment of our population.
+
+BJS has undertaken improvements in the National Crime
+Victimization Survey (NCVS), designed to improve future data
+collection on crime and its consequences for American Indians.
+This year BJS enhanced the NCVS to permit future analyses to
+report statistics on victimizations occurring on tribal lands.
+In addition, victim descriptions of the offender were modified
+to permit greater precision in future statistics about the
+victim's perceptions of the offender's race.  Together, these
+NCVS upgrades will result in much greater detail about both
+locations of crime incidents and perpetrators.  
+
+Valuable contributions to the report were made by Norena Henry,
+Director of the American Indian/Alaska Native Affairs in the
+Office of Justice Programs, and Melvinda Pete, a BJS university
+student intern.  In the development of the report, they helped
+to provide context for the statistical findings.
+
+Jan M. Chaiken, Ph.D.
+Director, Bureau of Justice Statistics
+
+
+-----------------------
+Highlights
+
+
+Violent victimizations, 1992-96 
+
+                        Number of violent 
+                        victimizations per 1,000 
+                        persons age  12 or older**
+
+  All races                   50
+American Indian              124
+Black                         61
+White                         49
+Asian                         29 
+
+**Average annual rate, 1992-96
+
+* American Indians* experience per capita rates of violence 
+which are more than twice those of the U.S. resident population.
+(*Include Alaska Natives and Aleuts.  Asians include Hawaiian 
+Natives and Pacific Islanders.)
+
+------------------------
+Murder, 1992-1996 
+
+                        Number of murders 
+ Race of victim         per 100,000 persons*
+
+American Indian                7
+Black                         34
+White                          5
+Asian                          5
+
+*Average annual rate, 1992-96
+
+* The murder rate among American Indians is 7 per 100,000, a rate 
+similar to that found among the general population.  The rate of 
+murder among blacks is more than 5 times that among American 
+Indians.
+
+------------------------
+Age of victim, 1992-96 
+
+                  Rate of violent 
+                  victimization per 1,000
+                  persons in each group*
+
+Age of victim    All race  American Indians
+
+12-17               116      171
+18-24               100      232
+25-34                61      145
+35-44                44      124
+45-54                27       43
+55 or older           9       14
+
+*Average annual rate, 1992-96
+
+* Rates of violence in every age group are higher among American 
+Indians than that of all races.
+
+* Nearly a third of all American Indian victims of violence 
+are between ages 18 and 24.  This group of American Indians 
+experienced the highest per capita rate of violence of any 
+racial group considered by age--about 1 violence crime for 
+every 4 persons of this age.
+
+------------------------
+Sex of victim, 1992-96
+
+                        Rate of violent 
+                        victimization per 1,000 
+                        persons age 12 or more 
+                        in each group*
+
+ Sex of victim          All races  American Indians
+
+Male                        60      153
+Female                      42       98
+
+*Average annual rate, 1992-96
+
+* Rates of violent victimization for both males and females 
+are higher among American Indians than for all races.  The 
+rate of violent crime experienced by American Indian women 
+is nearly 50% higher than that reported by black males.
+
+------------------------
+Offender race, 1992-96
+
+                    Percent of violent 
+                    victimizations that 
+  Race of victim    were interracial*
+
+American Indian           70%
+Black                     19
+White                     31
+Asian                     68
+
+*Average annual percentage, 1992-96
+
+* At least 70% of the violent victimizations experienced by 
+American Indians are committed by persons not of the same race
+-- a substantially higher rate of interracial violence than 
+experienced by white or black victims.
+------------------------
+
+Alcohol use by the offender, 1992-96  
+
+                    Percent of victims 
+                    of violence reporting 
+Race of victim      offender drinking*
+
+American Indian           46%
+Black                     28
+White                     36
+Asian                     22
+
+*Average annual percentage, 1992-96
+
+* American Indian victims of violence were the most likely 
+of all races of victims to indicate that the offender committed 
+the offense while drinking.
+
+------------------------
+Weapon use by offender, 1992-96 
+
+                       Percent of violent  
+                       victimizations or murders
+
+ Age of victim        All race  American Indians
+
+Firearm in non- 
+lethal violence*         11%         13%
+
+Handgun in  
+lethal violence**        50%         28%
+
+*Average annual percentage, 1992-96
+**Percent of murders, 1976-96
+
+* More than 10% of American Indian nonlethal violent 
+victimizations involved a firearm.  American Indian murder 
+victims were less likely to have been murdered by a handgun 
+than victims of all races.
+
+------------------------
+Crimes reported to the police, 1992-96 
+
+                      Percent of violent 
+                      victimizations reported 
+Race of victim        to the police* 
+
+American Indian             46%
+Black                       50
+White                       41
+Asian                       39
+
+*Average annual percentage, 1992-96
+
+* American Indian victims of violence reported the crime
+to the police at about the average rate for all races.
+
+------------------------
+Arrests of adults and youth, 1996
+ 
+                Number of arrests for Part
+                violent crimes per 100,000
+                persons in each group
+Race of            All      Under 
+arrestees          ages     age 18
+
+American Indian      291      294
+Black                937    1,356
+White                182      283
+Asian                 98      192
+
+* American Indian arrest rates for violence among youth
+were about the same as the rates among white youth in 1996.
+
+* Violent crime arrest rates for American Indian adults 
+similar to those for youth.  Among other racial groups,
+arrest rates for adults are lower than for youth.
+
+------------------------
+Arrests for drug and alcohol offenses, 1997
+ 
+                   Number of arrests
+                   per 100,000 persons
+Arrest             All      American
+offense            races    Indians
+
+Drug                 592      344
+Alcohol-related    1,064    2,550
+
+
+* The 1997 arrest rate among American Indians for alcohol-
+related offenses (driving under the influence, liquor law
+violations, and public drunkenness) was more than double 
+that found among all races.  Drug arrest rates for American 
+Indians were lower than average.
+
+------------------------
+Under correctional supervision or control, 1997
+ 
+                Total under correctional
+                supervision or control
+                per 100,000 adults
+    U.S. total     2,907
+American Indian    4,193
+Black              9,863
+White              2,036
+Asian                414
+
+
+
+* An estimated 63,000 American Indians are under the care,
+custody, or control of the criminal justice system on an
+average day--about 4% of the American Indian population 
+age 18 or older.
+
+* On average in 1997 about 2,000 American Indians per 
+100,000 adults (persons age 18 or older) were serving
+a sentence to probation, about half the rate found among
+blacks.
+
+
+--------------------------------------------------
+In State or Federal prison, 1997
+
+                Number in prison per 
+                100,000 adults
+
+   U.S. total        629
+American Indian      870
+Black              2,895
+White                335
+Asian                104
+
+* In 1997 about 16,000 American Indians were held in local
+jails -- a rate of 1,083 per 100,000 adults, the highest of
+any racial group.
+
+* The rate of American Indians on parole is similar to that
+of the general population, about 300 per 100,000 adults.
+
+* On a per capita basis, American Indians had a rate of 
+prison incarceration about 38% higher than the national
+rate.
+
+--------------------------------------------------
+
+Federal convictions
+
+American Indians convicted
+in Federal district court,
+fiscal year 1997
+
+   Total      854     100%
+Violent 
+  Murder       81       9%
+  Assault     153      18
+  Robbery      22       3
+  Rape        168      20
+  Other        23       3
+Property      178      21
+Drug           93      11
+Other*        134      15
+
+*Includes persons for whom
+the offense was unknown.
+
+* American Indians accounted for 1.5% of Federal case
+filings in U.S. district courts in 1997, and half of 
+these were for violent offenses.
+
+* 854 American Indians were convicted in Federal court--
+9% for murder and 20% for rape.
+--------------------------------------------------
+
+Measuring criminal victimization
+among American Indians
+
+
+American Indians have higher per capita rates of violent
+criminal victimization than whites, blacks, or Asians 
+in the United States, according to data from the National Crime
+Victimization Survey (NCVS).
+
+Population estimates from the Bureau of the Census for July 1,
+1998, indicate that American Indians account for just under 1%
+of the U.S. population:
+
+     All races       270,029,000   100.0%
+
+American Indian*       2,357,000     0.9
+White                222,932,000    82.6
+Black                 34,370,000    12.7
+Asian                 10,370,000     3.8
+
+ *In this report the term American Indian refers to Alaska
+Natives, Aleuts, and American Indians.  The term Asian
+encompasses Asians, Hawaiian Natives, and Pacific Islanders.
+
+Two demographic factors distinguish American Indians 
+from other racial groups:  in 1998 the median age of 
+the American Indian population is nearly 8 years younger
+than the U.S. resident population, and American Indians are the
+most likely to report Hispanic ethnicity.
+
+                     Median       Percent
+Race                 age          Hispanic
+
+     All races          35.2 years  11.3%
+American Indian         27.4        15.2
+White                   36.3        12.4
+Black                   29.9         5.0
+Asian                   31.2         5.8
+
+This report presents data on the rates and characteristics of
+violent crimes, including murder, experienced by American
+Indians.  Information is alsoprovided on American Indians in the
+criminal justice system.
+
+
+Violent crime that American Indians
+reported to the National Crime 
+Victimization Survey
+
+
+The NCVS collects information on the Nation's experience with
+crime. It also collects information on the race of the victim
+and the race of the offender as reported by the victim.
+
+The NCVS provides estimates of the violent crimes of rape,
+sexual assault, robbery, and assault for persons age 12 or
+older.  During 1992-96 the NCVS found that American Indians
+experienced an average of almost 150,000 violent crimes per year
+from among the estimated 10.8 million violent crimes occurring
+on average per year among all racial groups.  Victimization data
+for 1996 indicate that American Indians accounted for about 1.4%
+of all violent victimizations that year, about the same
+percentage as in preceding years.
+
+------------------------
+American Indian tribes 
+in the United States, 1996
+
+
+The indigenous peoples in the United States have 550 
+Federally recognized tribes that have a distinct history 
+and culture and often a separate language.
+
+                         Percent of
+Tribe                    American Indians
+
+Cherokee                     16.4%
+Navajo                       11.7
+Chippewa                      5.5
+Sioux                         5.5
+Choctaw                       4.4
+Pueblo                        2.8
+Apache                        2.7
+All other tribes             51.0
+
+Source:  U.S. Bureau of the Census, Statistical Abstract 
+of the United States, 1997, table 51, p. 51.
+------------------------------------------------
+
+
+The average annual violent crime rate among American 
+Indians -- 124 per 1,000 persons age 12 or older --
+is about 2 1/2 times the national rate (table 1). 
+
+Table 1. Annual average violent victimization rates for persons
+age 12 or older, by race, 1992-96
+ 
+                               Annual average
+                                  Number of        Rate of violent 
+                 Population       violent          victimization per 1,000  
+                 age 12 or order  victimizations   persons age 12 or older  
+
+   All races       213,660,000    10,784,826               50
+American Indian      1,204,014       149,614              124
+White              180,543,825     8,880,083               49
+Black               25,587,158     1,570,386               61
+Asian                6,325,003       184,743               29
+
+Note:  The NCVS estimates of the racial distribution of the resident 
+population age 12 or older for the period 1992-96 correspond closely 
+to the estimates reported by the Bureau of the Census in their P-25 
+series of population estimates.  The NCVS estimate shows that American 
+Indians represented 0.6% of those interviewed while the P-25 estimate 
+shows that American Indians account for 0.8% of the resident population 
+age 12 or older. 
+---------------------------------------------- 
+
+Violent victimizations, 1992-96 
+
+                        Number of violent 
+                        victimizations per 1,000 
+                        persons age  12 or older
+
+  All races                   50
+American Indian              124
+Black                         61
+White                         49
+Asian                         29
+
+----------------------------------------------
+
+
+American Indians are overrepresented among victims of violence
+compared to their share of the general  population age 12 or
+older.              
+
+Table 2             
+
+                        Annual average for persons 
+                        age 12 or older, 1992-96       
+
+                    NCVS estimates     Victims of               
+                    of population      violence   
+
+Total               213.7 million        10.8 million  
+
+American Indian         0.6%                 1.4% 
+White                  84.5                 82.3  
+Black                  12.0                 14.6  
+Asian                   3.0                  1.7  
+
+-------------------------------------------
+The average annual violent crime rate per 1,000 persons age 12
+or older during that period was 49 for whites and 61 for blacks. 
+
+
+The aggravated assault rate among American Indians (35 per
+1,000) was more than 3 times the national rate (11 per 1,000) 
+and twice that for blacks.  The rate of robbery experienced by 
+American Indians (12 per 1,000) was similar to that of black 
+residents (13 per 1,000) (table 3).
+
+----------------------------------------------
+Table 3.  Annual average rate of rape and sexual assault, 
+robbery, and assault, by race of victim, 1992-96
+ 
+                           Number of victimizations per 1,000 persons  
+                           age 12 or older in each racial group
+                           All     American
+                           races   Indian      White    Black    Asian
+   Violent victimizations     50      124       49       61       29
+Rape/sexual assault            2        7        2        3        1
+Robbery                        6       12        5       13        7
+Aggravated assault            11       35       10       16        6
+Simple assault                31       70       32       30       15
+----------------------------------------------
+
+For the 1992-96 period, the average annual per capita rate of
+violent victimization translates into about 1 violent crime for
+every 20 residents age 12 or older.  Substantial variation,
+however, was evident by race.  American Indians experienced
+about 1 violent crime for every 8 residents age 12 or older
+compared to 1 violent victimization for every 16 black
+residents, 1 for every 20 white residents, and 1 for every 34
+Asian residents.
+
+Types of violent crime
+
+The Nation's population of American Indians age 12 or older
+experienced an annual average of 126,400 simple and aggravated
+assaults, 14,800 robberies, and 8,400 rapes or sexual assaults
+during 1992-96.
+
+The types of violent crimes experienced by American Indians were
+generally similar to that found across the Nation (table 4). 
+The most common type of violent crime experienced by American
+Indian victims was simple assault (56%). 
+
+----------------------------------------------
+Table 4. Violent crime, by type of crime and race of victim, 1992-96
+ 
+                                Percent of violent victimizations
+                                All       American
+Type of crime                   races     Indian       White         Black        Asian
+ 
+    Total                       100.0%      100.0%      100.0%       100.0%       100.0%
+ 
+Rape/sexual assault               4.3         5.6         4.3          4.4          4.1
+Robbery                          11.7         9.9         9.7         21.5         24.6
+Aggravated assault               21.8        28.4        21.0         25.7           21
+Simple assault                   62.2        56.1        65.0         48.5         50.2
+ 
+Average annual
+number of victimizations   10,784,826      49,614   8,880,083    1,570,386      184,743
+----------------------------------------------
+
+
+----------------------------------------------
+Graph page 3.  Simple assault rates, 1992-96
+
+                  Number of simple 
+Race of           assaults per 1,000 
+victim            persons age 12 or older
+
+American Indian      70
+Black                30
+White                32
+Asian                15
+----------------------------------------------
+
+
+Among all the violent crimes reported by American Indians, 28%
+were  aggravated assault, 10% robbery, and 6% rape/sexual
+assault.  Asian and black victims of violence were more likely
+than American Indian or white victims to have reported a
+robbery. 
+
+
+Sex, age, and location of residence of 
+victims of violent crime 
+
+
+The violent crime rate among American Indian males was 153 per
+1,000 males age 12 or older, more than double that found among
+all males (60 per 1,000 age 12 or older) (table 5).  The violent
+crime rate for American Indian females during this period was 98
+per 1,000 females, a rate higher than that found among white
+females (40 per 1,000) or black females (56 per 1,000).
+
+----------------------------------------------------------------
+Table 5. Violent crime rates for persons 12 or older,
+by age, sex, locality of residence, and race, 1992-96
+ 
+                        Annual average rates of violent victimization
+                        All      American
+Victim characteristic   races    Indian   White    Black    Asian
+ 
+   Total                50      124       49       61       29
+ 
+Sex
+   Male                 60      153       59       68       37
+   Female               42       98       40       56       21
+ 
+Age
+   12 to 17            116      171      118      115       60
+   18 to 24            100      232      101      105       41
+   25 to 34             61      145       61       66       34
+   35 to 44             44      124       43       51       24
+   45 to 54             27       43       27       30       15
+   55 or older           9       14        8       11        5
+ 
+Location
+   Urban                65      207       63       75       29
+   Suburban             48      138       48       52       29
+   Rural                37       89       37       33       30
+
+----------------------------------------------------------------
+
+
+Among the different age groups, violent crime rates were highest
+(232 per 1,000 persons) for American Indians age 18 to 24.  This
+violent crime rate was more than twice that found among whites
+and blacks of the same age.
+
+About 40% of American Indians reside in rural areas, compared to
+18% of whites and 8% of blacks.  The violent crime rate for
+American Indians was highest for those in urban areas, 207 per
+1,000, and lowest for those in ruralareas, 89 per 1,000. 
+However, this rural crime rate for American Indians is more than
+double that found among rural whites (37 per 1,000) or blacks
+(33 per 1,000).  The urban crime ratefor American Indians is
+more than 3 times that found among urban whites.
+
+About half (52%) of the violent crimes committed against
+American Indians occurred among those age 12 to 24 years (table
+6).  Two percent of the violent crimes committed against
+American Indians were against the elderly, age 55 or older.
+
+---------------------------------------------------
+Table 6.  Violent victimizations, by age, sex,
+and race of victim, 1992-96
+ 
+                         Percent of violent victimizations
+Victim                   All      American
+age/sex                  races    Indian   White    Black    Asian
+ 
+Total                    100.0%   100.0%   100.0%   100.0%   100.0%
+ 
+12-17                     24.2%    20.4%    23.8%    26.8%    24.0%
+18-24                     23.6     31.5     23.4     24.0     21.7
+25-34                     23.6     23.5     23.6     23.2     26.3
+35-44                     17.0     18.0     17.1     16.6     18.3
+45-54                      7.5      4.7      7.8      6.1      7.3
+55 or older                4.1      1.9      4.3      3.3      2.4
+ 
+Male                      57.4%    58.9%    58.4%    50.5%    62.6%
+Female                    42.6     41.1     41.6     49.5     37.4
+ 
+Number of violent
+victimizations      10,784,826  149,614  8,880,083  1,570,386  184,743
+---------------------------------------------------
+
+Nearly 6 in 10 of the violent crimes experienced by American
+Indians had been committed against males, similar to the
+national distribution.  
+
+
+--------------------------------------------------
+
+In 1995 the Bureau of Census reported 2.2 million American
+Indians and Alaska Natives residing in the United States, about
+1.94 million of whom were American Indians.
+
+In 1990 over half of American Indians and Alaska Natives lived
+in 10 States: 
+
+Oklahoma       252,000
+California     242,000 
+Arizona        204,000
+New Mexico     134,000
+Alaska          86,000
+Washington      81,000 
+North Carolina  80,000
+Texas           66,000
+New York        63,000 
+Michigan        56,000
+
+Source:  U.S. Bureau of the Census, 1990 CP-2-1A, Social and
+Economic Characteristics, American Indian and Alaska Native
+Areas.
+
+-----------------------------------------
+
+
+---------------------------------------------------
+American Indians with incomes under $10,000 had the 
+highest rate of violent victimization, 182 per 1,000.
+At every income category American Indians had a 
+higher rate of violent victimization than persons of
+other races.
+
+Table 7.  Violent victimization rates, by annual  
+household income and race, 1992-96
+ 
+                        Number of victimizations per 1,000 persons
+Household               All      American
+income                  races    Indian   White    Black    Asian
+ 
+Less than $10,000        73      182       74       71       30
+$10,000 - 19,999         54      137       51       70       30
+$20,000 - 29,999         48      104       47       56       32
+$30,000 - 39,999         46       72       46       54       22
+$40,000 or more          42       84       42       50       22
+---------------------------------------------------
+
+
+Victim-offender relationship
+
+
+Overall, strangers were reported to have committed 46% of the
+violent crimes against American Indians (table 8).
+
+
+---------------------------------------------------
+
+Table 8.  Violent victimizations of American Indians,
+by victim-offender relationship  and type of victimization, 1992-96
+ 
+                    Percent of violent victimizations
+                    against American Indians
+Type of                      Intimates/      Acquaint-
+victimization       Total    family member   ances    Strangers
+ 
+   All                100%          15%        38%      46%
+Rape                  100           25         43       32
+Robbery               100           10         14       76
+Aggravated assault    100            7         41       51
+Simple assault        100           19         40       40
+
+---------------------------------------------------
+
+
+More than half of the violent victimizations of American Indians
+involved offenders with whom the victim had a prior
+relationship.  About 1 in 6 violent victimizations among
+American Indians involved an offender who was an intimate or
+family member to the victim, about the same as for victims 
+of all races. 
+
+                       Percent of violence
+Victim-offender       All      American   
+relationship          races    Indians
+
+Intimates               11%          8%
+Family members           5           7
+Acquaintances           34          38
+Strangers               51          46
+
+
+
+Race of offender
+
+Violent crime against white or black victims is primarily
+intraracial.  Among white victims of violence, 69% of offenders
+were white (table 9).  Likewise, black victims of violence were
+most likely to have been victimized by a black offender (81%).  
+
+---------------------------------------------------
+
+Table 9.  Percent of violent victimizations, by race of victim
+and race of offender, 1992-96
+ 
+                            Race of offender
+Race of victim       Total    Other    White    Black
+ 
+   All races         100%      11%      60%      29%
+American Indian      100       29       60       10
+White                100       11       69       20
+Black                100        7       12       81
+Asian                100       32       39       29
+ 
+Note: Table excludes an estimated 420,793 victims of violence
+(3.9% of all victims) who could not describe the offender's race.
+
+--------------------------------------------------- 
+
+The NCVS classifies as "other race" those offenders whom victims
+perceive to be Asian or American Indian.  However, based 
+on self-reports of offender race, it is clear that
+American Indians and Asians, when victimized by violence, 
+were the most likely to report that the offender was
+from a different race.
+
+The majority (60%) of American Indian victims of violent crime
+described the offender as white, and nearly 30% of the offenders
+were likely to have been other American Indians.  An estimated
+10% of offenders were described as black.  
+
+
+The less serious the offense, the higher was the percentage of
+American Indian victims of violence describing the offender as
+"other race" (table 10).        
+
+---------------------------------------------------
+
+American Indian victims of rape/sexual assault most
+often reported that the victimization involved an
+offender of a different race.  About 9 in 10
+American Indian victims of rape or sexual assault
+were estimated to have had assailants who were white
+or black.
+
+Two-thirds of more of the American Indian victims of
+robbery, aggravated assault, and simple assault
+described the offender as belonging to a different
+race.
+
+Table 10
+ 
+               Percent of American Indian victims, 1992-96
+Race           All violent      Rape/sexual           Aggravated Simple
+offender       victimizations   assault      Robbery  assault    assault
+ 
+   Total            100%         100%        100%       100%     100%
+ 
+White                63%          82%         55%        61%      59%
+Black                10            6          24         12        8
+Other                29           12          21         27       34
+
+---------------------------------------------------
+
+----------------------------
+Intimate and family violence
+---------------------------
+
+Intimate and family violence each account for about 9% of all
+violent victimizations experienced by American Indian victims,
+about the same percentage as found among all victims of
+violence.  
+
+Most striking among American Indian victims of violence is the
+substantial difference in the racial composition of offenders in
+intimate violence incidents when contrasted with family
+violence.  Among violence victims of all races, about 11% of
+intimate victims and 5% of family victims report the offender to
+have been of a different race; however, among American Indian
+victims of violence, 75% of the intimate victimizations and
+25% of the family victimizations involved an offender of a 
+different race. 
+
+Overall, weapons were used in less than a fifth of the violence
+involving an intimate or family member.
+
+Intimate and family violence involve a comparatively high level
+of alcohol and drug use by offenders as perceived by victims -as
+is the case for Indian and non-Indian victims.  Indian victims
+of intimate and family violence, however, are more likely than
+others to be injured and need hospital care.
+
+Victim-offender relationship
+in violent victimizations, by race, 1992-96
+ 
+                    Percent of violent
+                    victimizations
+Victim-offender     All    American  
+relationship        race   Indians
+
+Intimate            10.7%     8.9%
+Family               4.7      6.7
+Acquaintance        33.7     38.7
+Stranger            50.8     45.7
+
+Note: Intimate violence refers to victimizations involving
+current and former spouses, boyfriends, and girlfriends.
+Family violence refers to victimizations involving spouses
+and other relatives.  Alcohol-involved incidents included
+only those incidents in which the victim felt that he/she
+could determine whether the offender had been using drugs
+or alcohol.
+
+-----------------------------------------------
+
+
+Alcohol, drugs, and crime 
+
+
+Alcohol and drug use was a factor in more than half of violent
+crimes against American Indians (table 11).
+
+
+---------------------------------------------------
+
+Table 11.  Violent crime, by the perceived drug or alcohol
+use of the offender and by race of victim, 1992-96
+ 
+                   Perceived drug or alcohol use by offender
+Race of victim     Total    Alcohol  Drugs    Both     Neither
+ 
+   Total           100%      28%       8%       7%      57%
+ 
+American Indian    100       38        9        8       45
+White              100       29        8        7       56
+Black              100       21        7        7       65
+Asian              100       20        3        2       75
+ 
+Note: Table excludes those respondents who were unable to
+report whether or not they perceived the offender to have been
+using drugs or alcohol.
+
+---------------------------------------------------
+
+
+Substantial differences can be found by race in the reports of
+victims of violence of their perceptions of drug and alcohol use
+by offenders.  Among those who could describe alcohol or drug
+use by offenders, American Indian victims of violence were the
+most likely to report such perceived use by the offender.
+
+Overall, in 55% of American Indian violent victimizations, the
+victim said the offender was under the influence of alcohol,
+drugs, or both.  The offender's use of alcohol and/or drugs was
+somewhat less likely in violent crimes committed against whites
+(44%) or blacks (35%).
+
+-------------------------------------------------------------
+Offenders' use of alcohol and drugs reported by American Indian 
+victims of violence varied with the race of the offender: 
+Intraracial violence was more likely to involve a drinking
+offender while  interracial violence involved higher levels of
+offender drug use.    
+
+According to American Indian victims of violence, offender  
+use of alcohol was a factor in nearly two-thirds of the 
+violent  victimizations in which the offender
+was neither white nor black.  
+
+Table 12
+               
+                      Percent of victimizations in which the 
+Race of               offender was perceived using--               
+victim/offender          Alcohol    Drugs   Both    Neither
+
+American Indian/white       30%     10%      8%        52%
+American Indian/black       35      13       3         49
+American Indian/other       57       1       8         34
+
+White/white                 36%      8%      1%        48%
+Black/black                 21       8       6         66
+Asian/other                 18       2       3         77
+
+----------------------------------------------------------------
+
+---------------------------------------------
+
+An estimated 3 in 4 American Indian victims of family violence
+reported that they perceived the offender to have been drinking
+at the time of the offense.  About half the persons of all races
+who were victims of family violence reported a drinking offender.
+
+                     Percent of violent victimizations
+                     in which the victims felt
+                     certain they could
+                     distinguish alcohol use
+                     by the offender
+
+Victim-offender      All      American
+relationship         races    Indians
+
+Intimate              64.7%    60.9%
+Family                49.2     76.5
+Acquaintance          36.1     40.0
+Stranger              28.9     42.0
+
+Note: Intimates include current and former spouses,
+boyfriends, and girlfriends.  Family includes all 
+other family members.
+
+----------------------------------------------
+
+Location of violent crime
+
+
+Just over 40% of American Indian victims of violence reported
+that the incident occurred in or around their own home or that
+of a friend, relative, or neighbor (table 13). This is higher
+than the approximately one-third of violent victimizations
+reported by victims of all races to have occurred at or near a
+home. 
+
+---------------------------------------------------
+
+Table 13.  Violent incidents, by place of occurrence  
+and race of victim, 1992-96
+ 
+                                          Percent of violent victimizations
+                                          All      American
+Place of occurrence                       races    Indian   White    Black    Asian
+ 
+   Total                                  100%     100%     100%     100%     100%
+Home or lodging                            14       12       14       17       12
+Near own home                              11       17       11       14        9
+At, in, or near friend's, relative's,  
+  or neighbor's home                        9       14        9       10        7
+Commercial places                          13       13       14        9       19
+Parking lots/garages                        8        9        8        6        9
+School                                     13        7       13       11       12
+Open areas, on street or public  
+  transportation                           22       19       21       28       24
+Other                                      10        9       10        6        9
+
+---------------------------------------------------
+
+Nineteen percent of violent victimizations against American
+Indians took place in open areas, on the street or on public
+transportation.  Fewer than 1 in 10 violent crimes were reported 
+to have occurred at school.
+
+---------------------------------------------------
+
+---------------------------------------------------
+Time of occurrence
+
+Half of the violent crimes committed against 
+American Indians occurred after dark.
+About 1 in 5 of the violent victimizations
+took place between midnight and 6 a.m.
+
+Table 14. Violent crime, by time of occurrence  
+and race of victim, 1992-96
+ 
+                     Percent of violent victimizations
+Time of violent      American
+crime occurrence     Indian   White    Black    Asian
+   Total             100%     100%     100%     100%
+Light                 44       52       51       51
+Dark                  52       44       46       45
+Dawn                   5        4        4        4
+ 
+    Total            100%     100%     100%     100%
+6 am-12 noon          11       14       13       17
+12 noon-6 pm          30       38       38       34
+6 pm-midnight         40       35       38       38
+Midnight-6 am         19       13       11       11
+---------------------------------------------------
+
+---------------------------------------------------
+Crime in the workplace
+
+
+On average nearly 2 million violent crimes occurred in the 
+workplace every year.  The workplace accounted for about 
+1 in 5 violent crimes experienced by the public.
+ 
+Among American Indians about 14% of the violent victimizations
+were reported to have occurred in the workplace.
+About 1 in 4 employed American Indian victims of violence
+said that the incident occurred in the workplace.
+
+Table 15
+                                     Percent of victims of violence
+                                   All      American
+                                   races    Indian   White    Black    Asian
+Unemployed                         40%      48%      37%      52%      41%
+Employed                           60       52       63       48       59
+ 
+Percent reporting                                                 
+workplace violence                 31%      26%      32%      25%      31%
+ 
+Percent of all violent incidents
+occurred at the workplace          19%      14%      20%      12%      18%
+
+----------------------------------------------   
+
+
+Weapons used in violent crime
+
+In about a third of the violent crime incidents American Indian
+victims were faced with an offender who had a weapon (table 16).
+
+---------------------------------------------------
+Table 16.  Violent victimizations, by use of weapon  
+and race of victim, 1992-96
+ 
+                         Percent of violent victimizations
+Offender use             All      American
+of weapon                races    Indian   White    Black    Asian
+
+No weapon used           74%      66%      76%      62%      68%
+   Hands/feet only       35       33       35       34       34
+ 
+Weapon used              26%      34%      24%      38%      33%
+   Firearm               11       13        9       19       17
+   Knife                  7        7        6        9        8
+   Blunt object           4        7        4        4        5
+   Other weapon           5        6        5        5        4
+
+---------------------------------------------------
+
+About 13% of the crimes involved an offender with a firearm.
+In almost 70% of the violent crime incidents, the American
+Indian victim resisted the offender, most frequently through the
+use of physical force (table 17).  American Indian victims used
+a weapon in self-defense in less than 3% of the violent
+incidents committed against them.
+
+---------------------------------------------------
+
+Table 17.  Self-protection measures employed by victims,
+by race of victim, 1992-96
+ 
+Self-protective actions                 Percent of violent victimizations
+taken during incident                   American   White    Black    Asian
+ 
+None                                       31%      28%      31%      37%
+ 
+Confrontational actions
+   Used physical force toward offender     18%      14%      15%       9%
+   Weapons                                  3        3        4        1
+   No weapons                              16       11       12        9
+   Chased, tried to catch/hold offender     2        1        1        1
+   Defended self/property                  16       15       16       11
+   Scared or warned off offender            4        5        5        5
+ 
+Nonconfrontational actions
+   Persuaded or appeased offender           7%       9%       8%      11%
+   Ran away, hid, locked door              12       12       11       14
+   Got help or gave alarm                   4        4        4        3
+   Other                                    7       12       10        9
+
+Note: Victims may have used more than one measure.
+
+---------------------------------------------------
+
+
+Injury rates, hospitalization, 
+and financial loss
+
+
+American Indian victims of a violent crime were more likely to
+have been injured than were white or Asian crime victims. Nearly
+a third of the American Indian violent crime victims were
+injured during the incident (table 18).  About a quarter of all
+violence victims of all races were injured during the incident.  
+
+---------------------------------------------------
+Table 18.  Violent victimizations in which the victims sustained
+physical injury or received medical care, by race
+ 
+                              Percent of violent victimizations
+Victim reported                           American
+physical injury              All victims  Indian   White    Black    Asian
+ 
+Yes                               25%      32%      24%      31%      25%
+ 
+Type of injury
+   Sexual assault                  2%       4%       2%       2%       3%
+   Shot/internal injuries          1        3        1        3        2
+   Broken bones/concussion         2        5        2        2        1
+   Bruises                        18       18       18       19       17
+   Other injuries                  3        2        2        4        2
+ 
+Treatment for injuries
+   Not treated                    57%      48%      59%      45%      55%
+   Treated                        44       53       41       55       44
+   At hospital                    19       32       16       26       24
+ 
+Note: The percent treated was calculated on those injured during the violent incident.
+Detail may not add to total because of rounding.
+
+--------------------------------------------------- 
+
+
+As a result of their victimizations, an estimated 18% of
+American Indian victims of violence sustained bruises, the most
+commonly reported injury.  Among those injured, about half
+received some kind of medical treatment -- a third at the
+hospital. 
+
+Seventy-one percent of American Indian crime victims who were
+injured during the incident and sought medical treatment had
+medical insurance or qualified for public medical benefits.  
+
+
+Injured American Indian victims of violence who sought treatment
+for their injuries were as likely as other racial groups to have
+some form of coverage for medical benefits.
+
+
+                         Percent with 
+Injured victims          coverage    
+
+American Indians            71%
+White                       69
+Black                       71
+Asian                       64
+
+
+Victims of violence were asked to report the value of losses
+associated with the violence they experienced.  These losses
+could include medical expenses, property lost or damaged, and
+pay lost by missing work.
+
+
+About 1 in 4 American Indian victims 
+of violence suffered an economic loss as a consequence of the
+victimization.  The average per-victim loss among American
+Indian victims of violence reporting a loss was $936 (table 19).
+
+---------------------------------------------------
+
+Table 19.  Average dollar loss
+per victim of violence, by race 
+of victim, 1992-96
+ 
+Race of victim    Average
+of violence       dollar loss
+    All               $878
+American Indian        936
+White                  818
+Black                1,081
+Asian                  810
+
+---------------------------------------------------
+
+
+The total annual loss for American Indians arising from violent
+criminal victimization translates into more than $35 million
+(table 20).  The losses reported by American Indian victims of
+violence largely resulted from medical expenses that accounted
+for more than $21 million.
+
+---------------------------------------------------
+
+Table 20.  Economic loss to American
+Indian victims of violent crime, by type  
+of loss, 1992-96
+ 
+                         American Indian
+                         victims of violence
+                   Average loss    Estimated tot
+Reason for loss    per victim      annual loss
+   Total               $936       $35,123,400
+ 
+Medical expenses     $2,407       $21,227,333
+Cash loss               223           960,907
+Property
+   Loss                $155        $1,403,370
+   Repair               152         1,907,680
+   Replacement          191         1,013,064
+Lost pay from --
+   Injury              $641        $4,433,797
+   Other causes         754         4,116,086
+---------------------------------------------------
+
+
+Losses to American Indian victims of violence were distributed
+as follows:
+
+
+
+     Medical             60.4%
+     Cash                 2.7
+     Property 
+          Loss            4.0
+          Repair          5.4
+          Replacement     2.9
+     Lost pay 
+          From injury    12.6
+          Other causes   11.7
+
+
+
+
+----------------------------------------------
+Child abuse and neglect
+
+
+In the United States from 1992 to 1995, American Indians and Asians
+were the only racial or ethnic groups to experience increases in the rate
+of abuse or neglect of children under age 15, as measured by incidents
+recorded by child protective service agencies.
+ 
+The increase in reported incidents involving American Indian children
+was more than 3 times as large as that for Asian children.  The per capita
+rate for American Indian children was 7 times that of Asian children.
+Table 21
+ 
+ 
+                      Number of victims per 100,000 children, 
+                      age 14 or younger
+                          1992         1995     Percent change
+
+   All children          1,866        1,724          -8%
+American Indian          2,830        3,343          18
+White                    1,628        1,520          -7
+Black                    3,560        3,323          -7
+Asian                      454          479           6
+Hispanic                 1,486        1,254         -16
+ 
+Note:  Rates were calculated on the number of children age 14 or younger.
+because they account for at least 80% of the victims of child abuse and neglect.
+
+Each year the National Child Abuse and Neglect Data System of
+the Department of Health and Human Services obtains from child
+protective service agencies nationwide the number of reports of
+alleged maltreatment of children.  Published data for 1995
+indicate that about 1 million children were substantiated to
+have been victims of neglect, physical abuse, sexual abuse,
+emotional maltreatment, medical neglect, or other forms of
+verified maltreatment.
+
+                                  Percent    
+       Number of victims          American 
+       of maltreatment*           Indian
+
+1992    1,044,480                   1.5%
+1993       966,163                  1.6
+1994     1,011,595                  1.8
+1995     1,000,502                  1.9
+
+*Reported by child protective agencies.  Data may contain
+duplicate counts of incidents.
+
+Source: National Child Abuse and Neglect Data System
+
+Non-Hispanic American Indians accounted for just under 2% of the
+victims of child abuse/neglect in  reports collected nationwide
+in 1995.  There is evidence that their share has been
+increasing.  Non-Hispanic American Indians, who accounted for
+just under 1% of the population age 14 or younger, were
+overrepresented twofold as victims of child abuse.
+
+On a per capita basis, 1995 data indicate about 1 substantiated
+report of a child victim of abuse or neglect for every 30
+American Indian children age 14 or younger.  
+
+Nationwide, the 1995 rates translate into about 1 child victim
+of maltreatment known to a child protective services agency for
+every -
+-- 58 children of any race
+-- 66 white children
+-- 30 black children
+-- 209 Asian children 
+-- 80 Hispanic children
+
+----------------------------------------------------
+
+
+Reporting violent crime 
+to the police
+
+Forty-five percent of American Indian victims of violent crime
+reported the crime to the police (table 22). This level of crime
+reporting was similar to that found among white (41%) and black
+(50%) violent crime victims.  
+
+----------------------------------------------------
+
+American Indians differ little from other racial groups in their
+reporting of violent crime to the police or in the likelihood that
+the victim knows of the arrest of the offender.
+
+Table 22
+ 
+                       Average annual number of victimizations
+                       10,785,800
+                                             Subsequent arrest
+                                Reported to  of offender
+                       Victims  the police   (reported offenses only)
+American Indian        149,600       45%         28%
+White                8,880,100       41          28
+Black                1,570,400       50          22
+Asian                  184,700       39          19
+
+-------------------------------------------------
+
+
+Among victims not reporting the crime to the police, the reasons
+that persons of different racial backgrounds had for not
+reporting were also similar.  Nearly half of both American
+Indians not reporting the violent crime to the police and
+victims of all races who did not report  the violence to the
+police said that they considered the matter private or too minor
+to bother the police (table 23).
+
+---------------------------------------------------
+Table 23.  Reasons why victims of violence did
+not report the victimization to the police,
+by race of victim, 1992-96
+ 
+                          Percent of victims of violence not
+Reason for not            the victimization to the police
+reporting to the police        All  races   American Indians
+
+   Total                           100%       100%
+Personal matter                     21         26
+Too unimportant                     24         24
+Police of limited assistant         11         14
+Reported to other authority         13          8
+Fear of or worry about off           7          6
+Too busy                             3          2
+Other reasons                       22         20
+
+---------------------------------------------------
+
+
+For those violent crimes reported to the police victims said
+that police made an arrest in about a quarter of the cases (table 24).
+
+---------------------------------------------------
+Table 24. Violent victimizations reported to the police,
+by whether an arrest was made and whether victim
+services were provided, by race of victim, 1992-96
+ 
+                            Percent of violent victimizations 
+                            reported to the police
+                            All      American
+                            races    Indian   White    Black    Asian
+Was an arrest made?
+   Yes                        27%      27%      28%      22%      19%
+   No                         66       65       65       70       71
+   Do not know                 7        8        7        8       11
+ 
+Victim services assistance?
+   Yes                        10%      12%      10%       9%       9%
+ 
+Note: The percent reporting an arrest and the percent reporting that they
+had received assistance from a victim services agency were based on
+those victimizations reported to the police.
+
+---------------------------------------------------
+
+
+Twelve percent of the victims who reported their violent crime
+to the police received victim services assistance.
+
+
+------------------------------------------------
+There were no differences between victims of violence who were
+American Indians and victims of all races in the percentage
+having contacts with the prosecutor's office or a victim
+services agency. For all victims such contacts are higher in
+those cases in which an arrest was known to have occurred.
+
+
+                  Average annual number of violent
+                  victimizations reported to the police                        
+                                4,525,200
+
+Resulted in--             Arrests         No arrests
+
+Victims of all races     1,228,400         3,296,800
+ Subsequent contact with-
+  Prosecutor's office         23%              3%
+  Victim's services agency    17               7
+
+American Indian victims     19,000            49,000
+ Subsequent contact with-
+  Prosecutor's office         25%              3%
+  Victim's services agency    21               8
+
+--------------------------------------------
+
+--------------------------------------------
+
+Table 25.  Average annual rates of violent
+victimization, by race and ethnicity, 1992-96
+
+                     Number of violent victimizations
+                     per 1000, age 12 or older
+
+               All ethnicities  Hispanic  Non-Hispanic
+
+All races               50         58         50
+American Indian        124        243        116
+White                   49         56         48
+Black                   61         85         61
+Asian                   29         63         28
+
+Note: The table excludes respondents who did not
+provide complete data on race and ethnicity. 
+
+---------------------
+
+Race and ethnicity 
+in violent victimization 
+
+
+The NCVS asks respondents about both race and ethnicity.  For
+1992-96 about 9% of all participants, or about 18.5 million
+residents age 12 or older in an average year, were of Hispanic
+origin and belonged to one of the four primary racial groups
+sampled in the survey-- white, black, American Indian, or Asian.
+Hispanic residents were estimated to consist of 17.8 million
+whites, 0.5 million blacks, about 0.1 million Asians, and a
+slightly smaller number of American Indians.
+
+Across each racial group, Hispanic residents were found to have
+higher average per capita rates of violent victimization.  Among
+all racial and ethnic groups, non-Hispanic Asians were found to
+have the lowest estimated rates of violent victimization, about
+1 violent crime for every 36 residents.  By contrast, American
+Indian residents who also identified themselves as Hispanic
+reported a rate of violent victimization that translated into
+about 1 violent crime for every 4 residents.
+
+ * While about 7% of all American Indian participants in the
+NCVS reported they were also of Hispanic ethnicity, nearly 14%
+of those American Indians victimized by violence were of
+Hispanic origin.
+
+ * Among American Indians who also described themselves as
+Hispanic, the rate of violent victimization was 4 times the rate
+found among all Hispanics and twice the rate found among
+non-Hispanic American Indians.
+
+------------------------------------------
+
+
+------------------------------------------
+
+Annual number of murders of American Indians, 1976-96
+
+
+Murder among American Indians
+
+Each year about 150 American Indians become murder victims.
+Little year-to-year variation occurred in the number of American
+Indian murder victims, but recent years were below the peak
+number reached in 1986.  
+
+American Indians were 0.7% of all murder victims nationwide,
+about the same as their share of the population  (table 26).
+From 1976 to 1996 an estimated 3,100 American Indians were
+murdered.  Due to variations in reporting by law enforcement
+agencies over time, detail on these murder victims is available
+for 2,826 American Indian murder victims or about 92% of the
+total estimated number of victims.
+
+---------------------------------------------------
+Table 26.  Murders of American Indians, as a percent of all
+American Indians and of all murder victims, by State, 1976-96
+ 
+                                                                    American Indians as a
+States with the        Number           Percent of --               Percent of --
+largest number of      of murders   All murders   The American      All      Total
+American Indian        of Americans of American   Indian            murder   resident
+murder victims         Indians      Indians       population        victims  population
+ 
+   U.S. total           2,826         100.0%       100.0%              0.7%     0.8%
+California                386          13.7         13.7               0.6      1.0
+Oklahoma                  326          11.5         11.9               6.2      8.1
+Alaska                    268           9.5          4.2              28.0     15.5
+North Carolina            245           8.7          3.9               2.0      1.2
+Arizona                   233           8.2         10.8               4.1      5.8
+Washington                191           6.8          4.4               4.2      1.8
+Minnesota                 164           5.8          2.5               7.4      1.2
+New Mexico                160           5.7          6.7               7.5      8.9
+New York                   75           2.7          3.1               0.2      0.4
+Oregon                     71           2.5          2.0               2.7      1.4
+All other States          707          25.0         36.8               0.3      0.4
+ 
+Note: Supplementary Homicide Data are for 1976-96.
+Population data are for 1994.
+
+---------------------------------------------------
+
+Over the 21-year period, just under 14% of the murders of
+American Indians occurred in California, proportional to
+California's share of the American Indian population.  Alaska,
+by contrast, accounts for about 10% of American Indian murder
+victims over the period but just over 4% of the American Indian
+population nationwide.  In Alaska, 1976-96, American Indians and
+Alaska Natives composed about 16% of the population but 28% of
+that State's murder victims.  The 10 States in which about 63%
+of the American Indian population reside have accounted for
+about 75% of the murders.
+
+--------------------
+Rates of murder
+--------------------
+
+As observed across the other racial groups, the number of
+murders per capita among American Indians has been declining.
+The rate of murder among American Indians in 1996 was below the
+national average for ages under age 40 (table 27).  For ages 40
+or older, murder rates are close to the national average.
+
+---------------------------------------------------
+
+Table 27.  Number of murders per 100,000 population,
+by race and age, 1991 and 1996
+ 
+ 
+                                                Age of murder victims
+                          17 or                                                  50 or
+                          younger   18-24    25-29    30-34    35-39    40-49    older
+Murder rate, 1996
+   Total                    7.9     19.6     14.5     10.8      9.2      6.6      4.4
+American Indian             4.0      9.1     11.2     10.8      8.8      7.2      5.7
+White                       4.9      9.5      7.4      6.2      5.8      4.3      3.3
+Black                      24.3     76.6     58.2     40.8     32.7     24.1       14
+Asian                       4.3      9.0      6.2      5.3      3.4      3.2      3.3
+ 
+Murder rate, 1991
+   Total                    9.3     23.9     18.6     15.0     12.0      8.7      5.7
+American Indian             5.0      9.7     17.8     14.1     11.7      7.0      5.1
+White                       5.4     11.6      9.8      8.5      7.2      5.6      4.0
+Black                      30.6     97.4     75.0     60.0     46.3     34.1     21.1
+Asian                       4.7      9.9      9.5      7.7      7.9      6.2      4.9
+ 
+Percent change, 1991-96
+   Total                  -15.1%   -18.0%   -22.0%   -28.0%   -23.3%   -24.1%   -23.6%
+American Indian*          -20.0     -6.2    -37.1    -23.4    -24.8      2.8     12.7
+White                      -9.3    -18.1    -24.5    -27.1    -19.4    -22.4    -18.7
+Black                     -20.6    -21.4    -22.4    -32.0    -29.4    -29.4    -33.6
+Asian                      -8.5     -9.1    -34.7    -31.2    -57.0    -48.9    -33.2
+ 
+*Increases occurred from 4 additional murders of persons age 40 to 49
+and 4 additional murders of persons age 50 or older.  Denominators
+for the oldest group included persons age 50 to 74 years.
+
+---------------------------------------------------
+
+For persons age 24 or younger in 1996, American Indian rates of
+murder closely paralleled the rates among whites and Asians and
+were well below the rates among black victims.  For those age 25
+to 29, the 37% decline in the rate of murder among American
+Indians reflects the largest decline of any racial group.
+
+
+
+Circumstances of murder
+
+
+Supplemental data regarding murders with known circumstances
+indicate that American Indian murder victims were more likely to
+have been killed during a brawl involving alcohol or drugs
+(13%)than white (6%), black (4%), or Asian (2%) murder victims
+(table 28).  Forty-five percent of American Indian murder
+victims were killed during an argument, and 11% were killed
+during the commission of a violent felony. 
+
+-------------------------------------------------------
+Table 28. Circumstances of murder, by race, 1976-96
+ 
+                                                 Murders
+Murders with known             All      American
+circumstances                  races    Indian   White    Black    Asian
+    Total                       100%     100%     100%     100%     100%
+ 
+Violent felony                   14       11       16       11       27
+Other felony offenses            10        5       10       11        8
+Suspected felony                  4        4        4        3        3
+Brawl under the influence
+  of alcohol/drugs                5       13        6        4        2
+Arguments                        43       45       38       50       35
+Other circumstances              24       22       27       21       25
+   Number                   344,928    2,515  181,043  156,203    4,545
+ 
+Note: Table excludes an estimated 101,446 murder victims 
+for whom the circumstances were not known.
+Source: FBI, Supplemental Homicide Reports, 1976-96.
+
+---------------------------------------------------
+
+
+-----------------------------------------------
+
+American Indian and Asian murder victims, whether
+victims of violent felony murders or murders arising from
+arguments, are more likely than whites or blacks to have been
+victimized by an offender of a different race.
+
+Murders by someone of a different race from the victim,
+by race of victim and type of murder, 1976-96
+ 
+                   Percent of murder victims
+                   killed by someone of a
+                   different race, committed 
+                   during --
+Race of            Commission    An
+murder victim      of a felony   argument
+
+American Indian         74%      38%
+Black                    8        5
+White                   43        9
+Asian                   80       27
+
+---------------------------------------------------
+
+Victim-offender relationship 
+in murder cases
+
+In American Indian murder cases in which the victim
+offender-relationship was known, strangers accounted for
+approximately 16% of the murders (table 29).  Acquaintances
+accounted for about half the murders.  Victim-offender relations
+in American Indian murder cases were similar to those found
+among all murders. 
+
+---------------------------------------------------
+
+Table 29. Murders, by victim-offender relationship and race, 1976-96
+ 
+                                                 Percent of murder
+                               Victims of  American
+                               all races   Indian   White    Black    Asian
+Total                             100.0%   100.0%   100.0%   100.0%   100.0%
+Victim/offender had 
+   prior relationship              81.2     83.9     78.4     84.5     70.9
+Victim/offender were strangers     18.8     16.1     21.6     15.5     29.1
+   Same race                       13.8      3.9     14.4     13.4      8.2
+   Different races                  5.0     12.2      7.1      2.1     20.9
+Number of murder victims        281,603    2,242  147,417  128,551    3,393
+ 
+Note: Table excludes victims with unknown relationship
+to offender and victims and offenders of unspecified races.
+
+---------------------------------------------------
+
+American Indian and Asian murder victims were more likely than
+white or black murder victims to have been killed by a stranger
+of a different race.
+
+
+Race of murderers
+
+In most murder cases involving a white or black victim, the
+offender was of the same race as the victim (table 30). However,
+when the races of the offender and victim were known, more than
+40% of American Indian murder victims were killed by an offender
+who was not an American Indian; in 33% of the cases the offender
+was white.
+
+---------------------------------------------------
+
+Table 30. Murders, by race of offender and victim, 1976-96
+ 
+                              Race of murder victim
+                         All      American
+Race of offender         races    Indian   White    Black    Asian
+
+   Total                  100%     100%     100%     100%     100%
+ 
+American Indian           0.8%    56.9%     0.6%     0.1%     0.4%
+White                    47.6     32.5     85.6      5.8     22.1
+Black                    50.4      9.7     13.3     94.0     18.1
+Asian                     1.0      0.7      0.5      0.1     59.2
+   Number             313,032    2,381  162,609  143,854    3,688
+ 
+Note:  Table excludes cases in which the race of the victim
+or offender is unknown.
+Source: Supplemental Homicide Data are for the period 1976-96.  
+Population data are for 1994.
+
+---------------------------------------------------
+
+-------------------------------------------------
+Compared to all murder victims, American Indian
+murder victims were substantially less likely
+to have been killed by a handgun but more likely
+to have been killed by a rifle or shotgun or stabbed.
+
+Murder weapons used,
+by race of victim, 1992-96
+ 
+                        Percent of murder
+                        victims
+
+                        All      American
+Weapon*                 races    Indians
+
+Handgun                  50.3%    28.1%
+Rifle/shotgun            11.2     17.0
+Other firearm             4.5      1.6
+Knife                    18.5     29.1
+Blunt object              5.3      8.0
+Personal weapon, 
+   including hands        6.1     11.3
+Other types  
+   of weapons             4.1      4.9
+ 
+*Excludes cases in which type of weapon
+is unknown
+
+---------------------------------------------------
+
+
+Murder weapons
+  
+American Indian murder victims were substantially less likely
+(28% to 50%) than all murder victims to have been killed by a
+handgun.  Almost 30% of American Indian murder victims were
+killed by a knife, compared to less than 20% of all murders.
+
+
+
+Arrests and convictions 
+of American Indians
+
+Arrest data for 1996, provided by local law enforcement
+agencies, indicate that American Indians account for 0.9% of the
+arrests for Part I violent crimes (murder and nonnegligent
+manslaughter, forcible rape, robbery, and aggravated assault) --
+an estimated 6,600 arrests for these offenses.  
+
+Approximately 17% of American Indians arrested for these violent
+offenses are under age 18, nearly the same percentage found
+among arrestees for all violent crimes in 1996.  The 1996 arrest
+rates for Part I violent crimes among American Indian youth were
+about the same as for white youth and were about a fifth of
+those of black youth.
+
+   
+-------------------------------------------------
+
+Unlike the pattern of violent crime arrest rates for other
+racial groups -- higher for youth than for the whole population
+-- among American Indians the arrest rates for those under age
+18 did not vary from the overall rate.
+
+Arrests of adults and youth 
+for violent crimes, by race, 1996
+ 
+                  Number of arrests for Part 1
+                  violent crimes per 100,000
+Race of           persons in each group, 1996
+arrestees           All ages  Under age 18
+
+  All races            275        445
+American Indian        291        294
+Black                  937      1,356
+White                  182        283
+Asian                   98        192
+
+Note: Arrest rates for youth were based on the
+estimated number of arrests of persons under 
+the age of 18 and calculated on the number
+of residents age 10-17.
+
+Source: FBI, Crime in the United States, 1996.
+
+-----------------------------------------------
+
+American Indians have a rate of arrest for alcohol violations
+(DUI, liquor law violations, and public drunkenness) more 
+than double the national rate.  Arrests of American Indians 
+under age 18 for alcohol-related violations are also twice 
+the national average.
+
+Table 31
+ 
+                         Number of arrests per 100,000 population
+                             All ages            Youth
+                         All      American   All     American
+                         races    Indians    races   Indians
+ 
+Total violent                275      291      445      294
+   Murder                      7        7        9        5
+   Rape                       13       16       19       14
+   Robbery                    59       37      165       67
+   Aggravated assault        197      231      252      208
+ 
+Total property             1,039    1,369    2,783    3,026
+ 
+Total alcohol violations   1,079    2,545      649    1,341
+   DUI                       553    1,069       61       98
+   Liquor laws               255      727      510    1,108
+   Drunkenness               271      749       78      135
+ 
+Note: Arrest rate is the number of arrests per 100,000 resident 
+population.  Arrest rates for youth were based upon the 
+estimated number of arrests of persons under the age of 18. 
+The youth arrest rate was calculated on the number of 
+residents age 10-17.
+
+------------------------------------------------------
+
+
+
+Felony convictions in State courts
+
+
+On average there are annually about 900,000 felony convictions
+in State courts.  American Indians account for just over 1/2 
+of 1% of felony convictions across the Nation (table 32).
+
+
+Table 32.  Annual average number  of felony convictions in State
+courts,  by race, 1990-96          
+         
+
+                Felony convictions  
+             Average  
+             annual number    Percent
+
+          
+
+Total             898,290   100%
+American Indian     4,980   0.6
+White             468,944  52.2
+Black             418,124  46.6
+Asian               6,243   0.7
+
+          
+
+Note:  The annual average estimates are based on the National
+Judicial Reporting Program, 1990, 1992, 1994, and 1996.          
+
+
+
+In 1996 State and local felony courts throughout the United
+States convicted an estimated 1 million defendants.  Among these
+were an estimated 7,000 felony convictions of American Indians,
+a rate of approximately 1 felony conviction for every 200
+American Indians age 18 or older.  By contrast in 1996 whites
+experienced a felony conviction rate of about 1 conviction per
+300 adults; among blacks the rate of felony conviction was 1 for
+every 51 adults; and Asians reflected the lowest rate, about 1
+felony conviction for every 600 Asian residents age 18 or older.
+
+
+American Indians under 
+correctional supervision
+
+
+American Indians accounted for about 1% of the more than 5.7
+million adults under correctional care, custody, or control on a
+single day in 1997 (table 33). The estimated 62,600 American
+Indians with a correctional status accounted for just over 4% of
+the American Indian adult population (not shown in a table).
+
+---------------------------------------------------
+Table 33. Correctional population, by status and race, 1997
+
+                                               Percent of correctional populations
+                                    Number   All races American  White    Black    Asian
+Number of offenders
+   Total corrections               5751277      100%      1.1%    58.8%    39.6%     0.5%
+ Probation                         3261888      100%      0.9     66.5     32.3      0.4
+ Local jails                        557974      100%      2.9     53.1     42.8      1.0
+ State prisons                     1131581      100%      1.0     43.1     55.4      0.5
+ Federal prisons                    112973      100%      1.5     60.1     37.0      1.5
+ Parole                             685033      100%      0.6     52.6     46.4      0.5
+
+Offenders per 100,000 
+resident population age
+18 or older
+   Total corrections                           2907     4194     2036     9863      414
+ Probation                                     1650     1965     1306     4561      183
+ Local jails                                    282     1083      178     1031       78
+ State prisons                                  572      757      294     2714       80
+ Federal prisons                                 57      113       41      181       24
+ Parole                                         346      275      217     1376       48
+
+---------------------------------------------------  
+
+By comparison, an estimated 2% of white adults, 10% of black
+adults, and less than a half of 1% of Asian adults were under
+correctional supervision (not shown in a table). 
+
+In 1997, 54% of the American Indians under correctional
+supervision were in the community -- on probation (47%) or
+parole (7%).  Twenty-five percent were held in local jails, 18%
+in State prisons, and 3% in Federal prisons.
+
+-------------------------------------------------
+
+In 1997 just under half of the American Indian offenders under
+the care, custody, or control of Federal, State, or local
+correctional authorities were confined in prisons or jails.  By
+contrast, less than a third of correctional populations
+nationwide were confined in prisons or jails.
+
+American Indian correctional population      62,659
+
+                              Probation          47%
+                              Local jails        26
+                              State prisons      18
+                              Federal prisons     3
+                              Parole              7
+
+Nationwide correctional population        5,751,277
+
+                              Probation          57%
+                              Local jails        10
+                              State prisons      20
+                              Federal prisons     2
+                              Parole             12
+
+----------------------------------------------------
+
+American Indians comprised just over  1% of the offenders on
+probation or parole or in State or Federal prisons but an
+estimated 2.9% of persons in local jails nationwide.  American
+Indians accounted for 2.5% of those detained in local jails who
+had not been convicted of crimes and 3% of the convicted
+offenders in jail serving shorter sentences or awaiting transfer
+to other institutions.
+
+Compared to jail inmates of all races, when the statuses of
+conviction are combined, American Indians were less likely to
+have been jailed for a violent or drug offense (table 34).
+However, consistent with their higher arrest rates for driving
+under the influence of alcohol, a substantial percentage of
+American Indians reported that they were in jail charged with or
+convicted of an offense involving driving while intoxicated
+(DWI).  American Indians accounted for an estimated 10% of
+unconvicted jail inmates charged with DWI and just over 4% of
+convicted DWI offenders in local jails.
+
+---------------------------------------------------
+Table 34. American Indian jail inmates, by offense, 1996
+
+                  Unconvicted jail inmates             Convicted jail inmates
+                     All  races  American Indians      All  race   American Indians
+
+   Total                100.0%          100.0%            100.0%          100.0%
+
+Violent                  36.7%           26.6 %            21.7%           21.9%
+  Homicide                6.6             2.7               1.5             0.2
+  Sexual assault          3.8              --               3.0             7.1 
+  Robbery                 8.8             2.2               5.5             7.9
+  Assault                15.4            15.7              10.0            10.1
+  Other violent           2.1             5.9               1.7             1.6
+
+Property                 25.6%           27.4%              28.6%           27.0%
+  Burglary                7.7            11.5               8.0             8.1
+  Larceny                 5.6             2.3               9.5             6.2
+  Motor vehicle theft     3.3             7.3               2.3             4.7
+  Other property          9.0             6.3               8.8             7.9
+
+Drugs                    20.2%            6.5%             23.7%           15.8%
+
+Public-order             17.4%           39.5%             25.6%           35.3%
+  Weapons                 2.2             8.2               2.4             0.7
+  DWI                     3.6            13.8               9.6            13.1
+  Other public-order     11.6            17.5              13.6            21.5
+
+Number                 165733            4241            314867            9824
+
+
+ --Too small to estimate.
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+About half of convicted American Indian inmates in local jails
+had been consuming alcoholic beverages at the time of the
+offense for which they had been convicted. An estimated 
+7 in 10 American Indians in local jails convicted of a 
+violent crime had been drinking when they committed the 
+offense.
+
+Use of alcohol by convicted jail inmates 
+at the time of their offense, by offense type
+and race, 1996
+ 
+                 Percent of convicted jail
+                 inmate reporting alcohol
+Most serious     use at the time of their of offense
+offense          All  race   American  Indians
+
+   All offenses      39.5%       48.8%
+Violent              40.6        71.0
+Property             32.8        37.1
+Drug                 28.8        14.3
+Public-order         56.0        60.2
+
+---------------------------------------------------
+
+              Blood alcohol concentration
+              calculated from inmates' reports
+              of drinking at the time of their offense
+
+                   Jail        Prison
+ All races         0.20        0.27
+American Indian    0.23        0.32
+White              0.20        0.28
+Black              0.18        0.26
+Asian              0.20        0.20
+
+Note: Blood alcohol concentration (BAC)
+is the number of grams of alcohol per
+deciliter of blood.
+
+Nearly 4 in 10 American Indian inmates held in local jails had
+been charged with a public-order offense -- most commonly
+driving while intoxicated.
+
+Sixteen percent of convicted American Indians serving time
+in local jails had been convicted of a drug offense.
+
+----------------------------------------------------
+Map
+
+In fiscal year 1996 U.S. attorneys investigated 1,927 suspects
+for offenses committed in Indian country.
+
+Distribution of Indian country suspects investigated, by Federal
+court district --  
+
+Page 30.  Map of Federal district
+courts.  Investigations by U.S.
+attorneys of suspects in Indian
+country, fiscal year 1996
+ 
+                      Number of suspects
+U.S. district         from American
+court                 Indian country
+
+Northern Alabama             2
+Arizona                    355
+Central California           2
+Northern California          2
+Southern California          1
+Colorado                    21
+Middle Florida               3
+Southern Florida             1
+Northern Iowa                3
+Idaho                       47
+Northern Illinois            1
+Western Louisiana            5
+Maine                        3
+Eastern Michigan             6
+Western Michigan            10
+Minnesota                   15
+Montana                    115
+Western North Carolina      21
+North Dakota               149
+Nebraska                    21
+New Mexico                 333
+Nevada                       7
+Northern New York            1
+Eastern Oklahoma            66
+Northern Oklahoma           31
+Western Oklahoma            44
+Oregon                       6
+Western Pennsylvania         1
+South Dakota               479
+Utah                        46
+Eastern Washington          58
+Western Washington          19
+Eastern Wisconsin           15
+Western Wisconsin            2
+Wyoming                     24
+ 
+Source:  Federal Justice Statistics Program
+  
+
+----------------------------------------------
+
+----------------------------------------------
+
+Table 35.  Types of offenses charged in cases filed in U.S. 
+district courts, 1997
+
+                   Federal district court filings, 1997
+  Type of offense    All cases     American Indian cases
+
+Total                  100.0%            100.0%
+ Violent                 6.7              47.5
+ Fraud                  18.3               9.1
+ Property                5.2              12.9
+ Drugs                  39.5              14.7
+ Regulatory              3.3               2.0
+ Other                  27.0              13.8
+
+Number                 60,403            1,126
+
+
+American Indians in 
+the Federal justice system
+
+
+In 1997 U.S. attorneys filed cases in Federal
+district court against 1,126 American Indians.
+Almost half of these cases involved a violent crime.
+
+The majority of cases were filed in U.S. district
+courts in South Dakota, Arizona, New Mexico, and
+Montana.
+
+
+American Indian
+youth detained
+
+
+In September 1994, American Indians were 
+75 of the 124 juvenile delinquents confined
+under Federal jurisdiction -- about 60% of
+such juveniles.
+
+The BJS Special Report Juvenile "Delinquents
+in the Federal Criminal Justice System," 
+February 1997, NCJ 163066, describes the 
+circumstances of youth in the Federal system.
+
+----------------------------------------------
+
+
+
+----------------------------------------------
+American Indians and the death penalty
+
+
+Over the period 1973-97, 6,139 persons were sentenced to death
+in the United States.  During the same years 52 American Indians
+were sentenced to death, 0.8% of the total.  Between 1976 and
+1997 a total of 432 persons were executed, including 3 American
+Indians (0.7% of those executed).  This translates into a rate
+of execution for those sentenced to death of about 7 per 100
+persons receiving a death sentence and for American Indians,
+about 5.8 per 100.
+
+-------------------------------------------
+                                         All         American
+                                         races       Indians
+
+Sentenced to death, 1973-97               6,139         52
+
+Executions, 1976-97                         432          3
+Percent executed                              7.0%       5.8%
+
+Removed from death row by means
+ other than execution                     2,372         21
+Percent removed by other means               38.6%      40.4%
+
+Remaining under sentence of death, 1997   3,335         28
+Percent remaining, 1997                      54.3%      53.8%
+---------------------------------------------
+
+Among the 6,139 persons sentenced to death, 3,335 were still
+under a death sentence at the end of 1997 -- 54.3% of those
+entering death row over the period.  For American Indians, 28 of
+the 52 (53.8%) sentenced to death between 1973 and 1997 still
+remained under a death sentence at the close of 1997. 
+
+About half of all death sentences imposed upon American Indians
+were in North Carolina (11) and Oklahoma (14).  Oklahoma (8) had
+the largest number of American Indians currently under a
+sentence to death.  No Federal death sentences were imposed on
+American Indians during the period 1973-97.
+ 
+
+                                                                   Sentence      Under sentence
+  State               Total sentenced               Died from      overturned    of death
+                      to death 1973-97  Executed    other causes   or commuted   12/31/97
+
+Alabama                  1                                                1
+Arizona                  5                                                1          4
+California               5                                                1          4
+Delaware                 1                 1
+Florida                  1                                                           1
+
+Georgia                  1                                                           1
+Idaho                    1                                                1
+Maryland                 1                                                1
+Montana                  3                                                2          1
+Nebraska                 2                                                1          1
+
+New Mexico               1                                                1
+North Carolina          11                                                7          4
+Ohio                     1                                                           1
+Oklahoma                14                1                   1           4          8
+Oregon                   1                                                           1
+
+Tennessee                1                                                           1
+Texas                    1                1
+Utah                     1                                                           1
+
+  U.S. total            52                3                   1         20          28
+
+--------------------------------------------------------
+
+-----------------------------------------
+American Indian tribal criminal justice
+
+
+The BJS Census of State and Local Law Enforcement Agencies, 1996
+identified 135 tribal law enforcement agencies with a total of
+1,731 full-time sworn officers. The Bureau of Indian Affairs
+(BIA), which also has law enforcement responsibility for
+selected tribal jurisdictions, reported 339 full-time officers
+authorized to make arrests and carry firearms.
+
+In addition to law enforcement services, American Indian tribes
+and the BIA operate jails in tribal areas.* (*BJS has conducted
+a survey of tribal confinement facilities. Analysis of survey
+responses will be reported in Survey of Jails in Indian Country,
+1998, forthcoming, NCJ 173410.) Data provided by BIA indicate
+that these facilities employed 659 persons and had an authorized
+capacity to house just over 2,000 adults and juveniles (table
+37).
+
+--------------------------------------------------
+Table 37.  Tribal jail capacity and jail staff, by State and
+tribe, 1998                   
+
+                    
+
+                                          Capacity       
+State            Tribe                      Adult     Juvenile  Staff
+
+Alaska       Metlakatla Indian Community      8                   4
+
+Arizona      Navajo Nation                  208          36      96
+             Colorado River Indian Tribes    30           8      12
+             Fort Mohave Indian Tribe         1           1       4
+             White Mountain Apache Tribe     31          17      22
+             Hopi Tribe                      68          28       8
+             Tohono O'Odham Nation           33          16      31
+             Gila River Indian Community     73          32      40
+             Salt River Pima-Maricopa Indian              
+               Community                     70          33      18
+             San Carlos Apache Tribe         38                  14
+             Hualapai, Havasupai, Prescott
+               Apache, and Tonto Apache      36           8       7
+             Supai Tribe                      4                   2
+             Pascua Yaqui Tribe               1           1       6
+
+California   Chehalis Indian Tribe            2                   1
+
+Colorado     Southern Ute Tribe               4                   5
+             Ute Mountain Ute Tribe          14           2       5
+
+Idaho        Shoshone-Bannock Tribe          24           4       4
+
+Michigan     Saginaw Chippewa Tribe           2           6       9
+
+Minnesota    Boise Forte Tribe                8                   1    
+             Red Lake Chippewa Tribe         18           4      13
+
+Mississippi  Mississippi Band of 
+              Choctaw Indians                32           8      17
+
+Montana      Blackfeet Tribe                 34          34      12
+             Crow Tribe                      12           2       5
+             Gros Ventre and Assiniboine 
+               Tribe                          8                   5
+             Assiniboine and Sioux Tribe     21          21      19
+             Northern Cheyenne Tribe         10           3       3
+             Chippewa Cree Tribe             22           4       3
+             Confederated Tribes of 
+               Salish and Kootenai           16           4      11
+Nebraska     Omaha Tribe                     20          12       9
+
+Nevada       Battle Mountain, Duckwater, 
+              Ely, Goshute, South Fork,
+              Elko Band, and Wells Band      28                   5
+
+New Mexico   Jicarilla Apache Tribe           0           8       0
+             Laguna Pueblo Tribe             12           4       5
+             Mescalero Apache Tribe          24                   7
+             Taos Pueblo                      8                   5
+             Ramah Navajo                    10                   5
+             Isleta Pueblo                    6                   6
+             Zuni Pueblo                     22          12      13
+             Navajo Nation                   41          14      21
+
+North Dakota Spirit Lake Sioux Tribe         25           8       5
+             Standing Rock Sioux Tribe       42           8       8
+             Turtle Mountain Chippewa Tribe  22           8       8
+             Three Affiliated Tribes          8                   6
+
+Oklahoma     Sac and Fox Nation              69                  23
+
+Oregon       Confederated Tribes of
+               Warm Springs                  32          12      13
+             BIA Law Enforcement Services                 4    
+
+South Dakota Cheyenne River Sioux Tribe      53          10      24
+             Crow Creek Sioux Tribe          10           4       2
+             Lower Brule Sioux Tribe         14           2       4
+             Oglala Sioux Tribe              52          32      31
+             Rosebud Sioux Tribe             48          16      12
+             Sisseton-Wahpeton Sioux Tribe   16           4       5
+
+Utah         Uintah and Ouray Tribe          24                   5
+
+Washington   Olympic Peninsula Tribe         14           4       8
+             Puget Sound Tribe                7           1       7
+             Kalispel and Spokane Tribe       8                   4
+             Confederated Tribes of 
+               Yakama Nation                 30          17      10
+
+Wisconsin    Menominee Tribe                 32          10      16
+
+Wyoming      Shoshone and Arapaho Tribe      26           4       6
+  
+   Total                                   1,462         536     649
+
+
+Note:  Data were supplied by the Bureau of Indian Affairs, U.S.
+Department of the Interior. Data are for April 1998.  Staff of
+the facilities includes juvenile and adult detention officers
+and dispatchers.                   
+
+
+
+Sources of data on American 
+Indians and crime
+
+
+
+One of the challenges facing all Federal statistical agencies is
+that representative statistical data about American Indians are
+difficult to acquire and use.  This is true for a number of
+reasons with respect to crime data:
+
+Sampling -- Most Federal surveys utilize nationally
+representative samples of persons or households, thus limiting
+the capability to describe small population subgroups in detail.
+(American Indians comprise under 1% of the U.S. population.) In
+addition, sampling procedures, relying upon selection of
+respondents within clustered geographical sampling units, may by
+chance miss those areas where concentrations of residences of
+small subgroups (such as American Indians) may be located.
+Finally, the fluidity of population movement between tribal and
+nontribal areas for both Indian and non-Indian populations makes
+it difficult to systematically describe those living in these
+areas.  The 1990 Census revealed, for example, that nearly half
+the population of reservation and trust lands was non-Indian.
+
+The design of national surveys such as the NCVS does not permit
+calculating separate statistics for each American Indian tribe.
+
+Coverage of data -- Statistical coverage of incidents or cases
+in Indian country utilizing law enforcement, judicial, or
+corrections data is difficult to quantify because Federal,
+State, and local authorities may have overlapping jurisdiction
+on tribal lands.  Data about some crimes are collected by the
+Bureau of Indian Affairs (BIA) in Indian country while other
+crimes by or against American Indians are recorded by local
+sheriffs or police.  Arrest data are profoundly limited by the
+lack of information on arrest coverage among tribal and BIA law
+enforcement agencies.  
+
+Data on trends -- Crime data relying upon either samples of
+population or incident and case-level data from administrative
+records suffers from the lack of repetitive collection so that
+change rates and trends can be analyzed.  Much data on the
+employment, education, and quality of life measures of American
+Indians are only available from periodic collections and are
+often of only limited value for comparisons over time. Often
+many years have passed since they were last conducted. Agencies
+do not generally use some form of aggregation or multi-year
+averages for examining change or for comparisons to other racial
+or ethnic groups.
+
+These limitations severely circumscribe the depth and
+generalizability of data on American Indians and inhibit the
+Nation's ability to know much of the details about victims,
+offenders, and the consequences of crime for both.  BJS has made
+a strong commitment toward improving this situation through the
+National Crime Victimization Survey, improvements planned for
+the National Incident-Based Reporting System, and periodic BJS
+surveys of offender populations. 
+
+
+
+National Crime Victimization Survey
+
+
+
+The National Crime Victimization Survey (NCVS) is one of two
+statistical series maintained by the Department of Justice to
+learn about the extent to which crime is occurring.  The NCVS,
+which gathers data on criminal victimization from a national
+sample of household respondents, provides annual estimates of
+crimes experienced by the public without regard to whether a law
+enforcement agency was called about the crime.  Initiated in
+1972, the NCVS was designed to complement what is known about
+crimes reported to local law enforcement agencies under the
+FBI's annual compilation known as the Uniform Crime Reports
+(UCR).
+
+The NCVS gathers information about crime and its consequences
+from a nationally representative sample of U.S. residents age 12
+or older about any crimes they may have experienced. For
+personal contact crimes the survey asks about the perpetrator.
+Asking the victim about his/her relationship to the offender is
+critical to determining whether the crime occurred between
+intimates.
+
+In the latter half of the 1980's, BJS, with the Committee on Law
+and Justice of the American Statistical Association, sought to
+improve the NCVS components to enhance the measurement of crimes
+including rape, sexual assault, and intimate and family
+violence.  The new questions and revised procedures were phased
+in from January 1992 through June 1993 in half the sampled
+households.  Since July 1993 the redesigned methods have been
+used for the entire national sample.  
+
+One of the important contributions of the NCVS is that it
+permits multiple years of responses to the same questions to be
+analyzed, facilitating research on small subgroups of the
+population.  For this study 5 years of NCVS data (1992-96) were
+combined, resulting in more than 1.1 million interviews, just
+over 7,000 of which were conducted among American Indians.  This
+represents the largest national sample of American Indians
+assembled for purposes of better understanding the incidence and
+effects of criminal victimization.  In addition, changes are
+being introduced to the NCVS which will permit future
+disaggregation of those incidents occurring on tribal lands from
+those occurring elsewhere.  
+ 
+
+
+Uniform Crime Reporting program
+
+
+
+The UCR program of the FBI provides another opportunity to
+examine the issue of crime and violence among American Indians
+through the incident-based Supplementary Homicide Report program
+and the summary compilation of national arrest data.  The
+summary-based arrest component of the UCR provides data by race
+of arrestees for both Part I crimes and the less serious Part II
+crimes.  
+
+In 1996 detailed data by race and offense were available for
+about 3 out of 4 arrests nationwide (about 11.1 million of the 
+estimated 15.2 million arrests that year).  American Indians are 
+estimated to account for just under 1% of those arrested for 
+Part I violent crimes and a slightly higher percentage of those
+arrested for Part I property crimes.  Part II arrest offenses
+show that American Indians comprise larger percentages of those
+arrested for DUI, vagrancy, liquor law violations, and public
+drunkenness.
+
+Specific UCR coverage of those arrests by tribal or BIA law
+enforcement agencies is not known, and the extent to which they
+are included in the national estimates of arrests is not
+systematically described.  In addition, the 1996 UCR does
+indicate reduced reporting of arrests by race (table 43) and
+that a number of jurisdictions (Kentucky, Illinois, the District
+of Columbia, Florida, Vermont, Kansas, and Montana) supplied
+either limited or no arrest data.  Some of these incomplete or
+missing States, notably Montana, may affect the national
+estimates for American Indians.  
+
+
+
+National Incident-Based Reporting System
+
+
+
+The National Incident-Based Reporting System (NIBRS) represents
+the next generation of crime data from law enforcement agencies.
+Rather than being restricted to a group of 8 Index crimes that
+the summary-based program uses, NIBRS obtains information on 57
+types of crimes.  The information collected on each violent
+crime incident includes victim-offender demographics,
+victim-offender relationship, time and place of occurrence,
+weapon use, and victim injuries.  An important contribution of
+NIBRS is that investigating officers are asked to record
+information on the race of victims and offenders in the
+incident.  
+
+As of the end of 1997, jurisdictions certified by the FBI as
+capable of reporting incident-based data in the required format
+accounted for just over 7% of the U.S. population (about 19
+million Americans) and just over 6% of all Index crimes
+(murders, rapes, robberies, aggravated assaults, burglaries,
+larcenies, and motor vehicle thefts).  In those States with
+certified NIBRS systems, about 50% of the population is now
+covered by NIBRS reporting to the FBI.  
+
+BJS is currently funding preliminary studies of NIBRS data on
+two Indian reservations and their utility for improving our
+knowledge of crime with special regard for such concerns as
+intimate violence, family violence, and domestic violence and
+the role alcohol may play in these kinds of police-reported
+incidents.  The Mille Lac (Minnesota) and Lummi (Washington)
+tribal law enforcement agencies will use NIBRS data as a part of
+a case-tracking system to follow the subsequent processing of
+criminal incidents brought to the attention of police.
+
+
+
+Surveys of probationers and jail 
+and prison inmates
+
+
+
+BJS also conducts national surveys of persons under probation
+supervision and those confined in local jails and State and
+Federal prisons.  These nationally representative surveys are
+the principal source of information on those serving time
+following a conviction:  their backgrounds, their prior criminal
+histories, and the circumstances surrounding the offense for
+which they had been incarcerated.  Both jail and prison surveys
+obtain from violent offenders details about the offender's
+relationship to the victim and how the crime was carried out.
+All surveys ask respondents to identify their race and ethnicity.
+
+
+
+Law Enforcement Management 
+and Administrative Statistics
+
+
+
+BJS maintains the Law Enforcement Management and Administrative
+Statistics (LEMAS) series as the principal national source of
+data on the operations of police and sheriff's departments
+nationwide.  LEMAS compiles information every 3 to 4 years from
+all large law enforcement agencies (at least 100 sworn
+personnel) and a sample of all other departments.  To create the
+sample BJS also sponsors the Census of State and Local Law
+Enforcement Agencies, collecting basic information about the
+functions and number of personnel of all agencies in the United
+States.  
+
+LEMAS data are obtained on the organization and administration
+of law enforcement agencies, agency responsibilities, operating
+expenditures, job functions, weapons policies, and demographic
+characteristics of sworn personnel.  BJS obtains similar
+information from campus law enforcement agencies and Federal law
+enforcement agencies.
+
+LEMAS data are available on the race and ethnicity of law
+enforcement personnel since 1987.
+
+
+
+National Judicial Reporting Program
+
+
+
+The National Judicial Reporting Program (NJRP) is a biennial
+sample survey of court records on convicted felons nationwide. 
+Using a nationally representative sample of counties, NJRP 
+compiles information on the sentences that felons receive 
+in State courts and on the characteristics of convicted felons. 
+The NJRP first reported felony sentencing data for 1986 and 
+has provided national estimates at 2-year intervals since that 
+time.
+
+In addition to the convicted felon's race and ethnicity, NJRP
+obtains individual-level data on the conviction offense,
+sentences received, case-processing, methods of conviction, and
+a wide variety of other defendant characteristics.
+
+
+
+Federal Justice Statistics Program
+
+ 
+The Federal Justice Statistics Program (FJSP) provides annual
+data on workload, activities, and case outcomes in the Federal
+criminal justice system.  Information is reported on all aspects
+of case processing in the Federal justice system including the
+number of persons investigated, prosecuted, convicted,
+incarcerated, sentenced to probation, released prior to trial,
+handled by magistrates, sentencing outcomes, and time served.
+Data for this series are obtained from the Executive Office for
+U.S. Attorneys, the Administrative Office of the U.S. Courts,
+the U.S. Sentencing Commission, and the Federal Bureau of
+Prisons.
+
+Data are available by defendant race and ethnicity at each
+processing stage of the Federal criminal justice system.  The
+FJSP was initiated in 1980.   
+
+
+--------------------------------------------------------
+
+Lawrence Greenfeld and Steven Smith wrote the report.
+Devon Adams and Todd Minton provided the statistical review.
+Maureen Henneberg, John Scalia, Jodi Brown, and Tracy Snell
+provided analytic assistance and comment.  Norena Henry
+commented on drafts of the report.  Melvinda Pete and Tom Hester
+produced the report.  Marilyn Marbrook, assisted by Yvonne
+Boston, prepared the report for final publication.
+
+end of file
+2/11/99  th
+revised 6/18/99  pm
+
+
+
+
+
+
+
+
+
+
