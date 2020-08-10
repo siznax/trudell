@@ -15,16 +15,36 @@ Indian Movement, serving as chairman from 1973 to 1979.
 
 https://fulcrum.bookstore.ipgbook.com/lines-from-a-mined-mind-products-9781555916787.php
 
-### Stickman: Poems, Lyrics, Talks, edited by Paola Igliori
+
+### Stickman: Poems, Lyrics, Talks
 
 ![alt](https://images-na.ssl-images-amazon.com/images/I/31AQujF2E7L._SX337_BO1,204,203,200_.jpg)
 
-1999 · New York: Inanout Press · 168pp
+by John Trudell
+
+edited by Paola Igliori
+
+1994 · New York: Inanout Press · 168pp
+
+John Trudell became involved in Native American activism and was a
+spokesman for American Indian protesters during their 1969 occupation
+of Alcatraz Island and served as national chairman of the American
+Indian Movement from 1973 to 1979. He was a prolific poet, who
+combined spoken words and music on more than a dozen albums. He also
+acted in several movies including Thunderheart and Smoke
+Signals. There was a 2005 documentary about him called Trudell. In
+2012, Trudell and singer Willie Nelson co-founded Hempstead Project
+Heart, which advocates for legalizing the growing of hemp for
+industrial purposes as a more environmentally sound alternative to
+crops used for clothing, biofuel and food. He died of cancer on
+December 8, 2015 at the age of 69.
 
 
 ### Living in Reality: Songs Called Poems
 
 ![alt](https://images-na.ssl-images-amazon.com/images/I/51nnmHD7l7L._SX330_BO1,204,203,200_.jpg)
+
+by John Trudell
 
 1982 · Society of the People Struggling to be Free · 71pp
 
