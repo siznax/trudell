@@ -42,6 +42,17 @@ programs.
 https://www.johntrudell.com/donate/
 
 
+### Protect Juristac
+
+Petition to Santa Clara County: Protect Amah Mutsun Sacred Grounds
+from Proposed Quarry
+
+We invite you to stand with the Amah Mutsun Tribal Band in saying NO
+to sand and gravel mining at Juristac. Please sign our petition here.
+
+http://www.protectjuristac.org/petition/
+
+
 ### Restoring Justice for Indigenous Peoples
 
 _Support for California MMIW, Media Protocol training, and Native Youth_
