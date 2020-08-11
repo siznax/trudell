@@ -1,5 +1,15 @@
-Films
-=====
+### Rumble: The Indians Who Rocked the World
+
+![alt](rumble-poster.jpg)
+
+2017 ‧ Documentary/Music ‧ 1h 43m
+
+Filmmaker Catherine Bainbridge examines the role of Native Americans
+in contemporary music history. She exposes a critical missing chapter,
+revealing how indigenous musicians helped influence popular culture.
+
+* Trailer https://www.youtube.com/watch?v=qDEtj-zjFzE
+* IMDb
 
 ### Trudell
 
@@ -16,6 +26,9 @@ the Occupation of Alcatraz and Radio Free Alcatraz in 1969, to serving
 as Chairman of the American Indian Movement from 1973-1979. It also
 covers his rebirth as a poet after his wife died in a house fire
 suspected as arson.
+
+* Trailer https://www.youtube.com/watch?v=y5Lf2LmxoFw
+* IMDb https://www.imdb.com/title/tt0395796/
 
 
 ### Dark Blood
@@ -38,12 +51,42 @@ production of Dark Blood when the film's young star Phoenix died
 tragically at 23, the film arrived onscreen nearly 20 years after its
 original scheduled release date.
 
+* Trailer https://www.youtube.com/watch?v=6OHjl4KTspw
+* IMDb https://www.imdb.com/title/tt0293069
+
+
+### A Good Day To Die
+
+![A Good Day To Die](mueller-salt-2011-good.jpg)
+
+2011 · David Mueller, Lynn Salt · 1h 33m
+
+A GOOD DAY TO DIE chronicles a movement that started a revolution and
+inspired a nation. By recounting the life story of Dennis Banks, the
+Native American who co-founded the American Indian Movement (AIM) in
+1968 to advocate and protect the rights of American Indians, the film
+provides an in-depth look at the history and issues surrounding AIM's
+formation. From the forced assimilation of Native Americans within
+boarding schools, to discrimination by law enforcement authorities, to
+neglect by government officials responsible for the Bureau of Indian
+Affairs, AIM sought redress for the many grievances that its people
+harbored.
+
+Banks' personal struggle culminated in major armed confrontations at
+Custer, South Dakota and Wounded Knee -- climactic flash points which
+saw him standing steadfast as a leader for his cause.
+
+Bittersweet and compelling, A GOOD DAY TO DIE charts the rise and fall
+of a movement that fought for the civil rights of American Indians.
+
+* https://sfpl.kanopy.com/video/good-day-die
+
 
 ### Smoke Signals
 
 ![alt](https://upload.wikimedia.org/wikipedia/en/c/c2/Smoke_Signals.jpg)
 
-1998 · Independent/Drama · 1h 29m · [PG-13]
+1998 · Independent/Drama · 1h 29m · PG-13
 
 Arnold (Gary Farmer) rescued Thomas (Evan Adams) from a fire when he
 was a child. Thomas thinks of Arnold as a hero, while Arnold's son
@@ -54,12 +97,15 @@ Idaho and arguing about their cultural identities. When Arnold dies,
 the duo set out on a cross-country journey to Phoenix to retrieve
 Arnold's ashes.
 
+* Trailer https://www.youtube.com/watch?v=DcXDGHLh5qA
+* IMDb https://www.imdb.com/title/tt0120321/
+
 
 ### Thunderheart
 
 ![alt](https://static.tvtropes.org/pmwiki/pub/images/9e06c22e5e00f9c475eb21a6b68676cd.jpg)
 
-1992 · Mystery/Western · 1h 59m
+1992 · Mystery/Western · 1h 59m · R
 
 When a series of murders stuns a small Native American reservation,
 the FBI sends in agent Ray Levoi (Val Kilmer) to investigate. While
@@ -69,6 +115,10 @@ locals. While the reservation police officer (Graham Greene) views the
 agent as an outsider, the tribal elder (Chief Ted Thin Elk) believes
 him to be the reincarnated spirit of Thunderheart, a Native American
 hero.
+
+* IMDb https://www.imdb.com/title/tt0105585/
+* Trailer https://www.youtube.com/watch?v=8_zcWELlRg8
+* Wikipedia https://en.wikipedia.org/wiki/Thunderheart
 
 
 ### Incident at Oglala: The Leonard Peltier Story
@@ -96,7 +146,10 @@ surrounding the investigation and subsequent trial of Peltier. The
 film is a companion to Apted's own Thunderheart, which offers a
 fictionalized account of the same case.
 
-https://www.facebook.com/LeonardPeltierUSA/videos/incident-at-oglala/220627718494333/
+* IMDb https://www.imdb.com/title/tt0104504/
+* Stream https://www.facebook.com/LeonardPeltierUSA/videos/incident-at-oglala/220627718494333/
+* Trailer https://www.youtube.com/watch?v=oNmnpmQZ7Yo
+* Wikipedia https://en.wikipedia.org/wiki/Incident_at_Oglala
 
 See also: [Incident at
 Oglala](https://www.zinnedproject.org/materials/incident-at-oglala/)
@@ -165,6 +218,26 @@ https://www.youtube.com/watch?v=7CoypTJgG74
 
 ----
 
+### Rising Voices: Hótȟaŋiŋpi - Revitalizing the Lakota Language
+
+![alt](
+
+2016 · The Language Conservancy · 57m
+
+Rising voices/Hótȟaŋiŋpi from The Language Conservancy and Florentine
+Films profiles Lakota language loss and revitalization.
+
+* Stream https://risingvoicesfilm.com/watch-full-film/
+* Stream https://www.youtube.com/watch?v=Wr-jackHWCw
+* Trailer https://www.youtube.com/watch?v=5NZesEQe7LY
+* Website https://risingvoicesfilm.com/the-project/
+
+See also:
+
+* The Lakota Language Consortium https://lakhota.org/
+* Bonus Videos https://risingvoicesfilm.com/videos/bonus-videos/
+
+
 ### The Trail of Tears: Cherokee Legacy
 
 ![]()
@@ -206,6 +279,19 @@ https://navajoboy.com/watch/
 
 
 ----
+
+### Rising Voices: Hótȟaŋiŋpi
+
+_Revitalizing the Lakota Language_
+
+2018 · The Language Conservancy · 57m
+
+Rising voices/Hótȟaŋiŋpi from The Language Conservancy and Florentine
+Films profiles Lakota language loss and revitalization.
+
+* stream https://www.youtube.com/watch?v=Wr-jackHWCw
+* https://risingvoicesfilm.com/the-project/
+
 
 ### Tasunke Witko (Crazy Horse): A Documentary Film
 
