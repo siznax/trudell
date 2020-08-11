@@ -1,7 +1,9 @@
-John Trudell
-============
+John Trudell Poetry Foundation Biography
+========================================
 
-Poetry Foundation
+By Poetry Foundation
+
+20 Aug 2020
 
 https://www.poetryfoundation.org/poets/john-trudell
 

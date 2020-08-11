@@ -1,7 +1,9 @@
-Biography
-=========
+John Trudell Biography
+======================
 
 https://www.johntrudell.com/biography/
+
+![alt](bio-johntrudell.com.1.jpg)
 
 ## John Trudell has been identified as a poet, a fighter for Native American rights, an agitator, and lots of other things.
 
@@ -12,6 +14,8 @@ do…but they’re parts of me. They’re not the total.” Indeed, Trudell
 was the complex sum of all that he saw, endured and accomplished in
 his 69 years, a time in which he experienced more than most people
 might in several lifetimes.
+
+![alt](bio-johntrudell.com.2.jpg)
 
 John Trudell did not set out to be a poet. He never studied poetry in
 school. He took that road primarily through a series of detours, and
@@ -25,7 +29,9 @@ became acquainted with hardship at an early age. His mother died when
 he was 6, and he watched his father struggle to feed and clothe his
 large family. This experience left Trudell with a deep contempt for
 the American “work ethic,” compounded by the endemic racial and
-economic injustice which surrounded him.John Trudell Biography
+economic injustice which surrounded him.
+
+![alt](bio-johntrudell.com.3.jpg)
 
 In 1963, like so many young people with limited economic
 opportunities, Trudell found himself in the military. Trudell saw
@@ -64,6 +70,8 @@ this pirit is popping up and gaining momentum through A.I.M., and this
 is why the spirit-hunters, those who hunt free thought, came after
 us.” A 17,000 page F.B.I. file bearing Trudell’s name remains a
 testament to his years under government scrutiny.
+
+![alt](bio-johntrudell.com.4.jpg)
 
 **In 1979 that war took a terrible personal toll on John Trudell, in
 the form of an unspeable tragedy that changed his life forever.**
@@ -139,7 +147,9 @@ called AKA GRAFITTI MAN “the best album of 1986,” and had the album
 played over the P.A. system during intermissions in his 1987
 tour. Among Trudell’s other fans is Kris Kristofferson, who wrote the
 song “Johnny Lobo” as a tribute to his remarkable life.
-John Trudell Bio
+
+![alt](bio-johntrudell.com.5.jpg)
+
 
 Trudell and Jesse Ed Davis recorded a second album together, HEART
 JUMP BOUQUET. Following Davis’ untimely death in 1988, Trudell began
@@ -197,6 +207,8 @@ directed by Apted, released in April 1992.
 * 2014 Through The Dust (feat. Kwest)
 * 2015 Wazi’s Dream (feat. Bad Dog: Quiltman, Mark Shark, Billy Watts,
   Ricky Eckstein)
+
+![alt](bio-johntrudell.com.6.jpg)
 
 Once John Trudell was asked about events surrounding the 500th
 anniversary of Christopher Columbus’ “discovery” of America. He
