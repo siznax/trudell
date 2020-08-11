@@ -1,3 +1,4 @@
+* Argus Leader https://www.argusleader.com/
 * Indian Country Today https://indiancountrytoday.com/
 * Indianz: Native American News & Information https://www.indianz.com/ 
 * Lakota Times on Pine Ridge Indian Reservation https://www.lakotatimes.com/
