@@ -83,26 +83,28 @@ Nature
 Projects
 --------
 
+* Restoring Justice for Indigenous Peoples
+  https://www.indigenousjustice.org/
 * Lakota People's Law Project
   https://www.youtube.com/user/Lakotalaw1
 
 Research
 --------
 
-* STEPS FOR CONDUCTING RESEARCH AND EVALUATION IN NATIVE COMMUNITIES
-https://www.samhsa.gov/sites/default/files/nace-steps-conducting-research-evaluation-native-communities.pdf
-
-
+* Steps for Conducting Research and Evaluation in Native Communities
+  https://www.samhsa.gov/sites/default/files/nace-steps-conducting-research-evaluation-native-communities.pdf
 
 Video
 -----
 
-* Prelinger videos on Found SF wiki
-  http://www.foundsf.org/index.php?search=prelinger
+* Bay Area Television Archive (242 John Trudell results)
+  https://diva.sfsu.edu/collections/sfbatv/search?q=john+trudell&go=Go
 * John Trudell topic on YouTube    
   https://www.youtube.com/channel/UCK4DQQdsJDzuNp_Dw3esR9w
 * John Trudell channel on YouTube    
   https://www.youtube.com/channel/UCt2KWWXOKWpyeKL3z25Przg
+* Prelinger videos on Found SF wiki
+  http://www.foundsf.org/index.php?search=prelinger
 * The Cultural Conservancy
   https://www.nativeland.org/videos
 * Unicorn Riot Documentaries    
