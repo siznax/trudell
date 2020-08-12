@@ -12,12 +12,13 @@ Contributing
 1. Follow guidelines below for each category
 
 
-A note on dates
----------------
+Dates
+-----
 
-Always format dates this way: ```Day Full-Month-Name Year``` for
-clarity. These dates will be reformatted to (sortable) ISO 8601 format
-elsewhere.
+Always style dates as ```Day Full-month-name Year``` for clarity. For
+example, "3 January 1980" but not "1/3/1980" or "3/1/1980" or "Jan 3,
+1980". These dates will be reformatted to (sortable) ISO 8601 format
+elsewhere, eg. "1980-01-03".
 
 
 Articles
