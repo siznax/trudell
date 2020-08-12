@@ -83,10 +83,23 @@ Nature
 Projects
 --------
 
-* Restoring Justice for Indigenous Peoples
-  https://www.indigenousjustice.org/
+* Indian People Organizing for Change
+  http://ipocshellmoundwalk.homestead.com/
 * Lakota People's Law Project
   https://www.youtube.com/user/Lakotalaw1
+* Restoring Justice for Indigenous Peoples
+  https://www.indigenousjustice.org/
+* Sogorea Te Land Trust
+  https://sogoreate-landtrust.org/  
+* UC Santa Cruz American Indian Resource Center
+  https://airc.ucsc.edu/
+
+Further reading:
+
+1. Indian People Organizing for Change & The Sogorea Te Land Trust    
+   http://www.foundsf.org/index.php?title=Indian_People_Organzing_for_Change_(IPOC)_and_the_Sogorea_Te_Occupation
+
+
 
 Research
 --------
