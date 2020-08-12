@@ -102,6 +102,7 @@ detentions. RJIP is dedicated to Indigenous pathways to heal for
 system impacted youth.
 
 * Website https://www.indigenousjustice.org/
+* Newsletter https://www.indigenousjustice.org/support
 
 
 @siznax
