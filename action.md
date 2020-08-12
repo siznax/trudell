@@ -30,6 +30,25 @@ Juristac. Please sign our petition here.
 * Petition http://www.protectjuristac.org/petition/
 
 
+Rematriate the Land: Give Shuumi
+--------------------------------
+
+_Sogorea Te Land Trust_
+
+The Shuumi Land Tax directly supports Sogorea Te’s work of
+rematriation, returning Indigenous land to Indigenous people,
+establishing a cemetery to reinter stolen Ohlone ancestral remains and
+building urban gardens, community centers, and ceremonial spaces so
+current and future generations of Indigenous people can thrive in the
+Bay Area. Shuumi means gift in the Ohlone language Chochenyo.
+
+The Shuumi Land Tax is a voluntary annual contribution that
+non-Indigenous people living on traditional Lisjan Ohlone territory
+make to support the critical work of the Sogorea Te’ Land Trust.
+
+* https://sogoreate-landtrust.org/shuumi-land-tax/
+
+
 Save the West Berkeley Shellmound
 ---------------------------------
 
@@ -55,6 +74,21 @@ site. [1]
 * Facebook https://www.facebook.com/groups/1328362423841558/
 
 1. http://www.foundsf.org/index.php?title=Indian_People_Organzing_for_Change_(IPOC)_and_the_Sogorea_Te_Occupation
+
+
+Stop Junipero Serra Sainthood
+-----------------------------
+
+_Amah Mutsun Tribal Band_
+
+California Indians Demand Cruelty to Ancestors be Disclosed as
+California Mission Foundation tries to Declare El Camino Real a UNESCO
+World Heritage Site. A proposal by the California Mission Foundation
+to have the state’s famed El Camino Real route declared a UNESCO
+Heritage Site is being bitterly opposed by state Indians who said it
+would only "honor and glorify the brutal conquest" of Indian lands.
+
+http://amahmutsun.org/news/opposition-to-serra-sainthood
 
 
 Support the John Trudell Scholarship and Archive Fund
@@ -103,6 +137,18 @@ system impacted youth.
 
 * Website https://www.indigenousjustice.org/
 * Newsletter https://www.indigenousjustice.org/support
+
+
+Virtual Drum and Dance Practice
+-------------------------------
+
+_Intertribal Friendship House_
+
+> Every Thursdays 6:00pm-7:00pm    
+> RingCentral Meeting ID: 6878203823    
+> Join from PC, Mac, Linux, iOS or Android:     
+> https://meetings.ringcentral.com/j/6878203823
+
 
 
 @siznax
