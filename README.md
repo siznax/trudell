@@ -7,6 +7,8 @@ All Tribes_' takeover of Alcatraz beginning in 1969, broadcasting as
 _Radio Free Alcatraz_. He called himself a [Blue
 Indian](https://youtu.be/foQKPMGA1Ws).
 
+See [Actions You Can Take](action.md)
+
 
 ### An American Indian [chronology](lakota-timeline.md)
 
