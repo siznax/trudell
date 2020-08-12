@@ -379,22 +379,6 @@ frybread, buffalo burgers, Native art and jewelry, and other items.
 https://fortmason.org/event/baaits-powwow-2020/
 
 
-### Broken Rainbow
-
-![alt](https://upload.wikimedia.org/wikipedia/en/2/2e/Broken_Rainbow.jpg)
-
-1985 ‧ Documentary/History/Native Americans ‧ 1h 10m
-
-In 1983, President Ronald Reagan's controversial Secretary of the
-Interior James Watt sold coal leases on federal land in New Mexico and
-Arizona to developers for exploration and mining. Thousands of members
-of the Navajo tribe lived on this land, part of their ancestral
-homeland, and were forcibly relocated away from their homes. This
-documentary examines this and other injustices in the U.S./Navajo
-relationship. Narrated by actor Martin Sheen, the film won a Best
-Documentary Feature Oscar.
-
-
 ### Chronology of American Indian History: The Trail of the Wind
 
 by Liz Sonneborn
