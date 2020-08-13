@@ -272,19 +272,4 @@ densest Indian populations in all of North America.
 * Google https://www.google.com/books/edition/The_Ohlone_Way/vapzCy2oVQoC
 
 
-----
-
-1. Black Elk, Nicholas (Oglala Sioux) and John G. Neihardt. Black Elk
-   Speaks: Being the Life Story of a Holy Man of the Oglala
-   Sioux. Lincoln: University of Nebraska Press, 1961.
-1. Klein, Laura F. and Lillian A. Ackerman. Women and Power in Native
-   North America. Norman: University of Oklahoma Press, 1995.
-1. Lame Deer, John (Lakota) and Richard Erdoes. Lame Deer, Seeker of
-   Visions. New York: Simon and Schuster, 1972.
-1. Mehl-Madrona, Lewis (Cherokee/Lakota). Coyote Medicine: Lessons
-   from Native American Healing. New York: Fireside, 1997.
-1. Mooney, James, "The Ghost Dance Religion and the Sioux Outbreak of
-   1890"
-1. Vine, Deloria, Jr. "[Custer died for your sins; an Indian
-   manifesto](https://archive.org/details/custerdiedfory00delo)," New
-   York: Macmillan, 1969.
+@siznax
