@@ -1,3 +1,11 @@
+"Black Elk Was Right"
+By Bernie Hunhoff · 23 March 2012 · South Dakota Magazine
+https://www.southdakotamagazine.com/seventh-generation
+
+"The Shellmound"
+By Fiona "Felix" Thomson · 16 November 2007 · Bay Radical
+http://bayradical.blogspot.com/2007/11/shellmound.html
+
 "The Alcatraz Sioux who became the voice of the Native Americans"
 By Beatriz García · 25 March 2020 · Al Día
 https://aldianews.com/articles/culture/social/alcatraz-sioux-who-became-voice-native-americans/58001
