@@ -157,7 +157,7 @@ at Zinn Education Project
 
 ### Broken Rainbow
 
-![alt](https://upload.wikimedia.org/wikipedia/en/2/2e/Broken_Rainbow.jpg)
+![Broken Rainbow](broken-rainbow.jpg)
 
 1985 ‧ Documentary/History/Native Americans ‧ 1h 10m
 
