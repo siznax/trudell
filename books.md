@@ -120,11 +120,41 @@ and it’s destined to be a classic.
 * Further Reading https://www.pbs.org/newshour/arts/loved-the-overstory-richard-powers-recommends-26-other-books-on-trees
 
 
-### "We Are Still Here" American Indians Since 1890
+### White Rage
+
+By Carol Anderson
+
+2017 · Bloomsbury Publishing · 267pp
+
+_The Unspoken Truth of Our Racial Divide_
+
+![White Rage](images/anderson-2017-rage.jpg)
+
+White Rage: The Unspoken Truth of Our Racial Divide is a 2016
+nonfiction book by Emory University professor Carol Anderson. She had
+been contracted to write the book following reaction to an op-ed she
+wrote for The Washington Post in 2014.
+
+Carefully linking historical flashpoints when social progress for
+African Americans was countered by deliberate and cleverly crafted
+opposition, Anderson pulls back the veil that has long covered actions
+made in the name of protecting democracy, fiscal responsibility, or
+protection against fraud, rendering visible the long lineage of white
+rage. Compelling and dramatic in the unimpeachable history it relates,
+White Rage will add an important new dimension to the national
+conversation about race in America.
+
+* Author https://www.professorcarolanderson.org/white-rage
+* Publisher https://www.bloomsbury.com/us/white-rage-9781632864123/
+
+
+### _"We Are Still Here"_
 
 By Peter Iverson, Wade Davies
 
 2014 · History/Native Americans · Wiley · 368pp
+
+_American Indians Since 1890_
 
 ![We Are Still Here](images/iverson-davies-2014-here.jpg)
 
@@ -146,6 +176,80 @@ research and writing Covers American Indian history from 1890 through
 * Publisher https://www.wiley.com/en-us/%22%22We+Are+Still+Here%22%22%3A+American+Indians+Since+1890%2C+2nd+Edition-p-9781118751589
 
 
+### Everything You Wanted to Know about Indians But Were Afraid to Ask
+
+By Anton Treuer
+
+2012 · History/Native Americans · Minnesota Historical Society Press ·
+190pp
+
+![Everything ... About Indians](images/treuer-2012-indians.jpg)
+
+What have you always wanted to know about Indians? Do you think you
+should already know the answers -- or suspect that your questions may
+be offensive? In matter-of-fact responses to over 120 questions, both
+thoughtful and outrageous, modern and historical, Ojibwe scholar and
+cultural preservationist Anton Treuer gives a frank, funny, and
+sometimes personal tour of what's up with Indians, anyway.
+
+Anton Treuer is an American academic and author specializing in the
+Ojibwe language and American Indian studies. He is professor of Ojibwe
+at Bemidji State University, Minnesota and a 2008 Guggenheim Fellow.
+
+* Publisher https://birchbarkbooks.com/all-online-titles/everything-you-wanted-to-know-about-indians-but-were-afraid-to-ask
+
+
+### Kill the Indian, Save the Man
+
+by Ward Churchill
+
+2004 · City Lights Books · 128pp
+
+_The Genocidal Impact of American Indian Residential Schools_
+
+![Kill the Indian, Save the Man](images/churchill-2004-save.jpg)
+
+For five consecutive generations, from roughly 1880 to 1980, Native
+American children in the United States and Canada were forcibly taken
+from their families and relocated to residential schools. The stated
+goal of this government program was to "kill the Indian to save the
+man." Half of the children did not survive the experience, and those
+who did were left permanently scarred. The resulting alcoholism,
+suicide, and the transmission of trauma to their own children has led
+to a social disintegration with results that can only be described as
+genocidal.
+
+* Publisher http://www.citylights.com/book/?GCOI=87286100529180
+
+
+### _Struggle for the Land_
+
+By Ward Churchill
+
+2002 · City Lights Books · 460pp
+
+_Native North American Resistance to Genocide, Ecocide and Colonization_
+
+![Struggle for the Land](images/churchill-2002-struggle.jpg)
+
+Struggle for the Land: Native North American Resistance to Genocide,
+Ecocide and Colonization is a book by Ward Churchill. It is a
+collection of essays on the efforts of Native Americans in the United
+States and in Canada to maintain their land tenure claims against
+government and corporate infringement. Equating colonization with
+genocide and ecocide, the author provides examples of resistance.
+
+Beginning with an overview of the impact of legal doctrines
+established by the United States and Canada on Native people, and
+moving on to explore a series of case studies indicative of the
+effects of domination "by North America's settler-states," the book
+concludes with a discussion paper offering a scenario for an alternate
+future.
+
+* Publisher http://www.citylights.com/book/?GCOI=87286100700140
+* Wikipedia https://en.wikipedia.org/wiki/Struggle_for_the_Land
+
+
 ### _The Ohlone Way_
 
 by Malcolm Margolin
@@ -164,7 +268,8 @@ a sound like that of a hurricane." This land of "inexpressible
 fertility," as one early explorer described it, supported one of the
 densest Indian populations in all of North America.
 
-* https://www.google.com/books/edition/The_Ohlone_Way/vapzCy2oVQoC
+* Publisher https://heydaybooks.com/the-ohlone-way/
+* Google https://www.google.com/books/edition/The_Ohlone_Way/vapzCy2oVQoC
 
 
 ----
