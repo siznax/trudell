@@ -15,6 +15,8 @@
 
 ----
 
+## Bibliographies
+
 ### A Critical Bibliography on North American Indians for K-12
 
 This bibliography, compiled by the Anthropology Outreach Office of the
@@ -38,3 +40,15 @@ culturally sensitive to all students. Embrace our diversity, for it
 truly is our greatest strength.
 
 http://web.archive.org/web/20050204000945/http://nmnhwww.si.edu/anthro/outreach/Indbibl/bibliogr.html
+
+
+### National Library of Medicine's Native Voices Suggested Readings
+
+Young Readers & Young Adults    
+https://www.nlm.nih.gov/nativevoices/resources/suggested-readings-young-readers.html
+
+General Public   
+https://www.nlm.nih.gov/nativevoices/resources/suggested-readings-general-public.html
+
+
+@siznax
