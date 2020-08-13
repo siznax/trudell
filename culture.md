@@ -14,7 +14,8 @@ also represent:
 * Ceremonial plants: tobacco, sweet grass, sage, cedar
 
 1. https://www.nlm.nih.gov/nativevoices/exhibition/healing-ways/medicine-ways/medicine-wheel.html
-
+1. https://www.stjo.org/native-american-culture/native-american-beliefs/four-directions/
+1. http://aktalakota.stjo.org/site/News2?page=NewsArticle&id=8593
 
 ### Medicine Wheel
 
