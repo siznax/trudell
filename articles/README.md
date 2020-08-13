@@ -1,3 +1,22 @@
+
+
+Phoenix New Times reporting on Hopi Black Mesa Issues - 2 parts
+
+1. "Dark Days on Black Mesa" (Part 1/2)
+   By John Dougherty · 24 April 1997 · Phoenix New Times
+   https://www.phoenixnewtimes.com/news/dark-days-on-black-mesa-6423140
+2. "A People Betrayed" (Part 2/2)
+   By John Dougherty · 1 May 1997 · Phoenix New Times
+   https://www.phoenixnewtimes.com/news/a-people-betrayed-6423155
+
+> Thirty-one years ago, the Hopi Tribal Council struck an agreement to
+> sell groundwater to Peabody Western Coal Company. That water is
+> mixed with coal strip-mined by Peabody from nearby Hopi and Navajo
+> lands to make a slurry. The mixture is then injected into America's
+> only coal-slurry pipeline, which leads to a massive electricity
+> plant at Laughlin, Nevada, where the coal is burned to produce power
+> for Las Vegas, Los Angeles and Phoenix.
+
 "How A Native American Resistance Held Alcatraz for 18 Months"
 By David Treuer
 The New York Times
