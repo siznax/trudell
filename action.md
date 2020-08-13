@@ -1,7 +1,7 @@
 Abolish Columbus Day
 --------------------
 
-Zinned Project
+_Zinned Project_
 
 It is time to stop celebrating the crimes of Columbus and stand in
 solidarity with the Indigenous people who demand an end to Columbus
@@ -13,13 +13,35 @@ for communities to introduce legislation to rename Columbus Day to
 Indigenous Peoples’ Day. Below we provide information and resources to
 join the campaign to Abolish Columbus Day.
 
-* Website https://www.zinnedproject.org/campaigns/abolish-columbus-day
+* Website https://www.zinnedproject.org/
+* Campaign https://www.zinnedproject.org/campaigns/abolish-columbus-day
 
 See also: [articles/2018-columbus-sfexaminer.com.md](articles/2018-columbus-sfexaminer.com.md)
 
 
+Clean Up Navajo Land and Water Contaminated by Uranium Mining
+-------------------------------------------------------------
+
+_Groundswell Educational Films_
+
+Our new Navajo Boy webisode series introduces environmental
+stories–like the contamination of Navajo water–from the point of view
+of Navajos with flip video cameras. Each episode offers a witness and
+a way to make a difference. You can help today by contributing to
+Groundswell for shooting, editing, and a paid college internship that
+will bring this program into Navajo communities.  Your support enables
+Groundswell to keep Navajo environmental concerns in front of
+policy-makers, responsible agencies, and mainstream media.
+
+* Action Center http://navajoboy.com/action-center/
+* Donate https://www.groundswellfilms.org/donate-to-the-navajo-webisode-project/
+* Webisodes http://navajoboy.com/webisodes/  
+
+
 Protect Juristac
 ----------------
+
+_Amah Mutsun Tribal Band_
 
 Petition to Santa Clara County: Protect Amah Mutsun Sacred Grounds
 from Proposed Quarry. We invite you to stand with the **Amah Mutsun
@@ -52,7 +74,14 @@ make to support the critical work of the Sogorea Te’ Land Trust.
 Save the West Berkeley Shellmound
 ---------------------------------
 
-Indian People Organizing for Change (IPOC)
+_Indian People Organizing for Change (IPOC)_
+
+Save West Berkeley Shellmound and Village Site is a coalition of
+Ohlone tribes, indigenous organizations, and individuals who advocate
+for historic preservation, indigenous sovereignty and environmental
+justice.
+
+https://shellmound.org/
 
 We [1] are currently working on trying to **protect the West Berkeley
 Shellmound** in Berkeley, the oldest of the Shellmounds (~5700 years
@@ -70,13 +99,14 @@ community engagement. In 2011 IPOC occupied the sacred site Sogorea Te
 on the Carquinez Strait for 109 days to prevent construction at the
 site. [1]
 
-* Website http://ipocshellmoundwalk.homestead.com/
-* Facebook https://www.facebook.com/groups/1328362423841558/
+* Website https://shellmound.org/
+* Action https://shellmound.org/take-action/
+* Facebook https://www.facebook.com/savetheshellmound
 
 1. http://www.foundsf.org/index.php?title=Indian_People_Organzing_for_Change_(IPOC)_and_the_Sogorea_Te_Occupation
 
 
-Stop Junipero Serra Sainthood
+Stop Junípero Serra Sainthood
 -----------------------------
 
 _Amah Mutsun Tribal Band_
@@ -91,30 +121,10 @@ would only "honor and glorify the brutal conquest" of Indian lands.
 http://amahmutsun.org/news/opposition-to-serra-sainthood
 
 
-Support the John Trudell Scholarship and Archive Fund
------------------------------------------------------
-
-John Trudell Archives, Inc. was created as a non-profit organization
-to serve as a library for the thousands of words and writings created
-by Native American poet, actor, spoken word artist, and activist John
-Trudell.
-
-Your donations will help cover the costs for inventorying and
-archiving Trudell’s words, as well as to provide scholarships to
-Native communities and international poetry and literature youth
-programs.
-
-* Facebook https://www.facebook.com/johntrudellarchives/
-* Shop https://jsrdirect.com/collections/john-trudell/
-* Twitter https://twitter.com/trudelljohn
-* Website https://www.johntrudell.com/archives/
-* Website https://www.johntrudell.com/donate/
-
-
 Support California MMIW, Media Protocol training, and Native Youth
 ------------------------------------------------------------------
 
-Restoring Justice for Indigenous Peoples
+_Restoring Justice for Indigenous Peoples_
 
 **Murdered and Missing Indigenous Women**
 California is one of the top 10 states that Indigenous women are
@@ -139,6 +149,28 @@ system impacted youth.
 * Newsletter https://www.indigenousjustice.org/support
 
 
+Support the John Trudell Scholarship and Archive Fund
+-----------------------------------------------------
+
+_John Trudell Archives, Inc._
+
+John Trudell Archives, Inc. was created as a non-profit organization
+to serve as a library for the thousands of words and writings created
+by Native American poet, actor, spoken word artist, and activist John
+Trudell.
+
+Your donations will help cover the costs for inventorying and
+archiving Trudell’s words, as well as to provide scholarships to
+Native communities and international poetry and literature youth
+programs.
+
+* Facebook https://www.facebook.com/johntrudellarchives/
+* Shop https://jsrdirect.com/collections/john-trudell/
+* Twitter https://twitter.com/trudelljohn
+* Website https://www.johntrudell.com/archives/
+* Website https://www.johntrudell.com/donate/
+
+
 Virtual Drum and Dance Practice
 -------------------------------
 
@@ -149,6 +181,8 @@ _Intertribal Friendship House_
 > Join from PC, Mac, Linux, iOS or Android:     
 > https://meetings.ringcentral.com/j/6878203823
 
+* Website https://www.ifhurbanrez.org/
+* Meeting https://meetings.ringcentral.com/j/6878203823
 
 
 @siznax
