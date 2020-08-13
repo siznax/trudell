@@ -1,4 +1,4 @@
-# "We must go beyond the arrogance of human rights. We must go beyond the ignorance of civil rights. We must step into the reality of natural rights because all of the natural world has a right to existence and we are only a small part of it." —John Trudell (1946-2015)
+ # "We must go beyond the arrogance of human rights. We must go beyond the ignorance of civil rights. We must step into the reality of natural rights because all of the natural world has a right to existence and we are only a small part of it." —John Trudell (1946-2015)
 
 **John Trudell** (15 Feb 1946-8 Dec 2015) was a Santee Sioux _American
 Indian_ philosopher, author, poet, actor, musician, veteran, and
@@ -29,7 +29,7 @@ See [Actions You Can Take](action.md)
   sovereignty (partially) upheld.
 * 2015: John Trudell [died of cancer](trudell-2015-death.md) on 8
   December
-* 2012: John Trudell starts [Hempseatd Project
+* 2012: John Trudell starts [Hempstead Project
   Heart](https://www.hempsteadprojectheart.org/)
 
 1900s

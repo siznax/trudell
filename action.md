@@ -1,3 +1,13 @@
+* Abolish Columbus Day
+* Clean Up Navajo Land and Water Contaminated by Uranium Mining
+* Protect Juristac
+* Rematriate the Land: Give Shuumi
+* Restore Justice for California MMIW and Native Youth
+* Save the West Berkeley Shellmound
+* Stop Junípero Serra Sainthood
+* Support the John Trudell Scholarship and Archive Fund
+* Virtual Drum and Dance Practice
+
 Abolish Columbus Day
 --------------------
 
@@ -71,6 +81,34 @@ make to support the critical work of the Sogorea Te’ Land Trust.
 * https://sogoreate-landtrust.org/shuumi-land-tax/
 
 
+Restore Justice for California MMIW and Native Youth
+----------------------------------------------------
+
+_Restoring Justice for Indigenous Peoples_
+
+**Murdered and Missing Indigenous Women**
+California is one of the top 10 states that Indigenous women are
+facing a crisis of survival. RJIP has been providing support to
+impacted families through advocacy, healing circles, and helping to
+create survivor centered spaces.
+
+**Media Protocol**
+Issues facing Indigenous peoples are severely underrepresented in
+news/media platforms or have a very low degree of cultural
+competency. RJIP holds trainings on how to accurately and impactfully
+discuss these issues, as well as workshops on empowering our
+communities to leverage new media to tell their own stories.
+
+**Native Youth**
+Our Indigenous youth in California face some of the most
+disproportionate numbers of school suspensions and juvenile
+detentions. RJIP is dedicated to Indigenous pathways to heal for
+system impacted youth.
+
+* Website https://www.indigenousjustice.org/
+* Newsletter https://www.indigenousjustice.org/support
+
+
 Save the West Berkeley Shellmound
 ---------------------------------
 
@@ -119,34 +157,6 @@ Heritage Site is being bitterly opposed by state Indians who said it
 would only "honor and glorify the brutal conquest" of Indian lands.
 
 http://amahmutsun.org/news/opposition-to-serra-sainthood
-
-
-Support California MMIW, Media Protocol training, and Native Youth
-------------------------------------------------------------------
-
-_Restoring Justice for Indigenous Peoples_
-
-**Murdered and Missing Indigenous Women**
-California is one of the top 10 states that Indigenous women are
-facing a crisis of survival. RJIP has been providing support to
-impacted families through advocacy, healing circles, and helping to
-create survivor centered spaces.
-
-**Media Protocol**
-Issues facing Indigenous peoples are severely underrepresented in
-news/media platforms or have a very low degree of cultural
-competency. RJIP holds trainings on how to accurately and impactfully
-discuss these issues, as well as workshops on empowering our
-communities to leverage new media to tell their own stories.
-
-**Native Youth**
-Our Indigenous youth in California face some of the most
-disproportionate numbers of school suspensions and juvenile
-detentions. RJIP is dedicated to Indigenous pathways to heal for
-system impacted youth.
-
-* Website https://www.indigenousjustice.org/
-* Newsletter https://www.indigenousjustice.org/support
 
 
 Support the John Trudell Scholarship and Archive Fund
