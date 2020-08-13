@@ -1,12 +1,17 @@
+
 * Abolish Columbus Day
 * Clean Up Navajo Land and Water Contaminated by Uranium Mining
+* Join the Promise To Protect
 * Protect Juristac
 * Rematriate the Land: Give Shuumi
 * Restore Justice for California MMIW and Native Youth
 * Save the West Berkeley Shellmound
+* Stop the Dakota Access Pipeline
 * Stop Junípero Serra Sainthood
 * Support the John Trudell Scholarship and Archive Fund
+* Take the Indigenous Futures Survey
 * Virtual Drum and Dance Practice
+
 
 Abolish Columbus Day
 --------------------
@@ -46,6 +51,26 @@ policy-makers, responsible agencies, and mainstream media.
 * Action Center http://navajoboy.com/action-center/
 * Donate https://www.groundswellfilms.org/donate-to-the-navajo-webisode-project/
 * Webisodes http://navajoboy.com/webisodes/  
+
+
+Join the Promise To Protect
+---------------------------
+
+_Cheyenne River Sioux Reservation in South Dakota_
+
+Join the Promise to Protect and get updates about the resistance to
+Keystone XL.
+
+The Promise to Protect is a commitment to engage in peaceful, creative
+resistance to Keystone XL along the route when called upon by
+frontline and Indigenous leaders.
+
+We will make a series of stands along the route – nonviolent but
+resolute displays of our continued opposition to a project that
+endangers the land, water, climate, and all of us.
+
+* Sign https://nokxlpromise.org/#sign
+* Join https://nokxlpromise.org/training-tour/
 
 
 Protect Juristac
@@ -144,6 +169,68 @@ site. [1]
 1. http://www.foundsf.org/index.php?title=Indian_People_Organzing_for_Change_(IPOC)_and_the_Sogorea_Te_Occupation
 
 
+Stop the Dakota Access Pipeline
+-------------------------------
+
+_Stand with Standing Rock_
+
+The Standing Rock Sioux Tribe and Cheyenne River Sioux Tribe this week
+landed what supporters are calling an unprecedented win in their fight
+against the Dakota Access Pipeline, with a judge ordering the pipeline
+shut down for additional environmental review. (August 2020)
+
+Over the years, the #NoDAPL movement has captivated all of Indian
+Country, with Indigenous people and allies the world over joining
+together to support the “Oceti Sakowin” camp on the Standing Rock
+Reservation in North Dakota.
+
+* Website https://www.standingrock.org/
+* Petition https://standwithstandingrock.net/take-action
+* Litigation https://earthjustice.org/features/faq-standing-rock-litigation
+* Timeline https://indiancountrytoday.com/news/dakota-access-pipeline-timeline-FW2gTraDsE2Jn3tCXYjIyg
+* Wikipedia https://en.wikipedia.org/wiki/Dakota_Access_Pipeline
+
+### Oceti Sakowin Camp
+
+The Oceti Sakowin Camp is a historic gathering of tribes, allies and
+people from all walks of life standing in solidarity to halt the
+Dakota Access Pipeline.
+
+https://standwithstandingrock.net/oceti-sakowin/
+
+### Sacred Stone Camp Iŋyaŋ Wakháŋagapi Othí
+
+"The smaller camp"
+
+* Action http://www.sacredstonecamp.org/take-action/
+* History http://www.sacredstonecamp.org/about/
+* Website http://www.sacredstonecamp.org/
+
+### Red Warrior Camp
+
+Red Warriors are self-sufficient, with minimal impact to the land and
+resources. These principles are utilized in our actions, both at the
+NoDAPL direct action in North Dakota, and in other actions and
+trainings throughout Turtle Island.
+
+Red Warrior Society’s mantra is “Everything for Everyone, Nothing for
+Ourselves.” We acknowledge the long legacy of warrior societies’
+continued struggle for indigenous liberation and environmental
+justice.
+
+1. https://indiancountrytoday.com/archive/red-warrior-camp-speaks-li4sF4UeOkGWo3qyp0tGtA
+
+### Native Organizing
+
+The Native Organizers Alliance (NOA) supports grassroots-driven social
+change rooted in Native traditional practices and values to advance
+sovereignty and the health and wellbeing of rural and urban Native
+communities and reservations across Indian Country.
+
+* Website http://nativeorganizing.org/
+* Updates http://nativeorganizing.org/updates/
+
+
 Stop Junípero Serra Sainthood
 -----------------------------
 
@@ -179,6 +266,28 @@ programs.
 * Twitter https://twitter.com/trudelljohn
 * Website https://www.johntrudell.com/archives/
 * Website https://www.johntrudell.com/donate/
+
+
+Take the Indigenous Futures Survey
+----------------------------------
+
+Indigenous Futures Survey
+Until now, Native people have never been asked about what issues
+matter to us. The Indigenous Futures Survey centers Native voices and
+provides an opportunity for all Native peoples to be a part of shaping
+the future. Native Organizers Alliance has partnered with IllumiNative
+and Aspen Institute’s Center for Native American Youth to conduct the
+largest survey of Native people ever conducted.
+
+The survey will explore the impact of Covid-19 on Native peoples,
+their families and community, issue priorities for the upcoming
+election, how racism and discrimination impact Native peoples’ lives
+and visions for the future of Indian Country. Take the 10-minute
+survey now and become eligible to win raffle prizes like Nike N7
+shoes, beaded jewelry, original artwork, and gift cards to your
+favorite Native brands. Your voice matters. 
+
+* Website http://indigenousfutures.illuminatives.org/
 
 
 Virtual Drum and Dance Practice
