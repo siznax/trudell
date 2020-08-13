@@ -1,3 +1,14 @@
+### A Good Relative
+
+We practice, as we say in Indian Country, being “a good relative.”
+Based on this principle, we pursue a spiritually directed organizing
+strategy rooted in total awareness of the environment, past, and
+future, and acting in harmony with all in the natural world and
+humanity, in the present.
+
+1. http://nativeorganizing.org/about-us/our-team/
+
+
 ### Four Directions
 
 Different tribes interpret the Medicine Wheel differently. Each of the
