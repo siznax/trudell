@@ -1,16 +1,20 @@
+![Thunderbird Woman triptych by Isaac
+Murdoch](images/isaac-murdoch-2017-thunderbird-woman.jpg)
 
-* Abolish Columbus Day
-* Clean Up Navajo Land and Water Contaminated by Uranium Mining
-* Join the Promise To Protect
-* Protect Juristac
-* Rematriate the Land: Give Shuumi
-* Restore Justice for California MMIW and Native Youth
-* Save the West Berkeley Shellmound
-* Stop the Dakota Access Pipeline
-* Stop Junípero Serra Sainthood
-* Support the John Trudell Scholarship and Archive Fund
-* Take the Indigenous Futures Survey
-* Virtual Drum and Dance Practice
+_Thunderbird Woman triptych (2017) by Isaac Murdoch_
+
+1. Abolish Columbus Day
+1. Clean Up Navajo Land and Water Contaminated by Uranium Mining
+1. Join the Promise To Protect
+1. Protect Juristac
+1. Rematriate the Land: Give Shuumi
+1. Restore Justice for California MMIW and Native Youth
+1. Save the West Berkeley Shellmound
+1. Stop the Dakota Access Pipeline
+1. Stop Junípero Serra Sainthood
+1. Support the John Trudell Scholarship and Archive Fund
+1. Take the Indigenous Futures Survey
+1. Virtual Drum and Dance Practice
 
 
 Abolish Columbus Day
@@ -189,6 +193,12 @@ Reservation in North Dakota.
 * Litigation https://earthjustice.org/features/faq-standing-rock-litigation
 * Timeline https://indiancountrytoday.com/news/dakota-access-pipeline-timeline-FW2gTraDsE2Jn3tCXYjIyg
 * Wikipedia https://en.wikipedia.org/wiki/Dakota_Access_Pipeline
+
+Further reading:
+
+1. An Introduction to the Dakota Access Pipeline Issue    
+   https://www.kcet.org/shows/earth-focus/a-living-breathing-movement-an-introduction-to-the-dakota-access-pipeline-issue
+
 
 ### Oceti Sakowin Camp
 
