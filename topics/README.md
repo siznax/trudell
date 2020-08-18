@@ -106,6 +106,8 @@ Genocide
   https://en.wikipedia.org/wiki/Category:Forced_migrations_of_Native_Americans_in_the_United_States
 * Native American Genocide    
   https://en.wikipedia.org/wiki/Category:Native_American_genocide
+* Native American Relocations
+  https://en.wikipedia.org/wiki/Population_transfer#Native_American_relocations
 
 Ghost Dance
 
@@ -154,6 +156,8 @@ Journals
 
 Law
 
+* American Indian Law Alliance
+  https://aila.ngo/
 * Federal Indian Law and Tribal Law research resources    
   https://www.narf.org/nill/resources
 * Indian Law Topics
@@ -389,6 +393,8 @@ War with the United States
 
 Wounded Knee
 
+* List of Indian Massacres
+  https://en.wikipedia.org/wiki/List_of_Indian_massacres
 * Wounded Knee Incident (1973)    
   https://en.wikipedia.org/wiki/Wounded_Knee_incident
 * Wounded Knee Massacre (1890)
