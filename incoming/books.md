@@ -15,6 +15,54 @@
 
 ----
 
+### The Heartbeat of Wounded Knee
+
+By David Treuer
+
+2019 · Riverhead Books · 528pp
+
+_Native America From 1890 to the Present_
+
+* FINALIST FOR THE 2019 NATIONAL BOOK AWARD
+* CHOSEN BY BARACK OBAMA AS ONE OF HIS FAVOURITE BOOKS OF 2019
+* LONGLISTED FOR THE 2020 ANDREW CARNEGIE MEDAL FOR EXCELLENCE
+* A NEW YORK TIMES BESTSELLER
+
+1. Google Books
+   https://www.google.com/books/edition/_/oG-DDwAAQBAJ?hl=en
+1. NPR Review
+   https://www.npr.org/2019/01/25/688499170/the-heartbeat-of-wounded-knee-aims-to-usher-in-a-new-narrative-for-native-americ
+1. NYT Review
+   https://www.nytimes.com/2019/01/20/books/review/david-treuer-heartbeat-wounded-knee.html
+1. StarTribune Review
+   https://www.startribune.com/review-the-heartbeat-of-wounded-knee-by-david-treuer/504504972/
+1. Penguin
+   https://www.penguinrandomhouse.com/books/316457/the-heartbeat-of-wounded-knee-by-david-treuer/
+   
+
+In The Heartbeat of Wounded Knee, Treuer melds history with
+reportage and memoir. Tracing the tribes' distinctive cultures from
+first contact, he explores how the depredations of each era spawned
+new modes of survival. The devastating seizures of land gave rise to
+increasingly sophisticated legal and political maneuvering that put
+the lie to the myth that Indians don't know or care about
+property. The forced assimilation of their children at
+government-run boarding schools incubated a unifying Native
+identity. Conscription in the US military and the pull of urban life
+brought Indians into the mainstream and modern times, even as it
+steered the emerging shape of self-rule and spawned a new generation
+of resistance. The Heartbeat of Wounded Knee is the essential,
+intimate story of a resilient people in a transformative era.
+
+**David Treuer** is Ojibwe from the Leech Lake Reservation in northern
+Minnesota. The author of four previous novels, most recently Prudence,
+and two books of nonfiction, he has also written for The New York
+Times, Los Angeles Times, Esquire, Slate, and The Washington Post,
+among others. He has a Ph.D. in anthropology and teaches literature
+and creative writing at the University of Southern California.
+
+----
+
 ## Bibliographies
 
 ### A Critical Bibliography on North American Indians for K-12

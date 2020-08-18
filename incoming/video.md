@@ -1,3 +1,86 @@
+Fighting Addiction on Pine Ridge Reservation (2017)
+The Guardian
+
+* https://www.theguardian.com/society/2017/sep/29/pine-ridge-indian-reservation-south-dakota
+* https://www.youtube.com/watch?v=FoKF8H1l7NU
+
+Whiteclay, Nebraska is a tiny unincorporated town that sits on the
+border with South Dakota. Until its closure by state officials, its
+four liquor stores sold more than 4m cans of beer a year, almost
+entirely to members of Lakota Sioux tribe on the Pine Ridge Indian
+reservation, where the sale of alcohol is banned. The Guardian spent
+time on the reservation to understand the impact of alcohol on its
+residents – and the activists and Lakota tribe members determined to
+keep the town closed
+
+Cursed by Coal: Mining the Navajo Nation (2015)
+VICE News
+https://www.youtube.com/watch?v=F4uGCj6knVw
+
+> There's a resource curse on the Navajo Nation. The
+> 27,000-square-mile reservation straddling parts of Arizona, New
+> Mexico, and Utah has an extremely high abundance of many energy
+> resources — particularly coal. That coal is what's burned to provide
+> much of the Southwest with electricity, and it creates jobs for the
+> Navajo. But the mining and burning have also caused environmental
+> degradation, serious health issues, and displacement.
+
+The Navajo Water Lady (2015)
+CBS Sunday Morning
+https://www.youtube.com/watch?v=hk8Rm9EsET4
+
+> In this corner of the Navajo Nation, just 100 miles west of
+> Albuquerque, N.M., an estimated 40 percent of residents don't have
+> access to running water. Their savior is Darlene Arviso, born and
+> raised on the Reservation, who drives her precious cargo - a tanker
+> truck filled with water - to make monthly deliveries to 250
+> families. Lee Cowan reports.
+
+Why the Sioux Are Refusing $1.3 Billion (2011)
+PBS News Hour
+https://www.youtube.com/watch?v=ObabZdcEXh4
+
+> Members of the Great Sioux Nation could pocket a large sum set aside
+> by the government for taking the resource-rich Black Hills away from
+> the tribes in 1877. But leaders say the sacred land was never, and
+> still isn't, for sale.
+
+Overview of Indian Affairs (1989)
+Senate Committee on the Bureau of Indian Affairs
+30 Jan - 5 Feb 1989
+C-SPAN
+
+* https://www.youtube.com/watch?v=xVANRroxuOo
+* https://www.c-span.org/video/?5987-1/overview-indian-affairs
+
+> Special Committee on Investigations held hearings to examine various
+> matters relating to Indian affairs, focusing on problems arising
+> from Federal Government representation of Indian interests, and
+> alleged fraud and corruption in regulating contracting on Indian
+> reservations.
+
+### Tending the Wild
+
+"Tending the Wild" shines light on the environmental knowledge of
+indigenous peoples across California by exploring how they have
+actively shaped and tended the land for millennia, in the process
+developing a deep understanding of plant and animal life. This series
+examines how humans are necessary to live in balance with nature and
+how traditional practices can inspire a new generation of Californians
+to tend their environment. 
+
+1. Cultural Burning - How Native American Peoples Use Fire to
+   Rejuvenate the Land
+1. Keeping the River - How the Klamath River's Native Peoples Maintain
+   Their Relationship With Salmon
+1. Weaving Community - How Native Peoples are Rediscovering Their
+   Basketry Traditions
+1. Decolonizing the Diet - How Native Peoples are Reclaiming
+   Traditional Foods
+1. Gathering Medicine - How Native Medicinal Practices Are Thriving
+   Today
+
+* Website https://www.kcet.org/shows/tending-the-wild
 
 
 

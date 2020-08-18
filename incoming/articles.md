@@ -1,3 +1,13 @@
+"Standing Rock: Art and Solidarity"
+By Josh Garrett-Davis · 16 May 2017 · KCET Earth Focus
+
+1. https://www.kcet.org/shows/earth-focus/standing-rock-art-and-solidarity
+1. https://theautry.org/exhibitions/standing-rock-art-and-solidarity
+
+"'A Living, Breathing Movement': An Introduction to the Dakota Access Pipeline Issue"
+by Rohini Walker · 2 May 2017 · KCET Earth Focus
+https://www.kcet.org/shows/earth-focus/a-living-breathing-movement-an-introduction-to-the-dakota-access-pipeline-issue
+
 "Black Elk Was Right"
 By Bernie Hunhoff · 23 March 2012 · South Dakota Magazine
 https://www.southdakotamagazine.com/seventh-generation
