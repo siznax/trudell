@@ -8,6 +8,7 @@ _Thunderbird Woman triptych (2017) by Isaac Murdoch_
 1. Join the Promise To Protect
 1. Protect Juristac
 1. Rematriate the Land: Give Shuumi
+1. [Restore Buffalo to Indian Country](#restore-buffalo-to-indian-country)
 1. Restore Justice for California MMIW and Native Youth
 1. Save the West Berkeley Shellmound
 1. Stop the Dakota Access Pipeline
@@ -108,6 +109,26 @@ non-Indigenous people living on traditional Lisjan Ohlone territory
 make to support the critical work of the Sogorea Te’ Land Trust.
 
 * https://sogoreate-landtrust.org/shuumi-land-tax/
+
+
+Restore Buffalo to Indian Country
+---------------------------------
+
+To reestablish healthy buffalo populations on Tribal lands is to
+reestablish hope for Indian people. By returning the buffalo to Tribal
+lands will help heal the land, the animal, and the spirit of the
+Indian people.
+
+ITBC has a membership of 69 tribes in 19 states and has restored more
+than 20,000 buffalo to Tribal lands. ITBC is committed to
+reestablishing buffalo herds on Indian lands in a manner that promotes
+cultural enhancement, spiritual revitalization, ecological
+restoration, and economic development.
+
+Donations of any amount are greatly appreciated and will be used to
+assist in the restoration of the Buffalo to American Indian Lands.
+
+* Website https://itbcbuffalonation.org/
 
 
 Restore Justice for California MMIW and Native Youth
