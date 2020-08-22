@@ -3,19 +3,21 @@ Murdoch](images/isaac-murdoch-2017-thunderbird-woman.jpg)
 
 _Thunderbird Woman triptych (2017) by Isaac Murdoch_
 
-1. Abolish Columbus Day
-1. Clean Up Navajo Land and Water Contaminated by Uranium Mining
-1. Join the Promise To Protect
-1. Protect Juristac
-1. Rematriate the Land: Give Shuumi
+1. [Abolish Columbus Day](#abolish-columbus-day)
+1. [Clean Up Navajo Land and Water Contaminated by Uranium Mining](#clean-up-navajo-land-and-water-contaminated-by-uranium)
+1. [Make A Promise To Protect](#make-a-promise-to-protect)
+1. [Make Billionaries Pay](#make-billionaires-pay)
+1. [Protect Juristac](#protect-jurstac)
+1. [Rematriate the Land: Give Shuumi](#rematriate-the-land--give-shuumi)
 1. [Restore Buffalo to Indian Country](#restore-buffalo-to-indian-country)
-1. Restore Justice for California MMIW and Native Youth
-1. Save the West Berkeley Shellmound
-1. Stop the Dakota Access Pipeline
-1. Stop Junípero Serra Sainthood
-1. Support the John Trudell Scholarship and Archive Fund
-1. Take the Indigenous Futures Survey
-1. Virtual Drum and Dance Practice
+1. [Restore Justice for California MMIW and Native Youth](#restore-justice-for-california-mmiw-and-native-youth)
+1. [Save the West Berkeley Shellmound](#save-the-west-berkeley-shell-mound)
+1. [Stop Further Construction on Mauna Kea]()
+1. [Stop the Dakota Access Pipeline](#stop-the-dakota-access-pipeline)
+1. [Stop Junípero Serra Sainthood](#stop-junipero-serra-sainthood)
+1. [Support the John Trudell Scholarship and Archive Funds](#support-the-john-trudell-scholarship-and-archive-funds)
+1. [Take the Indigenous Futures Survey](#take-the-indigenous-futures-survey)
+1. [Virtual Drum and Dance Practice](#virtual-drum-and-dance-practice)
 
 
 Abolish Columbus Day
@@ -58,8 +60,8 @@ policy-makers, responsible agencies, and mainstream media.
 * Webisodes http://navajoboy.com/webisodes/  
 
 
-Join the Promise To Protect
----------------------------
+Make A Promise To Protect
+-------------------------
 
 _Cheyenne River Sioux Reservation in South Dakota_
 
@@ -76,6 +78,38 @@ endangers the land, water, climate, and all of us.
 
 * Sign https://nokxlpromise.org/#sign
 * Join https://nokxlpromise.org/training-tour/
+
+
+Make Billionaires Pay
+---------------------
+
+_Native Organizers Alliance_
+
+Between mid-March and August 5, 2020 when the pandemic took hold in
+the U.S., 467 of the nation’s nearly 650 billionaires have seen their
+collective wealth ballooned by 30%―an increase of $732 billion, or
+$5.2 billion a day, according to research from Americans for Tax
+Fairness and the Institute for Policy Studies.
+
+At a time when millions of U.S. families are stretched to the breaking
+point, our tax fairness champions U.S. Senator Bernie Sanders and
+U.S. Representative Ilhan Omar, have introduced the **Make
+Billionaire’s Pay Act** to place a one-time tax on the growth of
+billionaire wealth between March 18, 2020 and the end of the year.
+
+* Place a one-time 60% tax on the growth in billionaire wealth between
+  March 18 - December 31, 2020.
+* Use that revenue ($422 billion based on Aug. 5 wealth estimates from
+  Forbes) to cover the out-of-pocket medical expenses of all those who
+  are uninsured and those who are under-insured Medicare beneficiaries
+  over the next 12 months during the COVID-19 crisis.
+* Leave $310 billion (on Aug. 5) in wealth gains for these 467
+  billionaires ― an extraordinary sum over 4 1/2 months.
+
+Make Billionaires Pay Act
+
+* Petition https://actionnetwork.org/petitions/become-a-grassroots-co-sponsor-of-the-make-billionaires-pay-act
+* Text https://www.sanders.senate.gov/download/make-billionaires-pay-fact-sheet
 
 
 Protect Juristac
@@ -262,6 +296,25 @@ communities and reservations across Indian Country.
 * Updates http://nativeorganizing.org/updates/
 
 
+Stop Further Construction on Mauna Kea
+--------------------------------------
+
+Mauna Kea is ancestrally, culturally and spiritually sacred to Kanaka
+Maoli, and the spiritual and physical health of the mountain, is
+reflective of the spiritual and physical health of her people.
+
+**Mauna Kea is significant to the entire world, connected to all
+mountains and waters, all places and all people. This is not just
+about one mountain in Hawai’i. This is a global movement and the world
+is watching.**
+
+Sign the petition for "The Immediate Halt to the Construction of the
+TMT telescope on Mauna Kea"
+
+* Petition https://www.change.org/p/gordon-and-betty-moore-foundation-the-immediate-halt-to-the-construction-of-the-tmt-on-mauna-kea
+* Website https://www.protectmaunakea.net/
+
+
 Stop Junípero Serra Sainthood
 -----------------------------
 
@@ -277,8 +330,8 @@ would only "honor and glorify the brutal conquest" of Indian lands.
 http://amahmutsun.org/news/opposition-to-serra-sainthood
 
 
-Support the John Trudell Scholarship and Archive Fund
------------------------------------------------------
+Support the John Trudell Scholarship and Archive Funds
+------------------------------------------------------
 
 _John Trudell Archives, Inc._
 
