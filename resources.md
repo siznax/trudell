@@ -63,14 +63,34 @@ Documents created by Federal agencies
 For Kids
 --------
 
+* American Indian History & Heritage Teacher's Guide
+  https://edsitement.neh.gov/teachers-guides/american-indian-history-and-heritage
+* Native Knowledge 360° 
+  https://americanindian.si.edu/nk360/
 * Native Americans at National Geographic Kids
   https://kids.nationalgeographic.com/explore/native-americans/
+* Scholastic Lesson Plans
+  https://www.scholastic.com/teachers/collections/teaching-content/native-american-heritage-0/
+* The Indians of the Midwest
+  https://publications.newberry.org/digital/indians-midwest/
 
 Maps
 ----
 
+* PBS Interactive Map
+  http://www.pbs.org/native-america/extras/interactive-map/
 * Tribal Nations Maps
   http://tribalnationsmaps.com/
+
+Native American Heritage Month
+------------------------------
+
+* National Park Service 
+  https://www.nps.gov/americanindian/
+* National Archives
+  https://www.archives.gov/news/topics/native-american-heritage-month
+* National Endowment for the Humanities
+  https://edsitement.neh.gov/teachers-guides/american-indian-history-and-heritage
 
 Nature
 ------

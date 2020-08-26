@@ -1,7 +1,164 @@
 Incoming material
 =================
 
+[ ] Selected tribe data    
+    https://docs.google.com/spreadsheets/d/13FZgIL9f8tWP-FKXhLnpROg97FjOSJsoqx3xaOnlx-8/
+
+Articles
+--------
+
+"The Alcatraz Sioux who became the voice of the Native Americans"
+By Beatriz García · 25 March 2020 · Al Día
+https://aldianews.com/articles/culture/social/alcatraz-sioux-who-became-voice-native-americans/58001
+
+"High Times Greats: Interview With John Trudell"
+By Dan Sky · 14 Feb 2020 · High Times
+https://hightimes.com/activism/high-times-greats-interview-with-john-trudell/
+
+### Mission Dolores’ dark legacy for Indians: From salvation to subjugation and death
+
+By Gary Kamiya
+2 November 2019
+San Francsico Chronicle
+
+https://www.sfchronicle.com/chronicle_vault/article/Mission-Dolores-dark-legacy-for-Indians-From-14785648.php
+
+Mission Dolores is by far the oldest and most historically significant
+building in San Francisco. The white adobe church on Dolores Street
+was once celebrated as a testament to the faith and courage of the
+Spanish colonizers who built it — a reverential attitude enshrined in
+the 1894 statue “Early Days,” which depicted a preaching priest
+looming over a crouching Indian.
+
+### Occupy Wounded Knee: A 71-Day Siege and a Forgotten Civil Rights Movement
+
+by Emily Chertoff
+23 October 2012
+The Atlantic
+
+The death of Russell Means serves as a reminder of the vision of the
+American Indian Movement.
+
+https://www.theatlantic.com/national/archive/2012/10/occupy-wounded-knee-a-71-day-siege-and-a-forgotten-civil-rights-movement/263998/
+
+### Standing Rock: Art and Solidarity
+
+By Josh Garrett-Davis · 16 May 2017 · KCET Earth Focus
+
+1. https://www.kcet.org/shows/earth-focus/standing-rock-art-and-solidarity
+1. https://theautry.org/exhibitions/standing-rock-art-and-solidarity
+
+"'A Living, Breathing Movement': An Introduction to the Dakota Access Pipeline Issue"
+by Rohini Walker · 2 May 2017 · KCET Earth Focus
+https://www.kcet.org/shows/earth-focus/a-living-breathing-movement-an-introduction-to-the-dakota-access-pipeline-issue
+
+"Black Elk Was Right"
+By Bernie Hunhoff · 23 March 2012 · South Dakota Magazine
+https://www.southdakotamagazine.com/seventh-generation
+
+"The Shellmound"
+By Fiona "Felix" Thomson · 16 November 2007 · Bay Radical
+http://bayradical.blogspot.com/2007/11/shellmound.html
+
+"Native American Activism: 1960s to Present"
+By Lauren Cooper · 28 Nov 2016 · Zinned Education Project
+https://www.zinnedproject.org/materials/native-american-activism-1960s-to-present/
+
+"Buffy Sainte-Marie and the Universal Soldier"    
+By Kyle Bachan · 13 May 2010 · Gender Across Borders
+https://genderacrossborders.wordpress.com/2010/05/13/buffy-sainte-marie-and-the-universal-soldier/
+
+"History of Survival: A Pine Ridge Example"
+by Desiree Renee Martinez, Gabrielino (Tongva) · 8 October 2003 · Department of Anthropology, Harvard University
+https://www.pbs.org/mattersofrace/essays/essay3_survival.html
+
+
+Books
+-----
+
+https://en.wikipedia.org/wiki/Sing_Down_the_Moon
+
+1. Black Elk, Nicholas (Oglala Sioux) and John G. Neihardt. Black Elk
+   Speaks: Being the Life Story of a Holy Man of the Oglala
+   Sioux. Lincoln: University of Nebraska Press, 1961.
+1. Klein, Laura F. and Lillian A. Ackerman. Women and Power in Native
+   North America. Norman: University of Oklahoma Press, 1995.
+1. Lame Deer, John (Lakota) and Richard Erdoes. Lame Deer, Seeker of
+   Visions. New York: Simon and Schuster, 1972.
+1. Mehl-Madrona, Lewis (Cherokee/Lakota). Coyote Medicine: Lessons
+   from Native American Healing. New York: Fireside, 1997.
+1. Mooney, James, "The Ghost Dance Religion and the Sioux Outbreak of
+   1890"
+
+[ ] Snyder, Gary. "Turtle Island," New York: New Directions, 1974,
+    132pp.    
+    https://archive.org/details/turtleisland00snyd
+[ ] Mooney, James. "The Ghost-dance Religion and the Sioux Outbreak of
+    1890", U.S. GPO, 1896, 598pp.    
+    https://archive.org/details/ghostdancerelig01moongoog
+[ ] Indian Songs Today, issued by the Bureau of Indian Affairs
+    https://archive.org/details/podcast_indian-songs-today_1121382367?sort=-downloads
+[ ] _An Illustrated Guide to American Folklife Center_    
+    https://www.loc.gov/folklife/guide
+
+
+Film
+----
+
+### Young Lakota: A Young Oglala Lakota Woman Faces a Difficult Decision
+
+* https://www.youtube.com/watch?v=3ur92fLrwZE
+* https://www.youtube.com/watch?v=03_lpla4VdU
+
+Independent Lens | Young Lakota | PBS
+
+_A Young Oglala Lakota Woman Faces a Difficult Decision_
+
+In this excerpt from the Independent Lens documentary, Young Lakota,
+Sunny Clifford describes the difficult decision she faces: whether to
+remain on the Pine Ridge Reservation to help improve tribal conditions
+or to leave to pursue opportunities elsewhere.
+
+Aboout the Film
+
+Three young people living in the Pine Ridge Reservation try to forge a
+better future. When the first female President of Oglala Lakota defies
+a South Dakota law criminalizing abortion by vowing to build a women's
+clinic in their sovereign territory, the three young tribe members are
+faced with difficult choices.
+
+### ITVS
+
+https://itvs.org/search?q=trudell
+
+* https://itvs.org/about/pressroom/press-release/rumble-the-indians-who-rocked-the-world-premieres-on-independent-lens-monday-january-21-2019-on-pbs
+* https://itvs.org/about/pressroom/press-release/young-lakota-premieres-on-independent
+
+Movements
+---------
+
+https://www.zinnedproject.org/materials/native-american-activism-1960s-to-present/
+
+* https://en.wikipedia.org/wiki/Dakota_Access_Pipeline_protests
+* https://en.wikipedia.org/wiki/Keystone_Pipeline#Keystone_XL
+* https://en.wikipedia.org/wiki/Idle_No_More
+* https://en.wikipedia.org/wiki/Red_Power_movement
+* Mount Rushmore Occupation
+  https://en.wikipedia.org/wiki/Mount_Rushmore#Controversies
+* https://en.wikipedia.org/wiki/Trail_of_Broken_Treaties
+* https://en.wikipedia.org/wiki/Occupation_of_Alcatraz
+* Survival Schools
+* https://en.wikipedia.org/wiki/Wounded_Knee_incident
+* https://en.wikipedia.org/wiki/American_Indian_Movement
+
+* Every Step A Prayer: Refinery Corridor Healing Walks
+  https://www.youtube.com/watch?v=Cav481SRtok
+* http://www.idlenomoresfbay.org/events.html
+
+----
+
 To be archived, organized, and contextualized...
+---
 
 [ ] _'Going Green' Is Really 'Going Native': Western Apache Chef Nephi Craig_
     https://media.npr.org/assets/img/2016/04/01/nephicraig_photo-by-evansung_sq-2b036685be318170cc91ba8223e6a8756ae4726e-s100-c15.jpg)](https://www.npr.org/sections/codeswitch/2016/04/04/470071043/going-green-is-really-going-native-western-apache-chef-nephi-craig
@@ -9,8 +166,6 @@ To be archived, organized, and contextualized...
    https://www.npr.org/sections/codeswitch/2017/02/18/510241789/seminole-patchwork-admiration-and-appropriation)
 [ ] _Rising: The American Indian Movement and the Third Space of Sovereignty_
     https://muscarelle.wm.edu/rising/relocation/
-[ ] Remembering John Trudell, Voice of the American Indian Movement
-    https://progressive.org/dispatches/remembering-john-trudell-voice-american-indian-movement/
 [ ] Power and Place: Indian Education in America
     https://nycstandswithstandingrock.files.wordpress.com/2016/10/vine-deloria-jr-daniel-r-wildcat-power-and-place-indian-education-in-america.pdf
 [ ] Chief Seattle Speech
@@ -22,32 +177,23 @@ To be archived, organized, and contextualized...
       https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Reading%20the%20Region/Texts%20by%20and%20about%20Natives/Texts/8.html
 [ ] _Over 100 Protesters Block Road to Mt. Rushmore During July 4th Festivities_
     https://unicornriot.ninja/2020/over-100-protesters-block-road-to-mt-rushmore-during-july-4th-festivities/
+[ ] _The Difficult Math Of Being Native American_, NPR Codeswitch
+    https://www.npr.org/sections/codeswitch/2018/02/07/583665568/love-and-blood-quantum-buy-in-or-die-out
+[ ] _Broken Promises On Display At Native American Treaties Exhibit_, NPR Codeswitch    
+    https://www.npr.org/sections/codeswitch/2015/01/18/368559990/broken-promises-on-display-at-native-american-treaties-exhibit
+[ ] Backup US Dept. of Interior's Tribal Documents Archive
+    https://www.doi.gov/ost/tribal_doc_archive?page=29
+
+John Trudell
+
+[ ] Remembering John Trudell, Voice of the American Indian Movement
+    https://progressive.org/dispatches/remembering-john-trudell-voice-american-indian-movement/
 [ ] _What It Means To Be A Human Being_ by John Trudell    
     The Women’s Building, San Francisco
     https://ratical.org/many_worlds/JohnTrudell/HumanBeing.html
 [ ] _Take Back the Earth_: The Empowering Speech of Native American Rights
     Defender John Trudell    
     http://www.thethird-eye.co.uk/john-trudell-speech/
-[ ] _The Difficult Math Of Being Native American_, NPR Codeswitch
-    https://www.npr.org/sections/codeswitch/2018/02/07/583665568/love-and-blood-quantum-buy-in-or-die-out
-[ ] _Broken Promises On Display At Native American Treaties Exhibit_, NPR Codeswitch    
-    https://www.npr.org/sections/codeswitch/2015/01/18/368559990/broken-promises-on-display-at-native-american-treaties-exhibit
-[ ] Ramaytush (rah-my-toosh) Ohlone, the original peoples of the San
-    Francisco Peninsula http://www.ramaytush.com/
-[ ] _Hemp Bound_ (2014) by Doug Fine, Willie Nelson calls his 2014
-    hemp book, Hemp Bound, a must-read for anyone entering the
-    industry, and “a blueprint for the America of the future.
-[ ] Sogorea Te Land Trust    
-    * https://en.wikipedia.org/wiki/Sogorea_Te_Land_Trust
-    * https://sogoreate-landtrust.org/    
-[ ] Backup Leonard Peltier websites
-    * https://leonardpeltier.info/
-    * https://www.facebook.com/LeonardPeltierUSA/
-[ ] Backup US Dept. of Interior's Tribal Documents Archive
-    https://www.doi.gov/ost/tribal_doc_archive?page=29
-
----
-
 [ ] https://en.wikipedia.org/wiki/John_Trudell#Further_reading
     * Lee Kimberly, "Heartspeak from the Spirit Songs of John Trudell, Keith Secola, and Robbie Robertson", Studies in American Indian Literature, JSTOR, Access provided by University of Illinois @ Urbana-Champaign
     * Richard Burke, "What Tribe? Whose Island?", The North American Review, Vol. 255, No. 1 (Spring, 1970), pp. 51–56, JSTOR provided by University of Illinois
@@ -70,27 +216,9 @@ To be archived, organized, and contextualized...
     * https://books.google.com/books/about/Foundations_of_Navajo_Culture.html?id=r8OhHAAACAAJ
 [ ] Finish reading The Politics of Morality    
     https://in.nau.edu/wp-content/uploads/sites/101/2019/09/Smith-2018.pdf
-[ ] Understand the Dept. of the Interior Buyback program (until 2022)    
-    https://www.doi.gov/buybackprogram/about
 
 ----
 
-[ ] Snyder, Gary. "Turtle Island," New York: New Directions, 1974,
-    132pp.    
-    https://archive.org/details/turtleisland00snyd
-[ ] Mooney, James. "The Ghost-dance Religion and the Sioux Outbreak of
-    1890", U.S. GPO, 1896, 598pp.    
-    https://archive.org/details/ghostdancerelig01moongoog
-[ ] Indian Songs Today, issued by the Bureau of Indian Affairs
-    https://archive.org/details/podcast_indian-songs-today_1121382367?sort=-downloads
-[ ] Sign Lanuage
-    * Tomkins, William. "Indian Sign Language," New York: Dover, 1969,
-      130pp. https://archive.org/details/indiansignlangua00tomk
-    * https://plainsindiansignlanguage.com/
-    * https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language
-    * https://www.audicus.com/before-american-sign-language-there-was-native-american-sign-language/
-[ ] _An Illustrated Guide to American Folklife Center_    
-    https://www.loc.gov/folklife/guide
 [ ] Put O.M. Wozencraft's California [Indian
     notice](https://www.youtube.com/watch?v=XAxaeKk_FoA&list=PL_VGIb6g7m5byXFK9BAbYcXoXIykySEkJ)
     in context
@@ -101,12 +229,8 @@ To be archived, organized, and contextualized...
 [ ] Records of the Bureau of Indian Affairs [BIA]
     (Record Group 75) 1793-1989    
     https://www.archives.gov/research/guide-fed-records/groups/075.html
-[ ] Indian Land Tenure Foundation    
-    https://iltf.org/
 [ ] Indian Nations Tribal Sovereignty    
     http://americanindiansource.com/sovereignty.html
-[ ] Selected tribe data    
-    https://docs.google.com/spreadsheets/d/13FZgIL9f8tWP-FKXhLnpROg97FjOSJsoqx3xaOnlx-8/
 [ ] _When the Great Spirit Died_: The Destruction of the California
     Indians, 1850-1860 By William B. Secrest · 2003
 [ ] National Museum of the American Indian    
@@ -130,95 +254,6 @@ To be archived, organized, and contextualized...
 
 ----
 
-### Black Hills Speech (1980) Russell Means
-
-* https://theanarchistlibrary.org/library/russell-means-for-america-to-live-europe-must-die
-* http://mikenormaneconomics.blogspot.com/2014/08/russell-means-for-america-to-live.html
-* https://c21stleft.com/2018/11/17/for-america-to-live-europe-must-die-existential-torpor-versus-modernitys-melting-dialectic-a-critique-of-the-reactionary-outlook-of-the-late-north-american-indian-activist-russ/
-* https://www.youtube.com/watch?v=6Pu1q0am91E
-
-> The only possible opening for a statement of this kind is that I
-> detest writing. The process itself epitomizes the European concept
-> of “legitimate” thinking; what is written has an importance that is
-> denied the spoken. My culture, the Lakota culture, has an oral
-> tradition, so I ordinarily reject writing. It is one of the white
-> world’s ways of destroying the cultures of non-European peoples, the
-> imposing of an abstraction over the spoken relationship of a people.
-
-
-### Mission Dolores’ dark legacy for Indians: From salvation to subjugation and death
-
-By Gary Kamiya
-
-San Francsico Chronicle
-
-2 November 2019
-
-https://www.sfchronicle.com/chronicle_vault/article/Mission-Dolores-dark-legacy-for-Indians-From-14785648.php
-
-Mission Dolores is by far the oldest and most historically significant
-building in San Francisco. The white adobe church on Dolores Street
-was once celebrated as a testament to the faith and courage of the
-Spanish colonizers who built it — a reverential attitude enshrined in
-the 1894 statue “Early Days,” which depicted a preaching priest
-looming over a crouching Indian.
-
-
-### _500 Years of Indigenous Resistance_
-
-![alt](https://images-na.ssl-images-amazon.com/images/I/41hUWrO5AJL._SX313_BO1,204,203,200_.jpg)
-
-1992 by Anonymous, The Anarchist Library
-
-2002 by Gord Hill
-
-An alternative and unorthodox view of the colonization of the Americas
-by Europeans is offered in this concise history. Eurocentric studies
-of the conquest of the Americas present colonization as a civilizing
-force for good, and the native populations as primitive or
-worse. Colonization is seen as a mutually beneficial process, in which
-"civilization” was brought to the natives who in return shared their
-land and cultures. The opposing historical camp views colonization as
-a form of genocide in which the native populations were passive
-victims overwhelmed by European military power. In this fresh
-examination, an activist and historian of native descent argues that
-the colonial powers met resistance from the indigenous inhabitants and
-that these confrontations shaped the forms and extent of
-colonialism. This account encompasses North and South America, the
-development of nation-states, and the resurgence of indigenous
-resistance in the post-World War II era.
-
-* https://archive.org/details/al_Anonymous_500_Years_of_Indigenous_Resistance_a4
-* https://archive.org/details/GordHill500YearsOfIndigenousResistance/
-
-
-### A Forest of Time: American Indian Ways of History
-
-by Peter Nabokov
-
-2002 · Cambridge University Press · 246pp
-
-A study of the many different ways Native American groups have defined
-their histories for their own purposes. Includes bibliographical
-references and index.
-
-Some dynamics of American Indian historicity -- Within reach of
-memory: oral traditions, legends, and history -- Almost timeless
-truths: myth and history -- Commentaries and subversions: memorates,
-jokes, tales, and history -- Anchoring the past in place: geography
-and history -- Memories in things: material culture and Indian
-histories -- Renewing, remembering, and resisting: rituals and history
--- Old stories, new ways: writing, power, and Indian histories --
-Futures of Indian pasts: prophecy and history
-
-https://archive.org/details/forestoftimeamer0000nabo
-
-
-### American Indian Movement
-
-Grand Governing Council http://www.aimovement.org/
-
-
 ### American Indian Cultural Center San Francisco
 
 Since 1968, the purpose of the American Indian Center has been to
@@ -238,7 +273,6 @@ environment.
 
 https://www.aiccsf.org/
 
-
 ### American Indian Cultural District
 
 The American Indian Cultural District of San Francisco is official! On
@@ -256,58 +290,6 @@ https://www.aiccsf.org/updates
 
 ![map](https://static1.squarespace.com/static/5d1664bb41187f00011b9057/t/5e77069d1768932040fbab87/1584858782775/AICD+Proposed+Area+V3+Final-+Castro+Edits.png)
 
-
-### American Indian Movement on the Internet Archive
-
-https://archive.org/search.php?query=American+Indian+Movement
-
-
-### Bay Area American Indian Two-Spirits
-
-https://baaits.org
-
-Bay Area American Indian Two-Spirits (BAAITS) exists to restore and
-recover the role of Two-Spirit people within the American Indian/First
-Nations community by creating a forum for the spiritual, cultural and
-artistic expression of Two-Spirit people.
-
-
-### Bay Area American Indian Two-Spirit Powwow
-
-https://www.baaits.org/powwow
-
-All are welcome to join the Native American two-spirits community for
-the ninth annual “Bay Area American Indian Two-Spirit (BAAITS) Powwow”
-at Fort Mason Center for Arts & Culture. The “Two-Spirit Powwow”
-celebrates traditional Native American culture and also provides a
-gender-affirming experience for the diverse two-spirits community, the
-LGBT community, and allies. The 2020 event honors missing and murdered
-indigenous women.
-
-The free “Two-Spirit Powwow” is open to all (Native American and
-non-Native) and features performers from every tribal nation in
-traditional Native American regalia (clothing), dancing, singing,
-drumming, contests, and joyful celebration. On-site vendors sell
-frybread, buffalo burgers, Native art and jewelry, and other items.
-
-https://fortmason.org/event/baaits-powwow-2020/
-
-
-### Chronology of American Indian History: The Trail of the Wind
-
-by Liz Sonneborn
-
-2001 · Facts On File · 442pp
-
-A year-by-year chronicle of interesting and important moments in
-Indian history, including major wars and battles, federal Indian
-policies and reactions to them, legal rulings, individual
-achievements, protests, migrations, religious movements, and other
-topics. Each event mentioned is followed by a one to two paragraph
-elaboration. Sidebar quotations throughout the volume offer insight
-into people's thoughts and perceptions of important events described.
-
-https://archive.org/details/chronologyofamer0000sonn
 
 ### Congressional Native American Caucus
 
@@ -331,22 +313,6 @@ Native American tribes.
 
 https://mccollum.house.gov/about-betty/committees-caucuses/congressional-native-american-caucus
 
-
-### End of the Trail: American Plains Indian
-
-![alt](https://i.ytimg.com/vi/GmGJlHVpPw8/hqdefault.jpg)
-
-1967 · Educational/Native Americans · 55m
-
-End of the Trail: American Plains Indian reels 1 and 2 Descibes the
-American westward movement and its tragic impact upon the American
-Indian. Discusses the imprint of the West upon the American mind and
-the American legend. Tells the story of the American Plains
-Indians. Narrated by Walter Brennan.
-
-https://archive.org/details/endofthetrailtheamericanplainsindiansreel1
-
-
 ### The Freedom Archives
 
 The Freedom Archives    
@@ -359,35 +325,6 @@ recordings as well as print materials dating primarily from the
 late-1960s to the mid-90s. These collections chronicle the progressive
 history of the Bay Area, the United States, and international
 movements for liberation and social justice.
-
-
-### Great Law of Peace (and the U.S. Constitution)
-
-Some historians, including Donald Grinde of the University at Buffalo,
-The State University of New York, have claimed that the democratic
-ideals of the Gayanashagowa provided a significant inspiration to
-Benjamin Franklin, James Madison and other framers of the
-U.S. Constitution. They contend that the federal structure of the
-U.S. constitution was influenced by the living example of the Iroquois
-confederation, as were notions of individual liberty and the
-separation of powers. [more...](https://en.wikipedia.org/wiki/Great_Law_of_Peace#Influence_on_the_United_States_Constitution)
-
-
-### House Made of Dawn
-
-![alt](https://prodimage.images-bn.com/pimages/9780062909954_p0_v5_s550x406.jpg)
-
-by N. Scott Mamaday
-
-1968 · Novel/Historical Fiction · 
-
-_Pulitzer Prize for Fiction_
-
-House Made of Dawn is a 1968 novel by N. Scott Momaday, widely
-credited as leading the way for the breakthrough of Native American
-literature into the mainstream. It was awarded the Pulitzer Prize for
-Fiction in 1969, and has also been noted for its significance in
-Native American anthropology.
 
 ### Indian Rezervation Blues And More
 
@@ -413,116 +350,59 @@ American roots music.
 * https://www.discogs.com/Various-Indian-Rezervation-Blues-And-More/release/3271453
 
 
-### John Trudell and his Legacy in the Hemp World
+1. Aronilth, Wilson. Foundation of Navajo Culture. Tsaile, Ariz.:
+   Navajo Community College, 1992. Print.
+1. Crow, Dog M, and Richard Erdoes. Lakota Woman: Die Geschichte Einer
+   Sioux-Frau. München: Deutscher Taschenbuch Verlag, 2009. Print.
+1. Eastman, Charles A. Indian Heroes and Great Chieftains. Boston:
+   Little, Brown, and Company, 1918. Print.
+   https://archive.org/details/indianheroes00eastrich/
+1. Eastman, Charles A. Soul of the Indian: An Interpretation. Boston &
+   New York: Houghton Mifflin company, 1911. Print.
+   https://archive.org/details/soulofindianinte00east/
+1. Eastman, Charles A, and Michael O. Fitzgerald. The Essential
+   Charles Eastman (ohiyesa): Light on the Indian World. Bloomington,
+   Ind: World Wisdom, 2007. Print.
+   https://en.wikipedia.org/wiki/The_Essential_Charles_Eastman_(Ohiyesa)
+1. Moquin, Wayne, and Doren C. Van. Great Documents in American Indian
+   History. New York: Da Capo Press, 1995. Print.
+   https://archive.org/details/greatdocumentsin1973moqu/
+1. Sitting, Bull, and Mark Diedrich. Sitting Bull: The Collected
+   Speeches. Rochester, Minn: Coyote Books, 1998. Print.
+   https://www.goodreads.com/book/show/347853.Lakota_Woman
 
-By Marc Grignon
+----
 
-25 Jan 2019
+### A Critical Bibliography on North American Indians for K-12
 
-Also known as the "Young Menominee," Marc Grignon serves as Campaign
-Manager of Hempstead Project Heart. We agitate, educate, and organize
-people and organizations to form coalitions and advocate to catalyze a
-shift in American society that embraces hemp farming, manufacturing
-and entrepreneurship to flourish once again in the United States.
+This bibliography, compiled by the Anthropology Outreach Office of the
+Smithsonian's National Museum of Natural History, is a response to
+these and other teachers' concerns about choosing culturally sensitive
+and historically accurate books for children about American Indians
+and Alaska Natives. Parents and the general public may also find it to
+be a valuable resource for making informed choices about books. The
+antibias guidelines and critiques found here can help readers develop
+an ability to critically evaluate books and teaching curricula and
+provide a foundation by which to assess the value of materials about
+any culture or ethnic group.
 
-https://www.hemphistoryweek.com/post/john-trudell-and-his-legacy-in-the-hemp-world
+As teachers and as parents, we are responsible for what and how we
+teach our students and children. This publication can help guide
+educators in becoming personally responsible for their own ethics of
+education. Creating caring classroom communities that nurture the
+human spirit regardless of ethnicity or other perceived differences is
+the beginning step in building an educational environment that is
+culturally sensitive to all students. Embrace our diversity, for it
+truly is our greatest strength.
 
+http://web.archive.org/web/20050204000945/http://nmnhwww.si.edu/anthro/outreach/Indbibl/bibliogr.html
 
-### _Kill the Indian, Save the Man_
+### National Library of Medicine's Native Voices Suggested Readings
 
-![alt](https://i.pinimg.com/600x315/51/d4/5b/51d45b6aa9aacad4e24c606092ca9d9f.jpg)
-
-by Ward Churchill
-
-2004 · City Lights Books
-
-_Kill the Indian, Save the Man: The Genocidal Impact of American Indian
-Residential Schools_
-
-https://en.wikipedia.org/wiki/Kill_the_Indian,_Save_the_Man
-
-
-### Leonard Peltier
-
-The _International Leonard Peltier Defense Committee_ has a wealth of
-information and media about the Leonard Peltier case.
-
-[Leonard Peltier Films](https://www.whoisleonardpeltier.info/home/resources/multimedia/)
-
-* WARRIOR: The Life of Leonard Peltier 1h 25m
-* Incident at Oglala 1h 32m
-* Attorney Bruce Ellison 2016 1h 11m
-
-_Free Peltier Now_ (http://freepeltiernow.org) original domain appears
-to be parked. See http://web.archive.org/web/*/freepeltiernow.org
-
-
-### Occupy Wounded Knee: A 71-Day Siege and a Forgotten Civil Rights Movement
-
-Emily Chertoff · The Atlantic · 23 October 2012
-
-The death of Russell Means serves as a reminder of the vision of the
-American Indian Movement.
-
-https://www.theatlantic.com/national/archive/2012/10/occupy-wounded-knee-a-71-day-siege-and-a-forgotten-civil-rights-movement/263998/
-
-
-### Peyote Religion
-
-_Peyote religious ceremony way of life — don't sell it. Please protect
-our sacred land where our peyote grows. We need help. We need
-professional people to protect what we believe. We need your respect,
-your honor, to help us._
-
-* American Indian Religious Freedom Act (1978, 1994 Amendments)
-  https://en.wikipedia.org/wiki/American_Indian_Religious_Freedom_Act
-* _Employment Division v. Smith_ (1990)    
-  https://en.wikipedia.org/wiki/Employment_Division_v._Smith
-  _a United States Supreme Court case that held that the state could
-  deny unemployment benefits to a person fired for violating a state
-  prohibition on the use of peyote, even though the use of the drug
-  was part of a religious ritual_
-* Native American Church (1918 founded)    
-  https://en.wikipedia.org/wiki/Native_American_Church
-* _Peyote Religion: A History_ by Omer C. Stewart (1987) University of
-  Oklahoma Press, 454pp.    
-  https://archive.org/details/peyotereligion
-* Peyote Way of Ceremonial Belief (2015) **Dr. Wilson Aronilth, Jr.** ⭐️     
-  https://www.youtube.com/watch?v=rhJYX8umA5E
-* Peyote Way Church of God    
-  https://peyoteway.org/
-
-
-### The Long Death: The Last Days of the Plains Indians
-
-by Ralph K. Andrist    
-
-1969 · Collier Books · 420pp
-
-"A vividly, swiftly paced account of the Plains Indian Wars, and the
-disposession of the Plains Indians in the half century after 1840"
-—The New York Times Book Review
-
-https://archive.org/details/longdeath00ralp
-
-
-### Hempstead Project Heart
-
-Founded by legendary Native poet, philosopher and recording artist
-John Trudell, Hempstead Project HEART is a vehicle to build public
-awareness of the many benefits of growing Industrial Hemp. With a team
-of committed volunteers at his side, notably Anna Owen, Linda Delair
-and Lea Walters, John built Hempstead Project HEART to be a driving
-force to grow the hemp economy in America. From speaking at public
-events to organizing with the California State Grange on Industrial
-Hemp advocacy, John and his Hempstead Project HEART team laid
-important groundwork for public acceptance of hemp in California. In
-November 2016, California re-legalized Industrial Hemp as a commercial
-agricultural crop. This huge step demonstrates the importance of
-education and action in creating positive
-change. [more...](https://www.hempsteadprojectheart.org/our-story)
-
-https://www.hempsteadprojectheart.org/
+* Young Readers & Young Adults    
+  https://www.nlm.nih.gov/nativevoices/resources/suggested-readings-young-readers.html
+* General Public   
+  https://www.nlm.nih.gov/nativevoices/resources/suggested-readings-general-public.html
 
 
 @siznax

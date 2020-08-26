@@ -257,8 +257,21 @@ https://www.youtube.com/watch?v=W5z8OgMfXXc
    acids. Vast networks of power lines criss-cross their land. The
    indians call the transmission towers, White Man's Gods. **75% of
    the Navajo have no electricity themselves.** Vast quantities of
-   water are used in the process of ...
-   (00:38:17)
+   water are used in the process of converting coal to electricity.
+1. Interpreter for Traditinal Hopi Leaders, Thomas Canyacya says, we
+   are facing a dangerous period ahead. If we do not stop, change, and
+   correct some of these wrongdoings now, we are all going to
+   suffer. Either things that we make will overtake us, or nature will
+   take over; earthquake, flood, rain, severe drought, sever winter,
+   lighting destruction, great wind destruction. These things will
+   warn us that we are not following the law of The Great Spirit.
+1. The U.S. Dept. of Interior disregarded the pleas of the elders, and
+   urged tribal council memberss to sign leases that were
+   substantially below market value: 0.4% of the value of their coal,
+   1.3% of the value of their oil, 3.7% of the value of their uranium,
+   and 1.8% of the value of their gas. (00:39:30)
+1. 
+
 
 
 ### John Trudell's Hollywood Career (1989-2012)

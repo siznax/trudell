@@ -1,11 +1,23 @@
-American Indian Movement    
-https://en.wikipedia.org/wiki/American_Indian_Movement
-
 Adam Fortunate Eagle
 
 * https://en.wikipedia.org/wiki/Adam_Fortunate_Eagle
 * https://www.youtube.com/watch?v=0BTakK2HbOQ
 * http://www.lillimar.com/contrar-warrior.html
+
+Arctic National Wildlife Refuge
+
+* Obama Administration's "Protecting the Arctic National Wildlife
+  Refuge" https://www.youtube.com/watch?v=3hey_WIAFVA
+* Wikipedia 
+  https://en.wikipedia.org/wiki/Arctic_National_Wildlife_Refuge
+* U.S. Fish and Wildlife Service
+  https://www.fws.gov/alaska/pages/national-wildlife-refuges
+
+American Indian Movement    
+
+* Grand Governing Council http://www.aimovement.org/
+* Wikipedia https://en.wikipedia.org/wiki/American_Indian_Movement
+* Internet Archive https://archive.org/search.php?query=American+Indian+Movement
 
 Ancestry
 
@@ -69,6 +81,13 @@ Chief Joseph
 * https://en.wikipedia.org/wiki/Chief_Joseph
 * https://en.wikiquote.org/wiki/Chief_Joseph
 
+Conservation
+
+* Environmental Philosophy https://en.wikipedia.org/wiki/Environmental_philosophy
+* https://en.wikipedia.org/wiki/List_of_conservationists
+* Leopold Report https://en.wikipedia.org/wiki/Leopold_Report
+* Wildlife Conservation Society https://www.wcs.org/
+
 Corporations
 
 * Nana Management Services https://www.nmsusa.com/
@@ -78,12 +97,16 @@ Crazy Horse
 * https://en.wikipedia.org/wiki/Crazy_Horse
 * https://en.wikiquote.org/wiki/Crazy_Horse
 
-Death
+Dakota Access Pipeline
+
+* https://en.wikipedia.org/wiki/Dakota_Access_Pipeline
 
 Disease
 
-* https://www.democracynow.org/2020/5/12/cheyenne_river_sioux_coronavirus_checkpoints_south
-* https://www.democracynow.org/2020/4/15/covid_19_navajo_nation_native_americans
+* Coronavirus
+  * https://www.democracynow.org/2020/5/12/cheyenne_river_sioux_coronavirus_checkpoints_south
+  * https://www.democracynow.org/2020/4/15/covid_19_navajo_nation_native_americans
+* Smallpox
 
 Education
 
@@ -91,6 +114,14 @@ Education
   elp improve the quality of life in Indian communities through the
   higher education of Indian people. 
 * https://en.wikipedia.org/wiki/Bureau_of_Indian_Education
+
+Federal Actors
+
+* U.S. Department of the Interior https://www.doi.gov/
+    * Bureau of Land Management 
+    * National Park Service https://nps.gov/
+    * U.S. Fish and Wildlife Service
+    * U.S. Park Police
 
 Gaming
 

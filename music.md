@@ -1,3 +1,32 @@
+* A Tribe Called Red
+    * https://en.wikipedia.org/wiki/We_Are_the_Halluci_Nation
+* Iron Boy Drum Circle
+
+People's Climate Music
+----------------------
+
+People’s Climate Music, an imprint of Hip Hop Caucus’ Think 100%
+MUSIC, is behind the production and release of various climate-focused
+music releases. People’s Climate Music was launched in 2014 to
+mobilize people for the People’s Climate March, when 400,000 people
+took to the streets of New York and millions marched around the world
+to call on world leaders to enact a bold international climate
+agreement. Check out the project that launched it all, the album HOME,
+and our music projects since.
+
+https://think100climate.com/music/peoples-climate-music/
+
+
+Stand With Standing Rock
+------------------------
+
+Stand Up / Stand N Rock #NoDAPL (Official Video)
+2,458,653 views•Dec 4, 2016
+https://www.youtube.com/watch?v=Onyk7guvHK8
+
+
+----
+
 Trudell often used his poetry as lyrics for recordings, and began in
 1982 to set them to traditional American Indian music, which also in
 the 1980s eventually led to the recording of A.K.A Graffiti Man, as

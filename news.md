@@ -1,3 +1,5 @@
+Indian Country
+
 * Argus Leader https://www.argusleader.com/
 * Indian Country Today https://indiancountrytoday.com/
 * Indianz: Native American News & Information https://www.indianz.com/ 
@@ -15,13 +17,22 @@ Allies
 * NPR Code Switch https://www.npr.org/sections/codeswitch/
 * Unicorn Riot https://unicornriot.ninja/ alternative media
 
+National
+
+* NPR Stories about Native Americans
+  https://www.npr.org/tags/127859587/native-americans
+* PBS Native Voices Blog
+  https://www.pbs.org/native-america/blogs/native-voices/
+
 
 Earth Justice
 -------------
 
 The Latest on Tribal & Indigenous Partnerships
 
-
+* https://earthjustice.org/about
+* https://earthjustice.org/library
+* https://earthjustice.org/stories
 
 American Indian Movement
 ------------------------
