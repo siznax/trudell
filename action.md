@@ -3,6 +3,8 @@ Murdoch](images/isaac-murdoch-2017-thunderbird-woman.jpg)
 
 _Thunderbird Woman triptych (2017) by Isaac Murdoch_
 
+Sign the petition to <a href="https://actionnetwork.org/petitions/tell-biden-stop-line-3?source=direct_link&">Stop LINE 3</a>
+
 1. [Abolish Columbus Day](#abolish-columbus-day)
 1. [Clean Up Navajo Land and Water Contaminated by Uranium Mining](#clean-up-navajo-land-and-water-contaminated-by-uranium)
 1. [Make A Promise To Protect](#make-a-promise-to-protect)
@@ -14,6 +16,7 @@ _Thunderbird Woman triptych (2017) by Isaac Murdoch_
 1. [Save the West Berkeley Shellmound](#save-the-west-berkeley-shell-mound)
 1. [Stop Further Construction on Mauna Kea]()
 1. [Stop the Dakota Access Pipeline](#stop-the-dakota-access-pipeline)
+1. [Stop Line 3](#stop-line-3)
 1. [Stop Junípero Serra Sainthood](#stop-junipero-serra-sainthood)
 1. [Support the John Trudell Scholarship and Archive Funds](#support-the-john-trudell-scholarship-and-archive-funds)
 1. [Take the Indigenous Futures Survey](#take-the-indigenous-futures-survey)
@@ -294,6 +297,28 @@ communities and reservations across Indian Country.
 
 * Website http://nativeorganizing.org/
 * Updates http://nativeorganizing.org/updates/
+
+
+Stop LINE 3
+-----------
+
+Since 2014, thousands of Minnesotans have shown up at hearings, talked
+to neighbors, written letters, and organized in their communities to
+oppose Enbridge’s Line 3 tar sands oil pipeline. Line 3 is a clear
+danger to our climate, water, and land in Minnesota, and would
+undermine the Indigenous treaty rights of the Anishinaabe people.
+
+https://www.stopline3.org/take-action
+
+### Water Protector Welcome Center
+
+NEAR MISSISSIPPI RIVER AND LINE 3 CROSSING IN AITKIN COUNTY
+
+We welcome all water protectors and supporters to come to the
+Mississippi River to pray, to witness, and to resist the destruction
+of these public lands and waterways in Anishinaabe territory. 
+
+https://welcomewaterprotectors.com/thegreatriver
 
 
 Stop Further Construction on Mauna Kea
