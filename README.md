@@ -14,6 +14,8 @@ See [Actions You Can Take](action.md)
 
 2000s
 
+* 15 March 2021: Laguna Pueblo U.S. representative from New Mexico Deb Haaland
+  is confirmed by the Senate as Secretary of the Interior
 * 2020: Covid-19 hits indigenous communities the hardest
 * 4 July 2020: Trump [threatens
   protesters](stacks/2020-trump-fourth.md) from the Black Hills of
